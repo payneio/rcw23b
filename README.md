@@ -26,3 +26,8 @@ Then to run, simply:
 ```bash
 ./get_rcw23b.sh
 ```
+
+Dependencies
+------------
+wget
+
