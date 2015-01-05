@@ -1,9 +1,3 @@
-# strip some tags
-s|<HTML[^>]*>\s*||gI
-s|<HEAD[^>]*>\s*||gI
-s|</HEAD>\s*||gI
-s|<BODY[^>]*>\s*||gI
-s|</BODY>\s*||gI
 
 # change to Markdown Styles
 s|\s*<H1>(.*)</H1>|# \1|

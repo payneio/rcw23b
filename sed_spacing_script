@@ -4,9 +4,18 @@ s|<FONT SIZE=3><B><CENTER><a name="rcw23B"><!-- field: Citations -->Title 23B RC
 s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H2><a name="\1">\2</a> \3</H2>|g
 s|<FONT SIZE=3><CENTER><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a></B></CENTER><!-- field: CaptionsTitles --><CENTER><B>([^<]*)</B></CENTER><!-- field: -->|<H2><a name="\1">\2</a> \3</H2>|g
 
-
 # redo internal links
 s|http://apps\.leg\.wa\.gov/RCW/default\.aspx\?cite=23B\.|#rcw23B.|g
+
+# strip some tags
+s|\s*<HTML[^>]*>\s*||gI
+s|\s*<HEAD[^>]*>\s*||gI
+s|\s*</HEAD>\s*||gI
+s|\s*<BODY[^>]*>\s*||gI
+s|\s*</BODY>\s*||gI
+s|\s*<TD>\s*||gI
+s|\s*</TD>\s*| |gI
+s|\s*<TR>\s*|- |g
 
 # introduce some vertical spacing
 s|</HTML>|\n\n|g
@@ -17,6 +26,9 @@ s|</BR>|\n|g
 s|</H1>\s*|</H1>\n\n|g
 s|</H2>\s*|</H2>\n\n|g
 s|</H3>\s*|</H3>\n\n|g
+s|</TR>\s*|\n|g
+s|<TABLE>\s*|\n|gI
+s|</TABLE>\s*|\n|gI
 
 # strip non-breaking spaces
 s|\xC2\xA0[ ]*||g

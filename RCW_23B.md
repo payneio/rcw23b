@@ -1,7 +1,28 @@
 # Washington Business Corporation Act
 
 **Chapters**
- <table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.01](#rcw23B.01)</TD><TD>General provisions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02](#rcw23B.02)</TD><TD>Incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.03](#rcw23B.03)</TD><TD>Powers and purposes.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.04](#rcw23B.04)</TD><TD>Name.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.05](#rcw23B.05)</TD><TD>Office and agent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06](#rcw23B.06)</TD><TD>Shares and distributions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07](#rcw23B.07)</TD><TD>Shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08](#rcw23B.08)</TD><TD>Directors and officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09](#rcw23B.09)</TD><TD>Corporate entities -- Conversions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10](#rcw23B.10)</TD><TD>Amendment of articles of incorporation and bylaws.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11](#rcw23B.11)</TD><TD>Merger and share exchange.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.12](#rcw23B.12)</TD><TD>Sale of assets.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13](#rcw23B.13)</TD><TD>Dissenters' rights.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14](#rcw23B.14)</TD><TD>Dissolution.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15](#rcw23B.15)</TD><TD>Foreign corporations.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16](#rcw23B.16)</TD><TD>Records and reports.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.17](#rcw23B.17)</TD><TD>Miscellaneous provisions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18](#rcw23B.18)</TD><TD>Nonadmitted organizations.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19](#rcw23B.19)</TD><TD>Significant business transactions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25](#rcw23B.25)</TD><TD>Social purpose corporations.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.900](#rcw23B.900)</TD><TD>Construction.</TD> </TR> </table>
+ 
+- [23B.01](#rcw23B.01) General provisions. 
+- [23B.02](#rcw23B.02) Incorporation. 
+- [23B.03](#rcw23B.03) Powers and purposes. 
+- [23B.04](#rcw23B.04) Name. 
+- [23B.05](#rcw23B.05) Office and agent. 
+- [23B.06](#rcw23B.06) Shares and distributions. 
+- [23B.07](#rcw23B.07) Shareholders. 
+- [23B.08](#rcw23B.08) Directors and officers. 
+- [23B.09](#rcw23B.09) Corporate entities -- Conversions. 
+- [23B.10](#rcw23B.10) Amendment of articles of incorporation and bylaws. 
+- [23B.11](#rcw23B.11) Merger and share exchange. 
+- [23B.12](#rcw23B.12) Sale of assets. 
+- [23B.13](#rcw23B.13) Dissenters' rights. 
+- [23B.14](#rcw23B.14) Dissolution. 
+- [23B.15](#rcw23B.15) Foreign corporations. 
+- [23B.16](#rcw23B.16) Records and reports. 
+- [23B.17](#rcw23B.17) Miscellaneous provisions. 
+- [23B.18](#rcw23B.18) Nonadmitted organizations. 
+- [23B.19](#rcw23B.19) Significant business transactions. 
+- [23B.25](#rcw23B.25) Social purpose corporations. 
+- [23B.900](#rcw23B.900) Construction. 
 
 **NOTES:**
 
@@ -53,7 +74,35 @@ Secretary of state, duties: Chapter [43.07](http://apps.leg.wa.gov/RCW/default.a
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.01.010](#rcw23B.01.010)</TD><TD>Short title.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.020](#rcw23B.01.020)</TD><TD>Reservation of power to amend or repeal.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.200](#rcw23B.01.200)</TD><TD>Filing requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.202](#rcw23B.01.202)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.204](#rcw23B.01.204)</TD><TD>Certificate of authority from department of financial institutions -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.210](#rcw23B.01.210)</TD><TD>Forms.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.220](#rcw23B.01.220)</TD><TD>Fees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.230](#rcw23B.01.230)</TD><TD>Effective time and date of record.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.240](#rcw23B.01.240)</TD><TD>Correcting filed records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.250](#rcw23B.01.250)</TD><TD>Filing duty of secretary of state.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.260](#rcw23B.01.260)</TD><TD>Judicial review of secretary of state's refusal to file a record.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.270](#rcw23B.01.270)</TD><TD>Evidentiary effect of copy of filed record.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.280](#rcw23B.01.280)</TD><TD>Certificate of existence or authorization.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.290](#rcw23B.01.290)</TD><TD>Penalty for signing false document.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.300](#rcw23B.01.300)</TD><TD>Powers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.400](#rcw23B.01.400)</TD><TD>Definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.410](#rcw23B.01.410)</TD><TD>Notice.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.420](#rcw23B.01.420)</TD><TD>Notice -- Common address -- Address defined -- Shareholder consent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.500](#rcw23B.01.500)</TD><TD>Domestic corporations -- Notice of due date for payment of annual license fee and filing annual report.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.510](#rcw23B.01.510)</TD><TD>Foreign corporations -- Notice of due date for payment of annual license fee and filing annual report.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.520](#rcw23B.01.520)</TD><TD>Domestic corporations -- Filing and initial license fees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.530](#rcw23B.01.530)</TD><TD>Domestic corporations -- Inactive corporation defined -- Annual license fee.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.540](#rcw23B.01.540)</TD><TD>Foreign corporations -- Filing and license fees on qualification.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.550](#rcw23B.01.550)</TD><TD>Foreign corporations -- Annual license fees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.560](#rcw23B.01.560)</TD><TD>License fees for reinstated corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.570](#rcw23B.01.570)</TD><TD>Penalty for nonpayment of annual corporate license fees and failure to file a substantially complete annual report -- Payment of delinquent fees -- Rules.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.580](#rcw23B.01.580)</TD><TD>Waiver of penalty fees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.01.590](#rcw23B.01.590)</TD><TD>Public service companies entitled to deductions.</TD> </TR> </table> 
+
+- [23B.01.010](#rcw23B.01.010) Short title. 
+- [23B.01.020](#rcw23B.01.020) Reservation of power to amend or repeal. 
+- [23B.01.200](#rcw23B.01.200) Filing requirements. 
+- [23B.01.202](#rcw23B.01.202) Certificate of authority as insurance company -- Filing of records. 
+- [23B.01.204](#rcw23B.01.204) Certificate of authority from department of financial institutions -- Filing of records. 
+- [23B.01.210](#rcw23B.01.210) Forms. 
+- [23B.01.220](#rcw23B.01.220) Fees. 
+- [23B.01.230](#rcw23B.01.230) Effective time and date of record. 
+- [23B.01.240](#rcw23B.01.240) Correcting filed records. 
+- [23B.01.250](#rcw23B.01.250) Filing duty of secretary of state. 
+- [23B.01.260](#rcw23B.01.260) Judicial review of secretary of state's refusal to file a record. 
+- [23B.01.270](#rcw23B.01.270) Evidentiary effect of copy of filed record. 
+- [23B.01.280](#rcw23B.01.280) Certificate of existence or authorization. 
+- [23B.01.290](#rcw23B.01.290) Penalty for signing false document. 
+- [23B.01.300](#rcw23B.01.300) Powers. 
+- [23B.01.400](#rcw23B.01.400) Definitions. 
+- [23B.01.410](#rcw23B.01.410) Notice. 
+- [23B.01.420](#rcw23B.01.420) Notice -- Common address -- Address defined -- Shareholder consent. 
+- [23B.01.500](#rcw23B.01.500) Domestic corporations -- Notice of due date for payment of annual license fee and filing annual report. 
+- [23B.01.510](#rcw23B.01.510) Foreign corporations -- Notice of due date for payment of annual license fee and filing annual report. 
+- [23B.01.520](#rcw23B.01.520) Domestic corporations -- Filing and initial license fees. 
+- [23B.01.530](#rcw23B.01.530) Domestic corporations -- Inactive corporation defined -- Annual license fee. 
+- [23B.01.540](#rcw23B.01.540) Foreign corporations -- Filing and license fees on qualification. 
+- [23B.01.550](#rcw23B.01.550) Foreign corporations -- Annual license fees. 
+- [23B.01.560](#rcw23B.01.560) License fees for reinstated corporation. 
+- [23B.01.570](#rcw23B.01.570) Penalty for nonpayment of annual corporate license fees and failure to file a substantially complete annual report -- Payment of delinquent fees -- Rules. 
+- [23B.01.580](#rcw23B.01.580) Waiver of penalty fees. 
+- [23B.01.590](#rcw23B.01.590) Public service companies entitled to deductions. 
 
 ## <a name="rcw23B.01.010">RCW 23B.01.010</a> Short title.
 
@@ -587,7 +636,15 @@ It shall be the duty of the commission to furnish to the secretary of state on o
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.02.010](#rcw23B.02.010)</TD><TD>Incorporators.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.020](#rcw23B.02.020)</TD><TD>Articles of incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.030](#rcw23B.02.030)</TD><TD>Effect of filing.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.032](#rcw23B.02.032)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.040](#rcw23B.02.040)</TD><TD>Liability for preincorporation transactions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.050](#rcw23B.02.050)</TD><TD>Organization of corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.060](#rcw23B.02.060)</TD><TD>Bylaws.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.02.070](#rcw23B.02.070)</TD><TD>Emergency bylaws.</TD> </TR> </table> 
+
+- [23B.02.010](#rcw23B.02.010) Incorporators. 
+- [23B.02.020](#rcw23B.02.020) Articles of incorporation. 
+- [23B.02.030](#rcw23B.02.030) Effect of filing. 
+- [23B.02.032](#rcw23B.02.032) Certificate of authority as insurance company -- Filing of records. 
+- [23B.02.040](#rcw23B.02.040) Liability for preincorporation transactions. 
+- [23B.02.050](#rcw23B.02.050) Organization of corporation. 
+- [23B.02.060](#rcw23B.02.060) Bylaws. 
+- [23B.02.070](#rcw23B.02.070) Emergency bylaws. 
 
 ## <a name="rcw23B.02.010">RCW 23B.02.010</a> Incorporators.
 
@@ -867,7 +924,11 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.03.010](#rcw23B.03.010)</TD><TD>Purposes.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.03.020](#rcw23B.03.020)</TD><TD>General powers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.03.030](#rcw23B.03.030)</TD><TD>Emergency powers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.03.040](#rcw23B.03.040)</TD><TD>Ultra vires.</TD> </TR> </table> 
+
+- [23B.03.010](#rcw23B.03.010) Purposes. 
+- [23B.03.020](#rcw23B.03.020) General powers. 
+- [23B.03.030](#rcw23B.03.030) Emergency powers. 
+- [23B.03.040](#rcw23B.03.040) Ultra vires. 
 
 ## <a name="rcw23B.03.010">RCW 23B.03.010</a> Purposes.
 
@@ -963,7 +1024,12 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.04.010](#rcw23B.04.010)</TD><TD>Corporate name.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.04.020](#rcw23B.04.020)</TD><TD>Reserved name.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.04.030](#rcw23B.04.030)</TD><TD>Registered name.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.04.035](#rcw23B.04.035)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.04.037](#rcw23B.04.037)</TD><TD>Certificate of authority as insurance company -- Registration or reservation of name.</TD> </TR> </table> 
+
+- [23B.04.010](#rcw23B.04.010) Corporate name. 
+- [23B.04.020](#rcw23B.04.020) Reserved name. 
+- [23B.04.030](#rcw23B.04.030) Registered name. 
+- [23B.04.035](#rcw23B.04.035) Certificate of authority as insurance company -- Filing of records. 
+- [23B.04.037](#rcw23B.04.037) Certificate of authority as insurance company -- Registration or reservation of name. 
 
 ## <a name="rcw23B.04.010">RCW 23B.04.010</a> Corporate name.
 
@@ -1073,7 +1139,12 @@ For those corporations that intend to apply for a certificate of authority from 
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.05.010](#rcw23B.05.010)</TD><TD>Registered office and registered agent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.05.020](#rcw23B.05.020)</TD><TD>Change of registered office or registered agent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.05.030](#rcw23B.05.030)</TD><TD>Resignation of registered agent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.05.040](#rcw23B.05.040)</TD><TD>Service on corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.05.050](#rcw23B.05.050)</TD><TD>Annual meeting of shareholders -- Limitations -- Terms of directors.</TD> </TR> </table> 
+
+- [23B.05.010](#rcw23B.05.010) Registered office and registered agent. 
+- [23B.05.020](#rcw23B.05.020) Change of registered office or registered agent. 
+- [23B.05.030](#rcw23B.05.030) Resignation of registered agent. 
+- [23B.05.040](#rcw23B.05.040) Service on corporation. 
+- [23B.05.050](#rcw23B.05.050) Annual meeting of shareholders -- Limitations -- Terms of directors. 
 
 ## <a name="rcw23B.05.010">RCW 23B.05.010</a> Registered office and registered agent.
 
@@ -1159,7 +1230,23 @@ A corporation registered under the investment company act of 1940 that limits th
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.06.010](#rcw23B.06.010)</TD><TD>Authorized shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.020](#rcw23B.06.020)</TD><TD>Terms of class or series.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.030](#rcw23B.06.030)</TD><TD>Issued and outstanding shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.040](#rcw23B.06.040)</TD><TD>Fractional shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.200](#rcw23B.06.200)</TD><TD>Subscription for shares before incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.210](#rcw23B.06.210)</TD><TD>Issuance of shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.220](#rcw23B.06.220)</TD><TD>Liability of shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.230](#rcw23B.06.230)</TD><TD>Share dividends.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.240](#rcw23B.06.240)</TD><TD>Share options.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.250](#rcw23B.06.250)</TD><TD>Certificates.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.260](#rcw23B.06.260)</TD><TD>Shares without certificates.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.270](#rcw23B.06.270)</TD><TD>Restriction on transfer of shares and other securities.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.280](#rcw23B.06.280)</TD><TD>Expense of issue.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.300](#rcw23B.06.300)</TD><TD>Shareholders' preemptive rights.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.310](#rcw23B.06.310)</TD><TD>Corporation's acquisition of its own shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.06.400](#rcw23B.06.400)</TD><TD>Distributions to shareholders.</TD> </TR> </table> 
+
+- [23B.06.010](#rcw23B.06.010) Authorized shares. 
+- [23B.06.020](#rcw23B.06.020) Terms of class or series. 
+- [23B.06.030](#rcw23B.06.030) Issued and outstanding shares. 
+- [23B.06.040](#rcw23B.06.040) Fractional shares. 
+- [23B.06.200](#rcw23B.06.200) Subscription for shares before incorporation. 
+- [23B.06.210](#rcw23B.06.210) Issuance of shares. 
+- [23B.06.220](#rcw23B.06.220) Liability of shareholders. 
+- [23B.06.230](#rcw23B.06.230) Share dividends. 
+- [23B.06.240](#rcw23B.06.240) Share options. 
+- [23B.06.250](#rcw23B.06.250) Certificates. 
+- [23B.06.260](#rcw23B.06.260) Shares without certificates. 
+- [23B.06.270](#rcw23B.06.270) Restriction on transfer of shares and other securities. 
+- [23B.06.280](#rcw23B.06.280) Expense of issue. 
+- [23B.06.300](#rcw23B.06.300) Shareholders' preemptive rights. 
+- [23B.06.310](#rcw23B.06.310) Corporation's acquisition of its own shares. 
+- [23B.06.400](#rcw23B.06.400) Distributions to shareholders. 
 
 ## <a name="rcw23B.06.010">RCW 23B.06.010</a> Authorized shares.
 
@@ -1449,7 +1536,29 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.07.010](#rcw23B.07.010)</TD><TD>Annual meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.020](#rcw23B.07.020)</TD><TD>Special meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.030](#rcw23B.07.030)</TD><TD>Court-ordered meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.035](#rcw23B.07.035)</TD><TD>Inspectors to act at meetings -- Appointment -- Duties -- Certain corporations.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.040](#rcw23B.07.040)</TD><TD>Corporate action without meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.050](#rcw23B.07.050)</TD><TD>Notice of meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.060](#rcw23B.07.060)</TD><TD>Waiver of notice.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.070](#rcw23B.07.070)</TD><TD>Record date.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.080](#rcw23B.07.080)</TD><TD>Shareholder participation by means of communication equipment.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.200](#rcw23B.07.200)</TD><TD>Shareholders' list for meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.210](#rcw23B.07.210)</TD><TD>Voting entitlement of shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.220](#rcw23B.07.220)</TD><TD>Proxies.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.230](#rcw23B.07.230)</TD><TD>Shares held by nominees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.240](#rcw23B.07.240)</TD><TD>Corporation's acceptance of votes.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.250](#rcw23B.07.250)</TD><TD>Quorum and voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.260](#rcw23B.07.260)</TD><TD>Corporate action by single and multiple voting groups.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.270](#rcw23B.07.270)</TD><TD>Greater or lesser quorum or voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.280](#rcw23B.07.280)</TD><TD>Voting for directors -- Cumulative voting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.300](#rcw23B.07.300)</TD><TD>Voting trusts.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.310](#rcw23B.07.310)</TD><TD>Voting agreements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.320](#rcw23B.07.320)</TD><TD>Agreements among shareholders -- Acquisition of shares after agreement.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.07.400](#rcw23B.07.400)</TD><TD>Derivative proceedings procedure.</TD> </TR> </table> 
+
+- [23B.07.010](#rcw23B.07.010) Annual meeting. 
+- [23B.07.020](#rcw23B.07.020) Special meeting. 
+- [23B.07.030](#rcw23B.07.030) Court-ordered meeting. 
+- [23B.07.035](#rcw23B.07.035) Inspectors to act at meetings -- Appointment -- Duties -- Certain corporations. 
+- [23B.07.040](#rcw23B.07.040) Corporate action without meeting. 
+- [23B.07.050](#rcw23B.07.050) Notice of meeting. 
+- [23B.07.060](#rcw23B.07.060) Waiver of notice. 
+- [23B.07.070](#rcw23B.07.070) Record date. 
+- [23B.07.080](#rcw23B.07.080) Shareholder participation by means of communication equipment. 
+- [23B.07.200](#rcw23B.07.200) Shareholders' list for meeting. 
+- [23B.07.210](#rcw23B.07.210) Voting entitlement of shares. 
+- [23B.07.220](#rcw23B.07.220) Proxies. 
+- [23B.07.230](#rcw23B.07.230) Shares held by nominees. 
+- [23B.07.240](#rcw23B.07.240) Corporation's acceptance of votes. 
+- [23B.07.250](#rcw23B.07.250) Quorum and voting requirements. 
+- [23B.07.260](#rcw23B.07.260) Corporate action by single and multiple voting groups. 
+- [23B.07.270](#rcw23B.07.270) Greater or lesser quorum or voting requirements. 
+- [23B.07.280](#rcw23B.07.280) Voting for directors -- Cumulative voting. 
+- [23B.07.300](#rcw23B.07.300) Voting trusts. 
+- [23B.07.310](#rcw23B.07.310) Voting agreements. 
+- [23B.07.320](#rcw23B.07.320) Agreements among shareholders -- Acquisition of shares after agreement. 
+- [23B.07.400](#rcw23B.07.400) Derivative proceedings procedure. 
 
 ## <a name="rcw23B.07.010">RCW 23B.07.010</a> Annual meeting.
 
@@ -1837,7 +1946,50 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.08.010](#rcw23B.08.010)</TD><TD>Requirement for and duties of board of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.020](#rcw23B.08.020)</TD><TD>Qualifications of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.030](#rcw23B.08.030)</TD><TD>Number and election of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.040](#rcw23B.08.040)</TD><TD>Election of directors by certain classes or series of shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.050](#rcw23B.08.050)</TD><TD>Terms of directors -- Generally.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.060](#rcw23B.08.060)</TD><TD>Staggered terms for directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.070](#rcw23B.08.070)</TD><TD>Resignation of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.080](#rcw23B.08.080)</TD><TD>Removal of directors by shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.090](#rcw23B.08.090)</TD><TD>Removal of directors by judicial proceeding.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.100](#rcw23B.08.100)</TD><TD>Vacancy on board of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.110](#rcw23B.08.110)</TD><TD>Compensation of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.200](#rcw23B.08.200)</TD><TD>Regular or special meetings of the board.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.210](#rcw23B.08.210)</TD><TD>Corporate action without meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.220](#rcw23B.08.220)</TD><TD>Notice of meeting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.230](#rcw23B.08.230)</TD><TD>Waiver of notice.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.240](#rcw23B.08.240)</TD><TD>Quorum and voting.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.245](#rcw23B.08.245)</TD><TD>Corporate action -- Vote of shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.250](#rcw23B.08.250)</TD><TD>Committees.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.300](#rcw23B.08.300)</TD><TD>General standards for directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.310](#rcw23B.08.310)</TD><TD>Liability for unlawful distributions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.320](#rcw23B.08.320)</TD><TD>Limitation on liability of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.400](#rcw23B.08.400)</TD><TD>Officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.410](#rcw23B.08.410)</TD><TD>Duties of officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.420](#rcw23B.08.420)</TD><TD>Standards of conduct for officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.430](#rcw23B.08.430)</TD><TD>Resignation and removal of officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.440](#rcw23B.08.440)</TD><TD>Contract rights of officers.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.500](#rcw23B.08.500)</TD><TD>Indemnification definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.510](#rcw23B.08.510)</TD><TD>Authority to indemnify.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.520](#rcw23B.08.520)</TD><TD>Mandatory indemnification.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.530](#rcw23B.08.530)</TD><TD>Advance for expenses.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.540](#rcw23B.08.540)</TD><TD>Court-ordered indemnification.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.550](#rcw23B.08.550)</TD><TD>Determination and authorization of indemnification.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.560](#rcw23B.08.560)</TD><TD>Shareholder authorized indemnification and advancement of expenses.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.570](#rcw23B.08.570)</TD><TD>Indemnification of officers, employees, and agents.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.580](#rcw23B.08.580)</TD><TD>Insurance.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.590](#rcw23B.08.590)</TD><TD>Validity of indemnification or advance for expenses.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.600](#rcw23B.08.600)</TD><TD>Report to shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.603](#rcw23B.08.603)</TD><TD>Indemnification or advance for expenses -- Later amendment or repeal of subject provision.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.700](#rcw23B.08.700)</TD><TD>Definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.710](#rcw23B.08.710)</TD><TD>Judicial action.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.720](#rcw23B.08.720)</TD><TD>Directors' action.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.730](#rcw23B.08.730)</TD><TD>Shareholders' action.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.08.900](#rcw23B.08.900)</TD><TD>Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.</TD> </TR> </table> 
+
+- [23B.08.010](#rcw23B.08.010) Requirement for and duties of board of directors. 
+- [23B.08.020](#rcw23B.08.020) Qualifications of directors. 
+- [23B.08.030](#rcw23B.08.030) Number and election of directors. 
+- [23B.08.040](#rcw23B.08.040) Election of directors by certain classes or series of shares. 
+- [23B.08.050](#rcw23B.08.050) Terms of directors -- Generally. 
+- [23B.08.060](#rcw23B.08.060) Staggered terms for directors. 
+- [23B.08.070](#rcw23B.08.070) Resignation of directors. 
+- [23B.08.080](#rcw23B.08.080) Removal of directors by shareholders. 
+- [23B.08.090](#rcw23B.08.090) Removal of directors by judicial proceeding. 
+- [23B.08.100](#rcw23B.08.100) Vacancy on board of directors. 
+- [23B.08.110](#rcw23B.08.110) Compensation of directors. 
+- [23B.08.200](#rcw23B.08.200) Regular or special meetings of the board. 
+- [23B.08.210](#rcw23B.08.210) Corporate action without meeting. 
+- [23B.08.220](#rcw23B.08.220) Notice of meeting. 
+- [23B.08.230](#rcw23B.08.230) Waiver of notice. 
+- [23B.08.240](#rcw23B.08.240) Quorum and voting. 
+- [23B.08.245](#rcw23B.08.245) Corporate action -- Vote of shareholders. 
+- [23B.08.250](#rcw23B.08.250) Committees. 
+- [23B.08.300](#rcw23B.08.300) General standards for directors. 
+- [23B.08.310](#rcw23B.08.310) Liability for unlawful distributions. 
+- [23B.08.320](#rcw23B.08.320) Limitation on liability of directors. 
+- [23B.08.400](#rcw23B.08.400) Officers. 
+- [23B.08.410](#rcw23B.08.410) Duties of officers. 
+- [23B.08.420](#rcw23B.08.420) Standards of conduct for officers. 
+- [23B.08.430](#rcw23B.08.430) Resignation and removal of officers. 
+- [23B.08.440](#rcw23B.08.440) Contract rights of officers. 
+- [23B.08.500](#rcw23B.08.500) Indemnification definitions. 
+- [23B.08.510](#rcw23B.08.510) Authority to indemnify. 
+- [23B.08.520](#rcw23B.08.520) Mandatory indemnification. 
+- [23B.08.530](#rcw23B.08.530) Advance for expenses. 
+- [23B.08.540](#rcw23B.08.540) Court-ordered indemnification. 
+- [23B.08.550](#rcw23B.08.550) Determination and authorization of indemnification. 
+- [23B.08.560](#rcw23B.08.560) Shareholder authorized indemnification and advancement of expenses. 
+- [23B.08.570](#rcw23B.08.570) Indemnification of officers, employees, and agents. 
+- [23B.08.580](#rcw23B.08.580) Insurance. 
+- [23B.08.590](#rcw23B.08.590) Validity of indemnification or advance for expenses. 
+- [23B.08.600](#rcw23B.08.600) Report to shareholders. 
+- [23B.08.603](#rcw23B.08.603) Indemnification or advance for expenses -- Later amendment or repeal of subject provision. 
+- [23B.08.700](#rcw23B.08.700) Definitions. 
+- [23B.08.710](#rcw23B.08.710) Judicial action. 
+- [23B.08.720](#rcw23B.08.720) Directors' action. 
+- [23B.08.730](#rcw23B.08.730) Shareholders' action. 
+- [23B.08.900](#rcw23B.08.900) Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521. 
 
 ## <a name="rcw23B.08.010">RCW 23B.08.010</a> Requirement for and duties of board of directors.
 
@@ -2375,7 +2527,14 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.09.005](#rcw23B.09.005)</TD><TD>Definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.010](#rcw23B.09.010)</TD><TD>Entity conversion.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.020](#rcw23B.09.020)</TD><TD>Plan of entity conversion.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.030](#rcw23B.09.030)</TD><TD>Approval of a plan of entity conversion.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.040](#rcw23B.09.040)</TD><TD>Articles of entity conversion.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.050](#rcw23B.09.050)</TD><TD>Effect of entity conversion.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.09.060](#rcw23B.09.060)</TD><TD>Abandonment of entity conversion.</TD> </TR> </table> 
+
+- [23B.09.005](#rcw23B.09.005) Definitions. 
+- [23B.09.010](#rcw23B.09.010) Entity conversion. 
+- [23B.09.020](#rcw23B.09.020) Plan of entity conversion. 
+- [23B.09.030](#rcw23B.09.030) Approval of a plan of entity conversion. 
+- [23B.09.040](#rcw23B.09.040) Articles of entity conversion. 
+- [23B.09.050](#rcw23B.09.050) Effect of entity conversion. 
+- [23B.09.060](#rcw23B.09.060) Abandonment of entity conversion. 
 
 ## <a name="rcw23B.09.005">RCW 23B.09.005</a> Definitions.
 
@@ -2537,7 +2696,20 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.10.010](#rcw23B.10.010)</TD><TD>Authority to amend articles of incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.012](#rcw23B.10.012)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.020](#rcw23B.10.020)</TD><TD>Amendment of articles of incorporation by board of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.030](#rcw23B.10.030)</TD><TD>Amendment of articles of incorporation by board of directors and shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.040](#rcw23B.10.040)</TD><TD>Voting on amendments to articles of incorporation by voting groups.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.050](#rcw23B.10.050)</TD><TD>Amendment of articles of incorporation before issuance of shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.060](#rcw23B.10.060)</TD><TD>Articles of amendment.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.070](#rcw23B.10.070)</TD><TD>Restated articles of incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.080](#rcw23B.10.080)</TD><TD>Amendment of articles of incorporation pursuant to reorganization.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.090](#rcw23B.10.090)</TD><TD>Effect of amendment of articles of incorporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.200](#rcw23B.10.200)</TD><TD>Amendment of bylaws by board of directors or shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.205](#rcw23B.10.205)</TD><TD>Amendment of bylaws -- Election of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.10.210](#rcw23B.10.210)</TD><TD>Bylaw increasing quorum or voting requirements for directors.</TD> </TR> </table> 
+
+- [23B.10.010](#rcw23B.10.010) Authority to amend articles of incorporation. 
+- [23B.10.012](#rcw23B.10.012) Certificate of authority as insurance company -- Filing of records. 
+- [23B.10.020](#rcw23B.10.020) Amendment of articles of incorporation by board of directors. 
+- [23B.10.030](#rcw23B.10.030) Amendment of articles of incorporation by board of directors and shareholders. 
+- [23B.10.040](#rcw23B.10.040) Voting on amendments to articles of incorporation by voting groups. 
+- [23B.10.050](#rcw23B.10.050) Amendment of articles of incorporation before issuance of shares. 
+- [23B.10.060](#rcw23B.10.060) Articles of amendment. 
+- [23B.10.070](#rcw23B.10.070) Restated articles of incorporation. 
+- [23B.10.080](#rcw23B.10.080) Amendment of articles of incorporation pursuant to reorganization. 
+- [23B.10.090](#rcw23B.10.090) Effect of amendment of articles of incorporation. 
+- [23B.10.200](#rcw23B.10.200) Amendment of bylaws by board of directors or shareholders. 
+- [23B.10.205](#rcw23B.10.205) Amendment of bylaws -- Election of directors. 
+- [23B.10.210](#rcw23B.10.210) Bylaw increasing quorum or voting requirements for directors. 
 
 ## <a name="rcw23B.10.010">RCW 23B.10.010</a> Authority to amend articles of incorporation.
 
@@ -2753,7 +2925,19 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.11.010](#rcw23B.11.010)</TD><TD>Merger.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.020](#rcw23B.11.020)</TD><TD>Share exchange.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.030](#rcw23B.11.030)</TD><TD>Approval of plan of merger or share exchange.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.035](#rcw23B.11.035)</TD><TD>Plan of merger or share exchange -- Separate voting group.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.040](#rcw23B.11.040)</TD><TD>Merger of subsidiary.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.050](#rcw23B.11.050)</TD><TD>Articles of merger or share exchange.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.060](#rcw23B.11.060)</TD><TD>Effect of merger or share exchange.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.070](#rcw23B.11.070)</TD><TD>Merger or share exchange with foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.080](#rcw23B.11.080)</TD><TD>Merger.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.090](#rcw23B.11.090)</TD><TD>Articles of merger.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.100](#rcw23B.11.100)</TD><TD>Merger -- Corporation is surviving entity.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.11.110](#rcw23B.11.110)</TD><TD>Merger with foreign and domestic entities -- Effect.</TD> </TR> </table> 
+
+- [23B.11.010](#rcw23B.11.010) Merger. 
+- [23B.11.020](#rcw23B.11.020) Share exchange. 
+- [23B.11.030](#rcw23B.11.030) Approval of plan of merger or share exchange. 
+- [23B.11.035](#rcw23B.11.035) Plan of merger or share exchange -- Separate voting group. 
+- [23B.11.040](#rcw23B.11.040) Merger of subsidiary. 
+- [23B.11.050](#rcw23B.11.050) Articles of merger or share exchange. 
+- [23B.11.060](#rcw23B.11.060) Effect of merger or share exchange. 
+- [23B.11.070](#rcw23B.11.070) Merger or share exchange with foreign corporation. 
+- [23B.11.080](#rcw23B.11.080) Merger. 
+- [23B.11.090](#rcw23B.11.090) Articles of merger. 
+- [23B.11.100](#rcw23B.11.100) Merger -- Corporation is surviving entity. 
+- [23B.11.110](#rcw23B.11.110) Merger with foreign and domestic entities -- Effect. 
 
 ## <a name="rcw23B.11.010">RCW 23B.11.010</a> Merger.
 
@@ -3043,7 +3227,9 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.12.010](#rcw23B.12.010)</TD><TD>Sale of assets in usual course of business or for benefit of creditors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.12.020](#rcw23B.12.020)</TD><TD>Sale of assets other than in the regular course of business.</TD> </TR> </table> 
+
+- [23B.12.010](#rcw23B.12.010) Sale of assets in usual course of business or for benefit of creditors. 
+- [23B.12.020](#rcw23B.12.020) Sale of assets other than in the regular course of business. 
 
 ## <a name="rcw23B.12.010">RCW 23B.12.010</a> Sale of assets in usual course of business or for benefit of creditors.
 
@@ -3093,7 +3279,21 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.13.010](#rcw23B.13.010)</TD><TD>Definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.020](#rcw23B.13.020)</TD><TD>Right to dissent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.030](#rcw23B.13.030)</TD><TD>Dissent by nominees and beneficial owners.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.200](#rcw23B.13.200)</TD><TD>Notice of dissenters' rights.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.210](#rcw23B.13.210)</TD><TD>Notice of intent to demand payment.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.220](#rcw23B.13.220)</TD><TD>Dissenters' rights -- Notice.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.230](#rcw23B.13.230)</TD><TD>Duty to demand payment.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.240](#rcw23B.13.240)</TD><TD>Share restrictions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.250](#rcw23B.13.250)</TD><TD>Payment.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.260](#rcw23B.13.260)</TD><TD>Failure to take corporate action.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.270](#rcw23B.13.270)</TD><TD>After-acquired shares.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.280](#rcw23B.13.280)</TD><TD>Procedure if shareholder dissatisfied with payment or offer.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.300](#rcw23B.13.300)</TD><TD>Court action.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.13.310](#rcw23B.13.310)</TD><TD>Court costs and counsel fees.</TD> </TR> </table> 
+
+- [23B.13.010](#rcw23B.13.010) Definitions. 
+- [23B.13.020](#rcw23B.13.020) Right to dissent. 
+- [23B.13.030](#rcw23B.13.030) Dissent by nominees and beneficial owners. 
+- [23B.13.200](#rcw23B.13.200) Notice of dissenters' rights. 
+- [23B.13.210](#rcw23B.13.210) Notice of intent to demand payment. 
+- [23B.13.220](#rcw23B.13.220) Dissenters' rights -- Notice. 
+- [23B.13.230](#rcw23B.13.230) Duty to demand payment. 
+- [23B.13.240](#rcw23B.13.240) Share restrictions. 
+- [23B.13.250](#rcw23B.13.250) Payment. 
+- [23B.13.260](#rcw23B.13.260) Failure to take corporate action. 
+- [23B.13.270](#rcw23B.13.270) After-acquired shares. 
+- [23B.13.280](#rcw23B.13.280) Procedure if shareholder dissatisfied with payment or offer. 
+- [23B.13.300](#rcw23B.13.300) Court action. 
+- [23B.13.310](#rcw23B.13.310) Court costs and counsel fees. 
 
 ## <a name="rcw23B.13.010">RCW 23B.13.010</a> Definitions.
 
@@ -3307,7 +3507,28 @@ As used in this chapter:
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.14.010](#rcw23B.14.010)</TD><TD>Dissolution by initial directors, incorporators, or board of directors.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.020](#rcw23B.14.020)</TD><TD>Dissolution by board of directors and shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.030](#rcw23B.14.030)</TD><TD>Articles of dissolution -- Publication of notice.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.040](#rcw23B.14.040)</TD><TD>Revocation of dissolution.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.050](#rcw23B.14.050)</TD><TD>Effect of dissolution.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.060](#rcw23B.14.060)</TD><TD>Known claims against a dissolved corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.065](#rcw23B.14.065)</TD><TD>Form and adequacy of satisfaction of claims -- Application to and determination by court.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.070](#rcw23B.14.070)</TD><TD>Holder of an unpaid claim -- Proceeding against dissolved corporation to collect amount of claim.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.200](#rcw23B.14.200)</TD><TD>Administrative dissolution -- Grounds.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.203](#rcw23B.14.203)</TD><TD>Administrative dissolution or revocation of a certificate of authority -- Corporation name not distinguishable from name of governmental entity -- Application by governmental entity.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.210](#rcw23B.14.210)</TD><TD>Administrative dissolution -- Procedure and effect.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.220](#rcw23B.14.220)</TD><TD>Reinstatement following administrative dissolution -- Application.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.300](#rcw23B.14.300)</TD><TD>Judicial dissolution -- Grounds.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.310](#rcw23B.14.310)</TD><TD>Judicial dissolution or supervision of voluntary dissolution -- Procedure.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.320](#rcw23B.14.320)</TD><TD>General or custodial receivership.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.330](#rcw23B.14.330)</TD><TD>Decree of dissolution -- Other orders, decrees, and injunctions -- Revenue clearance certificate.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.340](#rcw23B.14.340)</TD><TD>Survival of remedy after dissolution.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.390](#rcw23B.14.390)</TD><TD>Secretary of state -- List of corporations dissolved.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.392](#rcw23B.14.392)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.394](#rcw23B.14.394)</TD><TD>Certificate of authority from department of financial institutions -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.14.400](#rcw23B.14.400)</TD><TD>Deposit with state treasurer.</TD> </TR> </table> 
+
+- [23B.14.010](#rcw23B.14.010) Dissolution by initial directors, incorporators, or board of directors. 
+- [23B.14.020](#rcw23B.14.020) Dissolution by board of directors and shareholders. 
+- [23B.14.030](#rcw23B.14.030) Articles of dissolution -- Publication of notice. 
+- [23B.14.040](#rcw23B.14.040) Revocation of dissolution. 
+- [23B.14.050](#rcw23B.14.050) Effect of dissolution. 
+- [23B.14.060](#rcw23B.14.060) Known claims against a dissolved corporation. 
+- [23B.14.065](#rcw23B.14.065) Form and adequacy of satisfaction of claims -- Application to and determination by court. 
+- [23B.14.070](#rcw23B.14.070) Holder of an unpaid claim -- Proceeding against dissolved corporation to collect amount of claim. 
+- [23B.14.200](#rcw23B.14.200) Administrative dissolution -- Grounds. 
+- [23B.14.203](#rcw23B.14.203) Administrative dissolution or revocation of a certificate of authority -- Corporation name not distinguishable from name of governmental entity -- Application by governmental entity. 
+- [23B.14.210](#rcw23B.14.210) Administrative dissolution -- Procedure and effect. 
+- [23B.14.220](#rcw23B.14.220) Reinstatement following administrative dissolution -- Application. 
+- [23B.14.300](#rcw23B.14.300) Judicial dissolution -- Grounds. 
+- [23B.14.310](#rcw23B.14.310) Judicial dissolution or supervision of voluntary dissolution -- Procedure. 
+- [23B.14.320](#rcw23B.14.320) General or custodial receivership. 
+- [23B.14.330](#rcw23B.14.330) Decree of dissolution -- Other orders, decrees, and injunctions -- Revenue clearance certificate. 
+- [23B.14.340](#rcw23B.14.340) Survival of remedy after dissolution. 
+- [23B.14.390](#rcw23B.14.390) Secretary of state -- List of corporations dissolved. 
+- [23B.14.392](#rcw23B.14.392) Certificate of authority as insurance company -- Filing of records. 
+- [23B.14.394](#rcw23B.14.394) Certificate of authority from department of financial institutions -- Filing of records. 
+- [23B.14.400](#rcw23B.14.400) Deposit with state treasurer. 
 
 ## <a name="rcw23B.14.010">RCW 23B.14.010</a> Dissolution by initial directors, incorporators, or board of directors.
 
@@ -3689,7 +3910,22 @@ Following its dissolution, the assets of a corporation that should be transferre
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.15.010](#rcw23B.15.010)</TD><TD>Authority to transact business required.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.015](#rcw23B.15.015)</TD><TD>Foreign degree-granting institution branch campus -- Acts not deemed transacting business in state.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.020](#rcw23B.15.020)</TD><TD>Consequences of transacting business without authority.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.030](#rcw23B.15.030)</TD><TD>Application for certificate of authority.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.032](#rcw23B.15.032)</TD><TD>Certificate of authority as insurance company -- Filing of records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.040](#rcw23B.15.040)</TD><TD>Amended certificate of authority.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.050](#rcw23B.15.050)</TD><TD>Effect of certificate of authority.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.060](#rcw23B.15.060)</TD><TD>Corporate name of foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.070](#rcw23B.15.070)</TD><TD>Registered office and registered agent of foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.080](#rcw23B.15.080)</TD><TD>Change of registered office or registered agent of foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.090](#rcw23B.15.090)</TD><TD>Resignation of registered agent of foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.100](#rcw23B.15.100)</TD><TD>Service on foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.200](#rcw23B.15.200)</TD><TD>Withdrawal of foreign corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.300](#rcw23B.15.300)</TD><TD>Revocation -- Grounds.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.15.310](#rcw23B.15.310)</TD><TD>Revocation -- Procedure and effect.</TD> </TR> </table> 
+
+- [23B.15.010](#rcw23B.15.010) Authority to transact business required. 
+- [23B.15.015](#rcw23B.15.015) Foreign degree-granting institution branch campus -- Acts not deemed transacting business in state. 
+- [23B.15.020](#rcw23B.15.020) Consequences of transacting business without authority. 
+- [23B.15.030](#rcw23B.15.030) Application for certificate of authority. 
+- [23B.15.032](#rcw23B.15.032) Certificate of authority as insurance company -- Filing of records. 
+- [23B.15.040](#rcw23B.15.040) Amended certificate of authority. 
+- [23B.15.050](#rcw23B.15.050) Effect of certificate of authority. 
+- [23B.15.060](#rcw23B.15.060) Corporate name of foreign corporation. 
+- [23B.15.070](#rcw23B.15.070) Registered office and registered agent of foreign corporation. 
+- [23B.15.080](#rcw23B.15.080) Change of registered office or registered agent of foreign corporation. 
+- [23B.15.090](#rcw23B.15.090) Resignation of registered agent of foreign corporation. 
+- [23B.15.100](#rcw23B.15.100) Service on foreign corporation. 
+- [23B.15.200](#rcw23B.15.200) Withdrawal of foreign corporation. 
+- [23B.15.300](#rcw23B.15.300) Revocation -- Grounds. 
+- [23B.15.310](#rcw23B.15.310) Revocation -- Procedure and effect. 
 
 ## <a name="rcw23B.15.010">RCW 23B.15.010</a> Authority to transact business required.
 
@@ -4021,7 +4257,13 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.16.010](#rcw23B.16.010)</TD><TD>Corporate records.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16.020](#rcw23B.16.020)</TD><TD>Inspection of records by shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16.030](#rcw23B.16.030)</TD><TD>Scope of inspection right.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16.040](#rcw23B.16.040)</TD><TD>Court-ordered inspection.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16.200](#rcw23B.16.200)</TD><TD>Financial statements for shareholders.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.16.220](#rcw23B.16.220)</TD><TD>Initial and annual reports for secretary of state.</TD> </TR> </table> 
+
+- [23B.16.010](#rcw23B.16.010) Corporate records. 
+- [23B.16.020](#rcw23B.16.020) Inspection of records by shareholders. 
+- [23B.16.030](#rcw23B.16.030) Scope of inspection right. 
+- [23B.16.040](#rcw23B.16.040) Court-ordered inspection. 
+- [23B.16.200](#rcw23B.16.200) Financial statements for shareholders. 
+- [23B.16.220](#rcw23B.16.220) Initial and annual reports for secretary of state. 
 
 ## <a name="rcw23B.16.010">RCW 23B.16.010</a> Corporate records.
 
@@ -4171,7 +4413,10 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.17.010](#rcw23B.17.010)</TD><TD>Application to existing corporations.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.17.015](#rcw23B.17.015)</TD><TD>Alternative quorum and voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.17.030](#rcw23B.17.030)</TD><TD>Limitation on liability of directors -- Indemnification.</TD> </TR> </table> 
+
+- [23B.17.010](#rcw23B.17.010) Application to existing corporations. 
+- [23B.17.015](#rcw23B.17.015) Alternative quorum and voting requirements. 
+- [23B.17.030](#rcw23B.17.030) Limitation on liability of directors -- Indemnification. 
 
 ## <a name="rcw23B.17.010">RCW 23B.17.010</a> Application to existing corporations.
 
@@ -4237,7 +4482,13 @@ The provisions of RCW [23B.08.320](#rcw23B.08.320) and [23B.08.500](#rcw23B.08.5
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.18.010](#rcw23B.18.010)</TD><TD>Ownership and enforcement of notes secured by real estate mortgages.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18.020](#rcw23B.18.020)</TD><TD>Mortgage foreclosure.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18.030](#rcw23B.18.030)</TD><TD>Transacting business.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18.040](#rcw23B.18.040)</TD><TD>Service of process.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18.050](#rcw23B.18.050)</TD><TD>Service of process -- Procedure.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.18.060](#rcw23B.18.060)</TD><TD>Venue.</TD> </TR> </table> 
+
+- [23B.18.010](#rcw23B.18.010) Ownership and enforcement of notes secured by real estate mortgages. 
+- [23B.18.020](#rcw23B.18.020) Mortgage foreclosure. 
+- [23B.18.030](#rcw23B.18.030) Transacting business. 
+- [23B.18.040](#rcw23B.18.040) Service of process. 
+- [23B.18.050](#rcw23B.18.050) Service of process -- Procedure. 
+- [23B.18.060](#rcw23B.18.060) Venue. 
 
 ## <a name="rcw23B.18.010">RCW 23B.18.010</a> Ownership and enforcement of notes secured by real estate mortgages.
 
@@ -4279,7 +4530,13 @@ Suit upon causes of action arising against the said nonadmitted organizations sh
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.19.010](#rcw23B.19.010)</TD><TD>Legislative findings -- Intent.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19.020](#rcw23B.19.020)</TD><TD>Definitions.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19.030](#rcw23B.19.030)</TD><TD>Transaction excluded from chapter -- Inadvertent acquisition.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19.040](#rcw23B.19.040)</TD><TD>Approval of significant business transaction required -- Violation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19.050](#rcw23B.19.050)</TD><TD>Provisions of chapter additional to other requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.19.900](#rcw23B.19.900)</TD><TD>Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.</TD> </TR> </table> 
+
+- [23B.19.010](#rcw23B.19.010) Legislative findings -- Intent. 
+- [23B.19.020](#rcw23B.19.020) Definitions. 
+- [23B.19.030](#rcw23B.19.030) Transaction excluded from chapter -- Inadvertent acquisition. 
+- [23B.19.040](#rcw23B.19.040) Approval of significant business transaction required -- Violation. 
+- [23B.19.050](#rcw23B.19.050) Provisions of chapter additional to other requirements. 
+- [23B.19.900](#rcw23B.19.900) Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521. 
 
 ## <a name="rcw23B.19.010">RCW 23B.19.010</a> Legislative findings -- Intent.
 
@@ -4465,7 +4722,23 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.25.005](#rcw23B.25.005)</TD><TD>Becoming or ceasing to be a social purpose corporation.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.010](#rcw23B.25.010)</TD><TD>Powers, rights, and obligations -- Definition -- Application of RCW [23B.03.010](#rcw23B.03.010).</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.020](#rcw23B.25.020)</TD><TD>General social purposes.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.030](#rcw23B.25.030)</TD><TD>Specific social purposes.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.040](#rcw23B.25.040)</TD><TD>Articles of incorporation -- Required and optional provisions -- Notice -- Availability of copies.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.050](#rcw23B.25.050)</TD><TD>Duties of director -- Standards -- Liabilities.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.060](#rcw23B.25.060)</TD><TD>Duties of officer -- Standards -- Liabilities.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.070](#rcw23B.25.070)</TD><TD>Shares -- Represented by certificate -- Not represented by certificate.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.080](#rcw23B.25.080)</TD><TD>Instituting or maintaining proceedings -- Shareholders only.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.090](#rcw23B.25.090)</TD><TD>Amendment to articles of incorporation -- Change to social purposes -- Voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.100](#rcw23B.25.100)</TD><TD>Plan of merger or share exchange -- Status as social purpose corporation -- Voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.110](#rcw23B.25.110)</TD><TD>Selling, leasing, exchanging, or disposing of property -- Voting requirements.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.120](#rcw23B.25.120)</TD><TD>Shareholder dissent -- Payment of fair value, when.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.130](#rcw23B.25.130)</TD><TD>Corporation converting to a social purpose corporation -- Conditions -- Election.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.140](#rcw23B.25.140)</TD><TD>Corporation ceasing to be a social purpose corporation -- Conditions -- Election.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.25.150](#rcw23B.25.150)</TD><TD>Social purpose report required -- Timing -- Information -- Failure to comply.</TD> </TR> </table> 
+
+- [23B.25.005](#rcw23B.25.005) Becoming or ceasing to be a social purpose corporation. 
+- [23B.25.010](#rcw23B.25.010) Powers, rights, and obligations -- Definition -- Application of RCW [23B.03.010](#rcw23B.03.010). 
+- [23B.25.020](#rcw23B.25.020) General social purposes. 
+- [23B.25.030](#rcw23B.25.030) Specific social purposes. 
+- [23B.25.040](#rcw23B.25.040) Articles of incorporation -- Required and optional provisions -- Notice -- Availability of copies. 
+- [23B.25.050](#rcw23B.25.050) Duties of director -- Standards -- Liabilities. 
+- [23B.25.060](#rcw23B.25.060) Duties of officer -- Standards -- Liabilities. 
+- [23B.25.070](#rcw23B.25.070) Shares -- Represented by certificate -- Not represented by certificate. 
+- [23B.25.080](#rcw23B.25.080) Instituting or maintaining proceedings -- Shareholders only. 
+- [23B.25.090](#rcw23B.25.090) Amendment to articles of incorporation -- Change to social purposes -- Voting requirements. 
+- [23B.25.100](#rcw23B.25.100) Plan of merger or share exchange -- Status as social purpose corporation -- Voting requirements. 
+- [23B.25.110](#rcw23B.25.110) Selling, leasing, exchanging, or disposing of property -- Voting requirements. 
+- [23B.25.120](#rcw23B.25.120) Shareholder dissent -- Payment of fair value, when. 
+- [23B.25.130](#rcw23B.25.130) Corporation converting to a social purpose corporation -- Conditions -- Election. 
+- [23B.25.140](#rcw23B.25.140) Corporation ceasing to be a social purpose corporation -- Conditions -- Election. 
+- [23B.25.150](#rcw23B.25.150) Social purpose report required -- Timing -- Information -- Failure to comply. 
 
 ## <a name="rcw23B.25.005">RCW 23B.25.005</a> Becoming or ceasing to be a social purpose corporation.
 
@@ -4479,7 +4752,7 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 
 
 
- <FONT SIZE=3>**<a name="rcw23B.25.010"><!-- field: Citations -->RCW 23B.25.010</a>
+<FONT SIZE=3>**<a name="rcw23B.25.010"><!-- field: Citations -->RCW 23B.25.010</a>
 ###Powers, rights, and obligations -- Definition -- Application of RCW [23B.03.010](#rcw23B.03.010).
 
 **(1) Except as otherwise expressly stated in this chapter, the provisions of this title and all powers, rights, and obligations thereunder shall apply to social purpose corporations organized under this chapter, and references in this title to the term "corporation" shall be read to include social purpose corporations organized under this chapter.
@@ -4696,7 +4969,12 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 ### RCW Chapter Sections
 
-<table cellspacing="0" cellpadding="4" border="0"> <TR valign="top"><TD NOWRAP>[23B.900.010](#rcw23B.900.010)</TD><TD>Savings provisions -- 1989 c 165.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.900.020](#rcw23B.900.020)</TD><TD>Severability -- 1989 c 165.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.900.030](#rcw23B.900.030)</TD><TD>Repealer -- 1989 c 165.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.900.040](#rcw23B.900.040)</TD><TD>Effective date -- 1989 c 165.</TD> </TR> <TR valign="top"><TD NOWRAP>[23B.900.050](#rcw23B.900.050)</TD><TD>Section headings -- 1989 c 165.</TD> </TR> </table> 
+
+- [23B.900.010](#rcw23B.900.010) Savings provisions -- 1989 c 165. 
+- [23B.900.020](#rcw23B.900.020) Severability -- 1989 c 165. 
+- [23B.900.030](#rcw23B.900.030) Repealer -- 1989 c 165. 
+- [23B.900.040](#rcw23B.900.040) Effective date -- 1989 c 165. 
+- [23B.900.050](#rcw23B.900.050) Section headings -- 1989 c 165. 
 
 ## <a name="rcw23B.900.010">RCW 23B.900.010</a> Savings provisions -- 1989 c 165.
 
