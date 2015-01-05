@@ -13,6 +13,16 @@ In the future, I'd like to automate the reformatting of the document into
 allow for easy pdf generation. In the meantime, at least it is in a single readable
 document that can be searched from your browser.
 
+The Result
+------------
+
+If you don't care about how it's done and just want the RCW 23B markdown:
+
+[RCW 23B Markdown](https://raw.githubusercontent.com/payneio/rcw23b/master/RCW_23B.md)
+
+Installation
+------------
+
 To install:
 
 ```bash
