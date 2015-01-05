@@ -1,7 +1,16 @@
 RCW23B
 ======
 
-I don't like clicking through a website to read each sentence of a long document.
+The Washington Business Corporation Act governs the workings of all businesses
+incorporated in the state of Washington. It can be found online here:
+
+[WA State Legislature Website](http://apps.leg.wa.gov/RCW/default.aspx?cite=23B)
+
+Since I am starting a WA corporation, I want to develop a better understanding of the BCA.
+But, it is quite difficult since their website is constructed as a set of hundreds of 
+tiny snippets of content, each to its own page. Furthermore, I would like something
+I can annotate and easily search, even while offline. 
+
 I was unable to find RCW 23B anywhere as a complete document. However, I did find
 the RCW is available on a public ftp server with minimal html formatting.
 
@@ -19,8 +28,7 @@ The Result
 If you don't care about how it's done and just want a more readale RCW 23B:
 
 - [RCW 23B Markdown](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.md)
-- [RCW 23B PDF](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.pdf)
-- [RCW 23B HTML](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.html)
+- [RCW 23B PDF](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.pdf?raw=true)
 
 Installation
 ------------
@@ -53,4 +61,9 @@ Common unix utilities:
 And if you want to generate your own PDF:
 
 - pandoc
+
+Future Work
+-----------
+
+This was a daylong project, and I'm happy how far it has come. I now have a PDF I can read and annotate. I'd like to touch up the documents more for better legibility and indexing. There are currently many formatting glitches. Feel free to submit a pull request for anything you'd like to see fixed up are enhanced.
 
