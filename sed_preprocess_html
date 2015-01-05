@@ -1,0 +1,6 @@
+# preprocessing for ease
+s|<STRONG>|<B>|gI
+s|</STRONG>|</B>|gI
+s|</BR>|<BR>|gI
+s|<BR/>|<BR>|gI
+

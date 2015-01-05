@@ -1,0 +1,18 @@
+# strip some tags
+s|<HTML[^>]*>\s*||gI
+s|<HEAD[^>]*>\s*||gI
+s|</HEAD>\s*||gI
+s|<BODY[^>]*>\s*||gI
+s|</BODY>\s*||gI
+
+# change to Markdown Styles
+s|\s*<H1>(.*)</H1>|# \1|
+s|\s*<H2>(.*)</H2>|## \1|
+s|\s*<H3>(.*)</H3>|### \1|
+s|<B>|**|gI
+s|</B>|**|gI
+
+s|<!-- field: CaptionsTitles -->|###|g
+s|<!-- field: Text -->||g
+s|<!-- field: -->||g
+
