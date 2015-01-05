@@ -1,8 +1,32 @@
+# preprocessing for ease
+s|<STRONG>|<B>|gI
+s|</STRONG>|</B>|gI
+s|</BR>|<BR>|gI
+s|<BR/>|<BR>|gI
+s|\s*target="_blank"\s*||gI
+s|<h1[^>]*>|<H1>|gI
+s|<h2[^>]*>|<H2>|gI
+s|<h3[^>]*>|<H3>|gI
+s|</h1>|</H1>|g
+s|</h2>|</H2>|g
+s|</h3>|</H3>|g
+
+# simplify tables
+s|<table[^>]*>|<TABLE>|gI
+s|<td[^>]*>|<TD>|gI
+s|<tr[^>]*>|<TR>|gI
+
+# fix some rcw html errors
+s|name=rcw"|name="rcw|g
+
+# adjust some other rcw html
+s|<H2>RCW SECTIONS</H2>|<H4>RCW Chapter Sections</H4>|g
+
 # remove/switch some content
 s|<!-- field: History --><SMALL><P>[^<]*</P></SMALL><!-- field: -->||g
 s|<FONT SIZE=3><B><CENTER><a name="rcw23B"><!-- field: Citations -->Title 23B RCW<!-- field: --></a></CENTER></B><!-- field: CaptionsTitles --><CENTER><B>WASHINGTON BUSINESS CORPORATION ACT</B></CENTER><BR><!-- field: -->|<H1>Washington Business Corporation Act</H1>|g
-s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H2><a name="\1">\2</a>: \3</H2>|g
 s|<FONT SIZE=3><CENTER><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a></B></CENTER><!-- field: CaptionsTitles --><CENTER><B>([^<]*)</B></CENTER><!-- field: -->|<H2><a name="\1">\2</a>: \3</H2>|g
+s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H3><a name="\1">\2</a>: \3</H3>|g
 
 # redo internal links
 s|http://apps\.leg\.wa\.gov/RCW/default\.aspx\?cite=23B\.|#rcw23B.|g
@@ -19,7 +43,7 @@ s|\s*<TR>\s*|- |g
 s|<!-- field: Notes --><P>|<BR>- |g
 
 # introduce some vertical spacing
-s|<B>NOTES:</B>|<H3>Notes</H3>\n|g
+s|<B>NOTES:</B>|<H4>Notes</H4>\n|g
 s|</HTML>|\n\n|g
 s|<P>|\n\n|g
 s|</P>||g
@@ -34,4 +58,3 @@ s|</TABLE>\s*|\n|gI
 
 # strip non-breaking spaces
 s|\xC2\xA0[ ]*||g
-

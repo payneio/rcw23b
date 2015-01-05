@@ -1,26 +1,36 @@
-get:
-	rm -Rf build/raw
-	mkdir --parents build/raw
-	wget --convert-links --recursive --no-directories --directory-prefix='build/raw' ftp://ftp.leg.wa.gov/Pub/RCW/RCW%20%2023B%20TITLE/
+rcw=RCW_23B
+raw_html_dir=build/html/raw
 
-process_raw:
-	mkdir --parents build/raw2
-	cp build/raw/* build/raw2/
-	rename "s/\s+//g" build/raw2/*
-	mv build/raw2/RCW23BTITLE.htm build/raw2/RCW23B.00.TITLE.htm
-	rename "s/CHAPTER\.htm/.000.htm/" build/raw2/*
+dist/$(rcw).md: dist/$(rcw).html
+	mkdir --parents build/md
+	sed --regexp-extended --file=sed_scripts/md dist/$(rcw).html > build/md/$(rcw).md
+	cp --force build/md/$(rcw).md dist/$(rcw).md
 
-concat:
+dist/$(rcw).html: build/prepared
+	mkdir --parents dist 
+	cat $(raw_html_dir)/* > build/html/$(rcw).iso8859.html
+	iconv -f ISO-8859-1 -t UTF-8 build/html/$(rcw).iso8859.html > build/html/$(rcw).utf8.html
+	tr --squeeze-repeats "\n\r\t " " " < build/html/$(rcw).utf8.html > build/html/$(rcw).min.html
+	sed --regexp-extended --file=sed_scripts/cleanup_html build/html/$(rcw).min.html > build/html/$(rcw).html
+	cp --force build/html/$(rcw).html dist/$(rcw).html
+
+dist/$(rcw).pdf: dist/$(rcw).md
+	pandoc --toc -o dist/$(rcw).pdf dist/$(rcw).md
+
+build/prepared: build/downloaded
+	mkdir --parents $(raw_html_dir)
+	cp raw/* $(raw_html_dir)
+	rename "s/\s+//g" $(raw_html_dir)/*
+	mv $(raw_html_dir)/RCW23BTITLE.htm $(raw_html_dir)/RCW23B.00.TITLE.htm
+	rename "s/CHAPTER\.htm/.000.htm/" $(raw_html_dir)/*
+	touch build/prepared
+
+build/downloaded:
+	rm -Rf raw 
+	mkdir --parents raw
+	wget --convert-links --recursive --no-directories --directory-prefix='raw' ftp://ftp.leg.wa.gov/Pub/RCW/RCW%20%2023B%20TITLE/
 	mkdir --parents build
-	cat build/raw2/* > build/RCW_23B.html
-
-md:
-	cp --force build/RCW_23B.html build/raw.md
-	iconv -f ISO-8859-1 -t UTF-8 build/raw.md > build/raw_utf8.md
-	tr --squeeze-repeats "\n\r\t " " " < build/raw_utf8.md > build/single_line.md
-	sed --regexp-extended --file=sed_preprocess_html build/single_line.md > build/preprocessed.md
-	sed --regexp-extended --file=sed_spacing_script build/preprocessed.md > build/spaced.md
-	sed --regexp-extended --file=sed_format_script build/spaced.md > RCW_23B.md
+	touch build/downloaded
 
 .PHONY: clean
 clean:
