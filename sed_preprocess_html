@@ -3,4 +3,7 @@ s|<STRONG>|<B>|gI
 s|</STRONG>|</B>|gI
 s|</BR>|<BR>|gI
 s|<BR/>|<BR>|gI
+s|\s*target="_blank"\s*||gI
 
+# fix some rcw html errors
+s|name=rcw"|name="rcw|g

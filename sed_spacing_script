@@ -1,7 +1,9 @@
 # remove/switch some content
 s|<!-- field: History --><SMALL><P>[^<]*</P></SMALL><!-- field: -->||g
+s|<FONT SIZE=3><B><CENTER><a name="rcw23B"><!-- field: Citations -->Title 23B RCW<!-- field: --></a></CENTER></B><!-- field: CaptionsTitles --><CENTER><B>WASHINGTON BUSINESS CORPORATION ACT</B></CENTER><BR><!-- field: -->|<H1>Washington Business Corporation Act</H1>|g
 s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H2><a name="\1">\2</a></H2>|g
-s|<FONT SIZE=3><B><CENTER><a name=rcw"23B"><!-- field: Citations -->Title 23B RCW<!-- field: --></a></CENTER></B><!-- field: CaptionsTitles --><CENTER><B>WASHINGTON BUSINESS CORPORATION ACT</B></CENTER><BR><!-- field: -->|<H1>Washinton Business Corporation Act</H1>|g
+s|<FONT SIZE=3><CENTER><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a></B></CENTER><!-- field: CaptionsTitles --><CENTER><B>([^<]*)</B></CENTER><!-- field: -->|<H2><a name="\1">\2</a></H2>|g
+
 
 # redo internal links
 s|http://apps\.leg\.wa\.gov/RCW/default\.aspx\?cite=23B\.|#rcw23B.|g
@@ -18,5 +20,4 @@ s|</H3>\s*|</H3>\n\n|g
 
 # strip non-breaking spaces
 s|\xC2\xA0[ ]*||g
-
 
