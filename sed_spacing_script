@@ -1,8 +1,8 @@
 # remove/switch some content
 s|<!-- field: History --><SMALL><P>[^<]*</P></SMALL><!-- field: -->||g
 s|<FONT SIZE=3><B><CENTER><a name="rcw23B"><!-- field: Citations -->Title 23B RCW<!-- field: --></a></CENTER></B><!-- field: CaptionsTitles --><CENTER><B>WASHINGTON BUSINESS CORPORATION ACT</B></CENTER><BR><!-- field: -->|<H1>Washington Business Corporation Act</H1>|g
-s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H2><a name="\1">\2</a> \3</H2>|g
-s|<FONT SIZE=3><CENTER><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a></B></CENTER><!-- field: CaptionsTitles --><CENTER><B>([^<]*)</B></CENTER><!-- field: -->|<H2><a name="\1">\2</a> \3</H2>|g
+s|<FONT SIZE=3><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a><BR><!-- field: CaptionsTitles -->([^<]*)<!-- field: --><P></B>|<H2><a name="\1">\2</a>: \3</H2>|g
+s|<FONT SIZE=3><CENTER><B><a name="([^"]*)"><!-- field: Citations -->([^<]*)<!-- field: --></a></B></CENTER><!-- field: CaptionsTitles --><CENTER><B>([^<]*)</B></CENTER><!-- field: -->|<H2><a name="\1">\2</a>: \3</H2>|g
 
 # redo internal links
 s|http://apps\.leg\.wa\.gov/RCW/default\.aspx\?cite=23B\.|#rcw23B.|g
@@ -16,8 +16,10 @@ s|\s*</BODY>\s*||gI
 s|\s*<TD>\s*||gI
 s|\s*</TD>\s*| |gI
 s|\s*<TR>\s*|- |g
+s|<!-- field: Notes --><P>|<BR>- |g
 
 # introduce some vertical spacing
+s|<B>NOTES:</B>|<H3>Notes</H3>\n|g
 s|</HTML>|\n\n|g
 s|<P>|\n\n|g
 s|</P>||g

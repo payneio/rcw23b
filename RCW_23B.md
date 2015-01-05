@@ -24,53 +24,31 @@
 - [23B.25](#rcw23B.25) Social purpose corporations. 
 - [23B.900](#rcw23B.900) Construction. 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
+- Acknowledgment form, corporations: RCW [64.08.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.08.070).
+- Acquisition of corporate stock by another corporation to lessen competition declared unlawful -- Exceptions -- Judicial order to divest: RCW [19.86.060](http://apps.leg.wa.gov/RCW/default.aspx?cite=19.86.060).
+- Actions by and against public corporations: RCW [4.08.110](http://apps.leg.wa.gov/RCW/default.aspx?cite=4.08.110), [4.08.120](http://apps.leg.wa.gov/RCW/default.aspx?cite=4.08.120).
+- Condominium act: Chapter [64.34](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.34) RCW.
+- Constitutional provisions, generally: State Constitution Art. 12.
+- Consumer loan act: Chapter [31.04](http://apps.leg.wa.gov/RCW/default.aspx?cite=31.04) RCW.
+- Corporations for educational, social, religious, fraternal, etc., purposes: Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=24">24</A> RCW.
+- Crimes relating to corporations: Chapter [9.24](http://apps.leg.wa.gov/RCW/default.aspx?cite=9.24) RCW.
+- Criminal procedure: RCW [10.01.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=10.01.070) through [10.01.100](http://apps.leg.wa.gov/RCW/default.aspx?cite=10.01.100).
+- Dentistry, practice or solicitation prohibited: RCW [18.32.675](http://apps.leg.wa.gov/RCW/default.aspx?cite=18.32.675).
+- Doing business without license, gross misdemeanor: RCW [9.24.040](http://apps.leg.wa.gov/RCW/default.aspx?cite=9.24.040).
+- Eminent domain by corporations: Chapter [8.20](http://apps.leg.wa.gov/RCW/default.aspx?cite=8.20) RCW.
+- False statements, penalty for filing: RCW [43.07.210](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.210).
+- Legal services, advertising of, penalty: RCW [30.04.260](http://apps.leg.wa.gov/RCW/default.aspx?cite=30.04.260).
+- Materials specifically authorized to be printed and distributed by secretary of state: RCW [43.07.140](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.140).
+- Partnerships: Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=25">25</A> RCW.
+- "Person" defined: RCW [1.16.080](http://apps.leg.wa.gov/RCW/default.aspx?cite=1.16.080).
+- Professional service corporations: Chapter [18.100](http://apps.leg.wa.gov/RCW/default.aspx?cite=18.100) RCW.
+- Revolving fund of secretary of state, deposit of moneys for costs of carrying out secretary of state's functions under this title: RCW [43.07.130](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.130).
+- Seals, effect of: RCW [64.04.105](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.04.105).
+- Secretary of state, duties: Chapter [43.07](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07) RCW.
 
-Acknowledgment form, corporations: RCW [64.08.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.08.070).<!-- field: Notes -->
-
-Acquisition of corporate stock by another corporation to lessen competition declared unlawful -- Exceptions -- Judicial order to divest: RCW [19.86.060](http://apps.leg.wa.gov/RCW/default.aspx?cite=19.86.060).<!-- field: Notes -->
-
-Actions by and against public corporations: RCW [4.08.110](http://apps.leg.wa.gov/RCW/default.aspx?cite=4.08.110), [4.08.120](http://apps.leg.wa.gov/RCW/default.aspx?cite=4.08.120).<!-- field: Notes -->
-
-Condominium act: Chapter [64.34](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.34) RCW.<!-- field: Notes -->
-
-Constitutional provisions, generally: State Constitution Art. 12.<!-- field: Notes -->
-
-Consumer loan act: Chapter [31.04](http://apps.leg.wa.gov/RCW/default.aspx?cite=31.04) RCW.<!-- field: Notes -->
-
-Corporations for educational, social, religious, fraternal, etc., purposes: Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=24">24</A> RCW.<!-- field: Notes -->
-
-Crimes relating to corporations: Chapter [9.24](http://apps.leg.wa.gov/RCW/default.aspx?cite=9.24) RCW.<!-- field: Notes -->
-
-Criminal procedure: RCW [10.01.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=10.01.070) through [10.01.100](http://apps.leg.wa.gov/RCW/default.aspx?cite=10.01.100).<!-- field: Notes -->
-
-Dentistry, practice or solicitation prohibited: RCW [18.32.675](http://apps.leg.wa.gov/RCW/default.aspx?cite=18.32.675).<!-- field: Notes -->
-
-Doing business without license, gross misdemeanor: RCW [9.24.040](http://apps.leg.wa.gov/RCW/default.aspx?cite=9.24.040).<!-- field: Notes -->
-
-Eminent domain by corporations: Chapter [8.20](http://apps.leg.wa.gov/RCW/default.aspx?cite=8.20) RCW.<!-- field: Notes -->
-
-False statements, penalty for filing: RCW [43.07.210](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.210).<!-- field: Notes -->
-
-Legal services, advertising of, penalty: RCW [30.04.260](http://apps.leg.wa.gov/RCW/default.aspx?cite=30.04.260).<!-- field: Notes -->
-
-Materials specifically authorized to be printed and distributed by secretary of state: RCW [43.07.140](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.140).<!-- field: Notes -->
-
-Partnerships: Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=25">25</A> RCW.<!-- field: Notes -->
-
-"Person" defined: RCW [1.16.080](http://apps.leg.wa.gov/RCW/default.aspx?cite=1.16.080).<!-- field: Notes -->
-
-Professional service corporations: Chapter [18.100](http://apps.leg.wa.gov/RCW/default.aspx?cite=18.100) RCW.<!-- field: Notes -->
-
-Revolving fund of secretary of state, deposit of moneys for costs of carrying out secretary of state's functions under this title: RCW [43.07.130](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.130).<!-- field: Notes -->
-
-Seals, effect of: RCW [64.04.105](http://apps.leg.wa.gov/RCW/default.aspx?cite=64.04.105).<!-- field: Notes -->
-
-Secretary of state, duties: Chapter [43.07](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07) RCW.
-
-## <a name="rcw23B.01">Chapter 23B.01 RCW</a> GENERAL PROVISIONS
+## <a name="rcw23B.01">Chapter 23B.01 RCW</a>: GENERAL PROVISIONS
 
 ### RCW Chapter Sections
 
@@ -104,19 +82,19 @@ Secretary of state, duties: Chapter [43.07](http://apps.leg.wa.gov/RCW/default.a
 - [23B.01.580](#rcw23B.01.580) Waiver of penalty fees. 
 - [23B.01.590](#rcw23B.01.590) Public service companies entitled to deductions. 
 
-## <a name="rcw23B.01.010">RCW 23B.01.010</a> Short title.
+## <a name="rcw23B.01.010">RCW 23B.01.010</a>: Short title.
 
 This title shall be known and may be cited as the "Washington business corporation act."
 
 
 
-## <a name="rcw23B.01.020">RCW 23B.01.020</a> Reservation of power to amend or repeal.
+## <a name="rcw23B.01.020">RCW 23B.01.020</a>: Reservation of power to amend or repeal.
 
 The legislature has power to amend or repeal all or part of this title at any time and all domestic and foreign corporations subject to this title are governed by the amendment or repeal.
 
 
 
-## <a name="rcw23B.01.200">RCW 23B.01.200</a> Filing requirements.
+## <a name="rcw23B.01.200">RCW 23B.01.200</a>: Filing requirements.
 
 (1) A record must satisfy the requirements of this section, and of any other section that adds to or varies from these requirements, to be entitled to filing by the secretary of state.
 
@@ -146,37 +124,34 @@ The legislature has power to amend or repeal all or part of this title at any ti
 
 
 
-## <a name="rcw23B.01.202">RCW 23B.01.202</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.01.202">RCW 23B.01.202</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.01.204">RCW 23B.01.204</a> Certificate of authority from department of financial institutions -- Filing of records.
+## <a name="rcw23B.01.204">RCW 23B.01.204</a>: Certificate of authority from department of financial institutions -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the department of financial institutions as a bank, trust company, or the holding company thereof, under *Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW, or as a savings bank or holding company thereof, under Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=32">32</A> RCW, or for any other corporation or other entity which is or purports to be a bank, savings bank, savings and loan association, trust company, industrial loan bank, credit union, bank holding company, financial services holding company, or savings and loan holding company, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the department of financial institutions.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
+- &#160;&#160;&#160;&#160;&#160;***Reviser's note:** Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW was recodified and/or repealed pursuant to 2014 c 37, effective January 5, 2015.
 
-&#160;&#160;&#160;&#160;&#160;***Reviser's note:** Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW was recodified and/or repealed pursuant to 2014 c 37, effective January 5, 2015.
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2010 c 88:** See RCW [32.50.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=32.50.900).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2010 c 88:** See RCW [32.50.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=32.50.900).
 
 
 
-## <a name="rcw23B.01.210">RCW 23B.01.210</a> Forms.
+## <a name="rcw23B.01.210">RCW 23B.01.210</a>: Forms.
 
 The secretary of state may prescribe and furnish on request, forms for: (1) An application for a certificate of existence; (2) a foreign corporation's application for a certificate of authority to transact business in this state; (3) a foreign corporation's application for a certificate of withdrawal; (4) an initial report; (5) an annual report; and (6) such other forms not in conflict with this title as may be prescribed by the secretary of state. If the secretary of state so requires, use of these forms is mandatory.
 
 
 
-## <a name="rcw23B.01.220">RCW 23B.01.220</a> Fees.
+## <a name="rcw23B.01.220">RCW 23B.01.220</a>: Fees.
 
 (1) The secretary of state shall collect in accordance with the provisions of this title:
 
@@ -254,23 +229,19 @@ One hundred seventy-five dollars, pursuant to RCW [23B.01.520](#rcw23B.01.520) a
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
 
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
 
-<!-- field: Notes -->
+- &#160;&#160;&#160;&#160;&#160;**Effective dates -- 1992 c 107:** See note following RCW [19.02.020](http://apps.leg.wa.gov/RCW/default.aspx?cite=19.02.020).
 
-&#160;&#160;&#160;&#160;&#160;**Effective dates -- 1992 c 107:** See note following RCW [19.02.020](http://apps.leg.wa.gov/RCW/default.aspx?cite=19.02.020).
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **"This act shall take effect July 1, 1990." [1990 c 178 § 13.]
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **"This act shall take effect July 1, 1990." [1990 c 178 § 13.]
 
 
 
-## <a name="rcw23B.01.230">RCW 23B.01.230</a> Effective time and date of record.
+## <a name="rcw23B.01.230">RCW 23B.01.230</a>: Effective time and date of record.
 
 (1) Except as provided in subsection (2) of this section and RCW [23B.01.240](#rcw23B.01.240)(3), a record accepted for filing is effective on the date it is filed by the secretary of state and at the time on that date specified in the record. If no time is specified in the record, the record is effective at the close of business on the date it is filed by the secretary of state.
 
@@ -280,7 +251,7 @@ One hundred seventy-five dollars, pursuant to RCW [23B.01.520](#rcw23B.01.520) a
 
 
 
-## <a name="rcw23B.01.240">RCW 23B.01.240</a> Correcting filed records.
+## <a name="rcw23B.01.240">RCW 23B.01.240</a>: Correcting filed records.
 
 (1) A domestic or foreign corporation may correct a record filed by the secretary of state if the record (a) contains an incorrect statement; or (b) was defectively executed, attested, sealed, verified, or acknowledged.
 
@@ -294,7 +265,7 @@ One hundred seventy-five dollars, pursuant to RCW [23B.01.520](#rcw23B.01.520) a
 
 
 
-## <a name="rcw23B.01.250">RCW 23B.01.250</a> Filing duty of secretary of state.
+## <a name="rcw23B.01.250">RCW 23B.01.250</a>: Filing duty of secretary of state.
 
 (1) If a record delivered to the office of the secretary of state for filing satisfies the requirements of RCW [23B.01.200](#rcw23B.01.200), the secretary of state shall file it.
 
@@ -314,19 +285,19 @@ One hundred seventy-five dollars, pursuant to RCW [23B.01.520](#rcw23B.01.520) a
 
 
 
-## <a name="rcw23B.01.260">RCW 23B.01.260</a> Judicial review of secretary of state's refusal to file a record.
+## <a name="rcw23B.01.260">RCW 23B.01.260</a>: Judicial review of secretary of state's refusal to file a record.
 
 If the secretary of state refuses to file a record received by the office for filing, the person submitting the record, in addition to any other legal remedy which may be available, shall have the right to judicial review of such refusal pursuant to the provisions of chapter [34.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=34.05) RCW.
 
 
 
-## <a name="rcw23B.01.270">RCW 23B.01.270</a> Evidentiary effect of copy of filed record.
+## <a name="rcw23B.01.270">RCW 23B.01.270</a>: Evidentiary effect of copy of filed record.
 
 A certificate bearing the manual or facsimile signature of the secretary of state and the seal of the state, when attached to or located on a record or a copy of a record filed by the secretary of state, is conclusive evidence that the original record is on file with the secretary of state.
 
 
 
-## <a name="rcw23B.01.280">RCW 23B.01.280</a> Certificate of existence or authorization.
+## <a name="rcw23B.01.280">RCW 23B.01.280</a>: Certificate of existence or authorization.
 
 (1) Any person may apply to the secretary of state to furnish a certificate of existence for a domestic corporation or a certificate of authorization for a foreign corporation.
 
@@ -346,19 +317,19 @@ A certificate bearing the manual or facsimile signature of the secretary of stat
 
 
 
-## <a name="rcw23B.01.290">RCW 23B.01.290</a> Penalty for signing false document.
+## <a name="rcw23B.01.290">RCW 23B.01.290</a>: Penalty for signing false document.
 
 Any person who signs a document such person knows is false in any material respect with intent that the document be delivered to the secretary of state for filing is guilty of a gross misdemeanor punishable under chapter [9A.20](http://apps.leg.wa.gov/RCW/default.aspx?cite=9A.20) RCW.
 
 
 
-## <a name="rcw23B.01.300">RCW 23B.01.300</a> Powers.
+## <a name="rcw23B.01.300">RCW 23B.01.300</a>: Powers.
 
 The secretary of state has the power reasonably necessary to perform the duties required of the secretary of state by this title, including adoption, amendment, or repeal of rules for the efficient administration of this title.
 
 
 
-## <a name="rcw23B.01.400">RCW 23B.01.400</a> Definitions.
+## <a name="rcw23B.01.400">RCW 23B.01.400</a>: Definitions.
 
 Unless the context clearly requires otherwise, the definitions in this section apply throughout this title.
 
@@ -446,7 +417,7 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 
 
-## <a name="rcw23B.01.410">RCW 23B.01.410</a> Notice.
+## <a name="rcw23B.01.410">RCW 23B.01.410</a>: Notice.
 
 (1) Notice under this title must be provided in the form of a record, except that oral notice of any meeting of the board of directors may be given if expressly authorized by the articles of incorporation or bylaws.
 
@@ -504,15 +475,13 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.01.420">RCW 23B.01.420</a> Notice -- Common address -- Address defined -- Shareholder consent.
+## <a name="rcw23B.01.420">RCW 23B.01.420</a>: Notice -- Common address -- Address defined -- Shareholder consent.
 
 (1) A corporation has provided notice or any other record to shareholders of record who share a common address if all of the following requirements are met:
 
@@ -530,63 +499,58 @@ Unless the context clearly requires otherwise, the definitions in this section a
 
 
 
-## <a name="rcw23B.01.500">RCW 23B.01.500</a> Domestic corporations -- Notice of due date for payment of annual license fee and filing annual report.
+## <a name="rcw23B.01.500">RCW 23B.01.500</a>: Domestic corporations -- Notice of due date for payment of annual license fee and filing annual report.
 
 Not less than thirty nor more than ninety days prior to July 1st of each year or to the expiration date of any staggered yearly license, the secretary of state shall send, by postal or electronic mail as elected by the domestic corporation, to each domestic corporation, at its registered office within the state, or to an electronic address designated by the corporation in a record retained by the secretary of state, a notice that its annual license fee must be paid and its annual report must be filed as required by this title, and stating that if any domestic corporation fails to pay its annual license fee or to file its annual report it is dissolved and ceases to exist. Failure of the secretary of state to provide any such notice does not relieve a corporation from its obligations to pay the annual license fees and to file the annual reports required by this title. The option to receive the notice provided under this section by electronic mail may be selected only when the secretary of state makes the option available.
 
 
 
-## <a name="rcw23B.01.510">RCW 23B.01.510</a> Foreign corporations -- Notice of due date for payment of annual license fee and filing annual report.
+## <a name="rcw23B.01.510">RCW 23B.01.510</a>: Foreign corporations -- Notice of due date for payment of annual license fee and filing annual report.
 
 Not less than thirty nor more than ninety days prior to July 1st of each year or to the expiration date of any staggered yearly license, the secretary of state shall send by postal or electronic mail, as elected by the foreign corporation, to each foreign corporation qualified to do business in this state, addressed to its registered office within this state, or to an electronic address designated by the corporation in a record retained by the secretary of state, a notice that its annual license fee must be paid and its annual report must be filed as required by this title, and stating that if it fails to pay its annual license fee or to file its annual report its certificate of authority to transact business within this state may be revoked. Failure of the secretary of state to send any such notice does not relieve a corporation from its obligations to pay the annual license fees and to obtain or file the annual reports required by this title. The option to receive the notice provided under this section by electronic mail may be selected only when the secretary of state makes the option available.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.01.520">RCW 23B.01.520</a> Domestic corporations -- Filing and initial license fees.
+## <a name="rcw23B.01.520">RCW 23B.01.520</a>: Domestic corporations -- Filing and initial license fees.
 
 Every domestic corporation, except one for which existing law provides a different fee schedule, shall pay for filing of its articles of incorporation and its first year's license a fee of one hundred seventy-five dollars.
 
 
 
-## <a name="rcw23B.01.530">RCW 23B.01.530</a> Domestic corporations -- Inactive corporation defined -- Annual license fee.
+## <a name="rcw23B.01.530">RCW 23B.01.530</a>: Domestic corporations -- Inactive corporation defined -- Annual license fee.
 
 For the privilege of doing business, every corporation organized under the laws of this state, except the corporations for which existing law provides a different fee schedule, must make and file a statement in the form prescribed by the secretary of state and must pay an annual license fee each year following incorporation, on or before the expiration date of its corporate license, to the secretary of state. The secretary of state must collect an annual license fee of sixty dollars for corporations that are not inactive corporations, of which ten dollars is designated to be deposited into the secretary's revolving fund per RCW [43.07.130](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.07.130). The secretary of state must collect an annual license fee for inactive corporations as established by the secretary of state in rule. As used in this section, "inactive corporation" means a corporation that certifies at the time of filing under this section that it did not engage in any business activities during the year ending on the expiration date of its corporate license.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
+- &#160;&#160;&#160;&#160;&#160;**Intent -- 2010 1st sp.s. c 29:** "It is the intent of the legislature to restructure certain fees for the division of corporations of the office of the secretary of state in a manner that has minimal revenue impact but moves the division of corporations towards a more self-sustaining budget." [2010 1st sp.s. c 29 § 1.]
 
-&#160;&#160;&#160;&#160;&#160;**Intent -- 2010 1st sp.s. c 29:** "It is the intent of the legislature to restructure certain fees for the division of corporations of the office of the secretary of state in a manner that has minimal revenue impact but moves the division of corporations towards a more self-sustaining budget." [2010 1st sp.s. c 29 § 1.]
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
 
 
 
-## <a name="rcw23B.01.540">RCW 23B.01.540</a> Foreign corporations -- Filing and license fees on qualification.
+## <a name="rcw23B.01.540">RCW 23B.01.540</a>: Foreign corporations -- Filing and license fees on qualification.
 
 A foreign corporation doing an intrastate business or seeking to do an intrastate business in the state of Washington shall qualify so to do in the manner prescribed in this title and shall pay for the privilege of so doing the filing and license fees prescribed in this title for domestic corporations, including the same fees as are prescribed in RCW [23B.01.520](#rcw23B.01.520), for the filing of articles of incorporation of a domestic corporation.
 
 
 
-## <a name="rcw23B.01.550">RCW 23B.01.550</a> Foreign corporations -- Annual license fees.
+## <a name="rcw23B.01.550">RCW 23B.01.550</a>: Foreign corporations -- Annual license fees.
 
 All foreign corporations doing intrastate business, or hereafter seeking to do intrastate business in this state shall pay for the privilege of doing such intrastate business in this state the same fees as are prescribed by RCW [23B.01.530](#rcw23B.01.530) for domestic corporations for annual license fees. All license fees shall be paid on or before the first day of July of each and every year or on the annual license expiration date as the secretary of state may establish under this title.
 
 
 
-## <a name="rcw23B.01.560">RCW 23B.01.560</a> License fees for reinstated corporation.
+## <a name="rcw23B.01.560">RCW 23B.01.560</a>: License fees for reinstated corporation.
 
 (1) A corporation seeking reinstatement shall pay the full amount of all annual corporation license fees which would have been assessed for the license years of the period of administrative dissolution had the corporation been in active status, plus a surcharge established by the secretary of state by rule, and the license fee for the year of reinstatement.
 
@@ -594,15 +558,13 @@ All foreign corporations doing intrastate business, or hereafter seeking to do i
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1993 c 269:** See note following RCW [23.86.070](http://apps.leg.wa.gov/RCW/default.aspx?cite=23.86.070).
 
 
 
-## <a name="rcw23B.01.570">RCW 23B.01.570</a> Penalty for nonpayment of annual corporate license fees and failure to file a substantially complete annual report -- Payment of delinquent fees -- Rules.
+## <a name="rcw23B.01.570">RCW 23B.01.570</a>: Penalty for nonpayment of annual corporate license fees and failure to file a substantially complete annual report -- Payment of delinquent fees -- Rules.
 
 In the event any corporation, foreign or domestic, fails to file a full and complete initial report under RCW [23B.02.050](#rcw23B.02.050)(4) and [23B.16.220](#rcw23B.16.220)(3) or does business in this state without having paid its annual corporate license fee and without having filed a substantially complete annual report under RCW [23B.16.220](#rcw23B.16.220)(1) when either is due, there shall become due and owing the state of Washington a penalty as established by rule by the secretary.
 
@@ -610,21 +572,19 @@ A corporation organized under this title may at any time prior to its dissolutio
 
 
 
-## <a name="rcw23B.01.580">RCW 23B.01.580</a> Waiver of penalty fees.
+## <a name="rcw23B.01.580">RCW 23B.01.580</a>: Waiver of penalty fees.
 
 The secretary of state may, where exigent or mitigating circumstances are presented, waive penalty fees due from any licensed corporation previously in good standing which would otherwise be penalized or lose its active status. Any corporation desiring to seek relief under this section shall, within fifteen days of discovery by corporate officials of the missed filing or lapse, notify the secretary of state in writing. The notification shall include the name and mailing address of the corporation, the corporate officer to whom correspondence should be sent, and a statement under oath by a responsible corporate officer, setting forth the nature of the missed filing or lapse, the circumstances giving rise to the missed filing or lapse, and the relief sought. Upon receipt of the notice, the secretary of state shall investigate the circumstances of the missed filing or lapse. If the secretary of state is satisfied that sufficient exigent or mitigating circumstances exist, that the corporation has demonstrated good faith and a reasonable attempt to comply with the applicable corporate license statutes of this state, the secretary of state may issue an order allowing relief from the penalty. If the secretary of state determines the request does not comply with the requirements for relief, the secretary of state shall deny the relief and state the reasons for the denial. Any denial of relief by the secretary of state is not reviewable notwithstanding the provisions of chapter [34.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=34.05) RCW.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.01.590">RCW 23B.01.590</a> Public service companies entitled to deductions.
+## <a name="rcw23B.01.590">RCW 23B.01.590</a>: Public service companies entitled to deductions.
 
 The annual fee required to be paid to the Washington utilities and transportation commission by any public service corporation shall be deducted from the annual license fee provided in this title and the excess only shall be collected.
 
@@ -632,7 +592,7 @@ It shall be the duty of the commission to furnish to the secretary of state on o
 
 
 
-## <a name="rcw23B.02">Chapter 23B.02 RCW</a> INCORPORATION
+## <a name="rcw23B.02">Chapter 23B.02 RCW</a>: INCORPORATION
 
 ### RCW Chapter Sections
 
@@ -646,13 +606,13 @@ It shall be the duty of the commission to furnish to the secretary of state on o
 - [23B.02.060](#rcw23B.02.060) Bylaws. 
 - [23B.02.070](#rcw23B.02.070) Emergency bylaws. 
 
-## <a name="rcw23B.02.010">RCW 23B.02.010</a> Incorporators.
+## <a name="rcw23B.02.010">RCW 23B.02.010</a>: Incorporators.
 
 One or more persons may act as the incorporator or incorporators of a corporation by delivering articles of incorporation to the secretary of state for filing.
 
 
 
-## <a name="rcw23B.02.020">RCW 23B.02.020</a> Articles of incorporation.
+## <a name="rcw23B.02.020">RCW 23B.02.020</a>: Articles of incorporation.
 
 (1) The articles of incorporation must set forth:
 
@@ -814,15 +774,13 @@ One or more persons may act as the incorporator or incorporators of a corporatio
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
+- &#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
 
 
 
-## <a name="rcw23B.02.030">RCW 23B.02.030</a> Effect of filing.
+## <a name="rcw23B.02.030">RCW 23B.02.030</a>: Effect of filing.
 
 (1) Unless a delayed effective date is specified, the corporate existence begins when the articles of incorporation are filed.
 
@@ -830,19 +788,19 @@ One or more persons may act as the incorporator or incorporators of a corporatio
 
 
 
-## <a name="rcw23B.02.032">RCW 23B.02.032</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.02.032">RCW 23B.02.032</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.02.040">RCW 23B.02.040</a> Liability for preincorporation transactions.
+## <a name="rcw23B.02.040">RCW 23B.02.040</a>: Liability for preincorporation transactions.
 
 All persons purporting to act as or on behalf of a corporation, knowing there was no incorporation under this title, are jointly and severally liable for liabilities created while so acting except for any liability to any person who also knew that there was no incorporation.
 
 
 
-## <a name="rcw23B.02.050">RCW 23B.02.050</a> Organization of corporation.
+## <a name="rcw23B.02.050">RCW 23B.02.050</a>: Organization of corporation.
 
 (1) After incorporation:
 
@@ -862,7 +820,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.02.060">RCW 23B.02.060</a> Bylaws.
+## <a name="rcw23B.02.060">RCW 23B.02.060</a>: Bylaws.
 
 (1) The incorporators or board of directors of a corporation shall adopt initial bylaws for the corporation.
 
@@ -898,7 +856,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.02.070">RCW 23B.02.070</a> Emergency bylaws.
+## <a name="rcw23B.02.070">RCW 23B.02.070</a>: Emergency bylaws.
 
 (1) Unless the articles of incorporation provide otherwise, the board of directors of a corporation may adopt bylaws to be effective only in an emergency defined in subsection (4) of this section. The emergency bylaws, which are subject to amendment or repeal by the shareholders, may make all provisions necessary for managing the corporation during the emergency, including:
 
@@ -920,7 +878,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.03">Chapter 23B.03 RCW</a> POWERS AND PURPOSES
+## <a name="rcw23B.03">Chapter 23B.03 RCW</a>: POWERS AND PURPOSES
 
 ### RCW Chapter Sections
 
@@ -930,7 +888,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 - [23B.03.030](#rcw23B.03.030) Emergency powers. 
 - [23B.03.040](#rcw23B.03.040) Ultra vires. 
 
-## <a name="rcw23B.03.010">RCW 23B.03.010</a> Purposes.
+## <a name="rcw23B.03.010">RCW 23B.03.010</a>: Purposes.
 
 (1) Every corporation incorporated under this title has the purpose of engaging in any lawful business unless a more limited purpose is set forth in the articles of incorporation.
 
@@ -938,7 +896,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.03.020">RCW 23B.03.020</a> General powers.
+## <a name="rcw23B.03.020">RCW 23B.03.020</a>: General powers.
 
 (1) Unless its articles of incorporation provide otherwise, every corporation has perpetual duration and succession in its corporate name.
 
@@ -980,7 +938,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.03.030">RCW 23B.03.030</a> Emergency powers.
+## <a name="rcw23B.03.030">RCW 23B.03.030</a>: Emergency powers.
 
 (1) In anticipation of or during an emergency defined in subsection (4) of this section, the board of directors of a corporation may:
 
@@ -1004,7 +962,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.03.040">RCW 23B.03.040</a> Ultra vires.
+## <a name="rcw23B.03.040">RCW 23B.03.040</a>: Ultra vires.
 
 (1) Except as provided in subsection (2) of this section, corporate action may not be challenged on the ground that the corporation lacks or lacked power to act.
 
@@ -1020,7 +978,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.04">Chapter 23B.04 RCW</a> NAME
+## <a name="rcw23B.04">Chapter 23B.04 RCW</a>: NAME
 
 ### RCW Chapter Sections
 
@@ -1031,7 +989,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 - [23B.04.035](#rcw23B.04.035) Certificate of authority as insurance company -- Filing of records. 
 - [23B.04.037](#rcw23B.04.037) Certificate of authority as insurance company -- Registration or reservation of name. 
 
-## <a name="rcw23B.04.010">RCW 23B.04.010</a> Corporate name.
+## <a name="rcw23B.04.010">RCW 23B.04.010</a>: Corporate name.
 
 (1) A corporate name:
 
@@ -1089,15 +1047,13 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- Severability -- 1994 c 211:** See RCW [25.15.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.15.900) and [25.15.902](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.15.902).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- Severability -- 1994 c 211:** See RCW [25.15.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.15.900) and [25.15.902](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.15.902).
 
 
 
-## <a name="rcw23B.04.020">RCW 23B.04.020</a> Reserved name.
+## <a name="rcw23B.04.020">RCW 23B.04.020</a>: Reserved name.
 
 (1) A person may reserve the exclusive use of a corporate name, including a fictitious name adopted pursuant to RCW [23B.15.060](#rcw23B.15.060) for a foreign corporation whose corporate name is not available, by delivering an application to the secretary of state for filing. The application must set forth the name and address of the applicant and the name proposed to be reserved. If the secretary of state finds that the corporate name applied for is available, the secretary of state shall reserve the name for the applicant's exclusive use for a nonrenewable one hundred eighty-day period.
 
@@ -1105,7 +1061,7 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.04.030">RCW 23B.04.030</a> Registered name.
+## <a name="rcw23B.04.030">RCW 23B.04.030</a>: Registered name.
 
 (1) A foreign corporation may register its corporate name, or its corporate name with any addition required by RCW [23B.15.060](#rcw23B.15.060), if the name is distinguishable upon the records of the secretary of state from the names specified in RCW [23B.04.010](#rcw23B.04.010)(1).
 
@@ -1123,19 +1079,19 @@ All persons purporting to act as or on behalf of a corporation, knowing there wa
 
 
 
-## <a name="rcw23B.04.035">RCW 23B.04.035</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.04.035">RCW 23B.04.035</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.04.037">RCW 23B.04.037</a> Certificate of authority as insurance company -- Registration or reservation of name.
+## <a name="rcw23B.04.037">RCW 23B.04.037</a>: Certificate of authority as insurance company -- Registration or reservation of name.
 
 For those corporations that intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter a corporation may register or reserve a corporate name, the registration or reservation shall be filed with the insurance commissioner rather than the secretary of state. The secretary of state and insurance commissioner shall cooperate with each other in registering or reserving a corporate name so that there is no duplication of the name.
 
 
 
-## <a name="rcw23B.05">Chapter 23B.05 RCW</a> OFFICE AND AGENT
+## <a name="rcw23B.05">Chapter 23B.05 RCW</a>: OFFICE AND AGENT
 
 ### RCW Chapter Sections
 
@@ -1146,7 +1102,7 @@ For those corporations that intend to apply for a certificate of authority from 
 - [23B.05.040](#rcw23B.05.040) Service on corporation. 
 - [23B.05.050](#rcw23B.05.050) Annual meeting of shareholders -- Limitations -- Terms of directors. 
 
-## <a name="rcw23B.05.010">RCW 23B.05.010</a> Registered office and registered agent.
+## <a name="rcw23B.05.010">RCW 23B.05.010</a>: Registered office and registered agent.
 
 (1) Each corporation must continuously maintain in this state:
 
@@ -1168,7 +1124,7 @@ For those corporations that intend to apply for a certificate of authority from 
 
 
 
-## <a name="rcw23B.05.020">RCW 23B.05.020</a> Change of registered office or registered agent.
+## <a name="rcw23B.05.020">RCW 23B.05.020</a>: Change of registered office or registered agent.
 
 (1) A corporation may change its registered office or registered agent by delivering to the secretary of state for filing a statement of change that sets forth:
 
@@ -1184,7 +1140,7 @@ For those corporations that intend to apply for a certificate of authority from 
 
 
 
-## <a name="rcw23B.05.030">RCW 23B.05.030</a> Resignation of registered agent.
+## <a name="rcw23B.05.030">RCW 23B.05.030</a>: Resignation of registered agent.
 
 (1) A registered agent may resign as agent by signing and delivering to the secretary of state for filing a statement of resignation. The statement may include a statement that the registered office is also discontinued.
 
@@ -1194,7 +1150,7 @@ For those corporations that intend to apply for a certificate of authority from 
 
 
 
-## <a name="rcw23B.05.040">RCW 23B.05.040</a> Service on corporation.
+## <a name="rcw23B.05.040">RCW 23B.05.040</a>: Service on corporation.
 
 (1) A corporation's registered agent is the corporation's agent for service of process, notice, or demand required or permitted by law to be served on the corporation.
 
@@ -1212,21 +1168,19 @@ For those corporations that intend to apply for a certificate of authority from 
 
 
 
-## <a name="rcw23B.05.050">RCW 23B.05.050</a> Annual meeting of shareholders -- Limitations -- Terms of directors.
+## <a name="rcw23B.05.050">RCW 23B.05.050</a>: Annual meeting of shareholders -- Limitations -- Terms of directors.
 
 A corporation registered under the investment company act of 1940 that limits the requirement to hold an annual meeting of shareholders in accordance with RCW [23B.07.010](#rcw23B.07.010)(2) may include in its articles of incorporation or bylaws a provision establishing terms of directors which terms may be longer than one year.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
+- &#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
 
 
 
-## <a name="rcw23B.06">Chapter 23B.06 RCW</a> SHARES AND DISTRIBUTIONS
+## <a name="rcw23B.06">Chapter 23B.06 RCW</a>: SHARES AND DISTRIBUTIONS
 
 ### RCW Chapter Sections
 
@@ -1248,7 +1202,7 @@ A corporation registered under the investment company act of 1940 that limits th
 - [23B.06.310](#rcw23B.06.310) Corporation's acquisition of its own shares. 
 - [23B.06.400](#rcw23B.06.400) Distributions to shareholders. 
 
-## <a name="rcw23B.06.010">RCW 23B.06.010</a> Authorized shares.
+## <a name="rcw23B.06.010">RCW 23B.06.010</a>: Authorized shares.
 
 (1) The articles of incorporation must prescribe the classes of shares and the number of shares of each class that the corporation is authorized to issue.
 
@@ -1274,7 +1228,7 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.020">RCW 23B.06.020</a> Terms of class or series.
+## <a name="rcw23B.06.020">RCW 23B.06.020</a>: Terms of class or series.
 
 (1) If the articles of incorporation so provide, the board of directors may determine, in whole or part, the preferences, limitations, voting powers, and relative rights, within the limits set forth in RCW [23B.06.010](#rcw23B.06.010)(1)(b) and this section of (a) any class of shares before the issuance of any shares of that class, or (b) one or more series within a class, and designate the number of shares within that series, before the issuance of any shares of that series.
 
@@ -1296,7 +1250,7 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.030">RCW 23B.06.030</a> Issued and outstanding shares.
+## <a name="rcw23B.06.030">RCW 23B.06.030</a>: Issued and outstanding shares.
 
 (1) A corporation may issue the number of shares of each class or series authorized by the articles of incorporation. Shares that are issued are outstanding shares until they are reacquired, redeemed, converted, or canceled.
 
@@ -1308,7 +1262,7 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.040">RCW 23B.06.040</a> Fractional shares.
+## <a name="rcw23B.06.040">RCW 23B.06.040</a>: Fractional shares.
 
 (1) A corporation may:
 
@@ -1330,7 +1284,7 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.200">RCW 23B.06.200</a> Subscription for shares before incorporation.
+## <a name="rcw23B.06.200">RCW 23B.06.200</a>: Subscription for shares before incorporation.
 
 (1) A written subscription for shares entered into before incorporation is irrevocable for six months unless the subscription agreement provides a longer or shorter period or all the subscribers agree to revocation.
 
@@ -1344,7 +1298,7 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.210">RCW 23B.06.210</a> Issuance of shares.
+## <a name="rcw23B.06.210">RCW 23B.06.210</a>: Issuance of shares.
 
 (1) The powers granted in this section to the board of directors may be reserved to the shareholders by the articles of incorporation.
 
@@ -1358,13 +1312,13 @@ A corporation registered under the investment company act of 1940 that limits th
 
 
 
-## <a name="rcw23B.06.220">RCW 23B.06.220</a> Liability of shareholders.
+## <a name="rcw23B.06.220">RCW 23B.06.220</a>: Liability of shareholders.
 
 A purchaser from a corporation of its own shares is not liable to the corporation or its creditors with respect to the shares except to pay the consideration for which the shares were approved to be issued under RCW [23B.06.210](#rcw23B.06.210) or specified in the subscription agreement under RCW [23B.06.200](#rcw23B.06.200).
 
 
 
-## <a name="rcw23B.06.230">RCW 23B.06.230</a> Share dividends.
+## <a name="rcw23B.06.230">RCW 23B.06.230</a>: Share dividends.
 
 (1) Unless the articles of incorporation provide otherwise, shares may be issued pro rata and without consideration to the corporation's shareholders or to the shareholders of one or more classes or series. An issuance of shares under this subsection is a share dividend.
 
@@ -1372,7 +1326,7 @@ A purchaser from a corporation of its own shares is not liable to the corporatio
 
 
 
-## <a name="rcw23B.06.240">RCW 23B.06.240</a> Share options.
+## <a name="rcw23B.06.240">RCW 23B.06.240</a>: Share options.
 
 (1) Unless the articles of incorporation provide otherwise, a corporation may issue rights, options, or warrants for the purchase of shares of the corporation. The board of directors shall determine the terms upon which the rights, options, or warrants are issued, their form and content, and the terms and conditions relating to their exercise, including the time or times, the conditions precedent, and the consideration for which and the holders by whom the rights, options, or warrants may be exercised.
 
@@ -1380,7 +1334,7 @@ A purchaser from a corporation of its own shares is not liable to the corporatio
 
 
 
-## <a name="rcw23B.06.250">RCW 23B.06.250</a> Certificates.
+## <a name="rcw23B.06.250">RCW 23B.06.250</a>: Certificates.
 
 (1) Shares may but need not be represented by certificates. Unless this title or another statute expressly provides otherwise, the rights and obligations of shareholders are identical whether or not their shares are represented by certificates.
 
@@ -1400,7 +1354,7 @@ A purchaser from a corporation of its own shares is not liable to the corporatio
 
 
 
-## <a name="rcw23B.06.260">RCW 23B.06.260</a> Shares without certificates.
+## <a name="rcw23B.06.260">RCW 23B.06.260</a>: Shares without certificates.
 
 (1) Unless the articles of incorporation or bylaws provide otherwise, the board of directors of a corporation may approve the issue of some or all of the shares of any or all of its classes or series without certificates. The approval does not affect shares already represented by certificates until they are surrendered to the corporation.
 
@@ -1408,7 +1362,7 @@ A purchaser from a corporation of its own shares is not liable to the corporatio
 
 
 
-## <a name="rcw23B.06.270">RCW 23B.06.270</a> Restriction on transfer of shares and other securities.
+## <a name="rcw23B.06.270">RCW 23B.06.270</a>: Restriction on transfer of shares and other securities.
 
 (1) The articles of incorporation, bylaws, an agreement among shareholders, or an agreement between shareholders and the corporation may impose restrictions on the transfer or registration of transfer of shares of the corporation. A restriction does not affect shares issued before the restriction was adopted unless the holders of the shares are parties to the restriction agreement or voted in favor of the restriction.
 
@@ -1438,13 +1392,13 @@ securities law; or
 
 
 
-## <a name="rcw23B.06.280">RCW 23B.06.280</a> Expense of issue.
+## <a name="rcw23B.06.280">RCW 23B.06.280</a>: Expense of issue.
 
 A corporation may pay the expenses of selling or underwriting its shares, and of organizing or reorganizing the corporation, from the consideration received for shares.
 
 
 
-## <a name="rcw23B.06.300">RCW 23B.06.300</a> Shareholders' preemptive rights.
+## <a name="rcw23B.06.300">RCW 23B.06.300</a>: Shareholders' preemptive rights.
 
 (1) Unless the articles of incorporation provide otherwise, and subject to the limitations in subsections (3) and (4) of this section, the shareholders of a corporation have a preemptive right, granted on uniform terms and conditions prescribed by the board of directors to provide a fair and reasonable opportunity to exercise the right, to acquire proportional amounts of the corporation's unissued shares upon the decision of the board of directors to issue them.
 
@@ -1472,7 +1426,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.06.310">RCW 23B.06.310</a> Corporation's acquisition of its own shares.
+## <a name="rcw23B.06.310">RCW 23B.06.310</a>: Corporation's acquisition of its own shares.
 
 (1) A corporation may acquire its own shares and shares so acquired constitute authorized but unissued shares.
 
@@ -1488,7 +1442,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.06.400">RCW 23B.06.400</a> Distributions to shareholders.
+## <a name="rcw23B.06.400">RCW 23B.06.400</a>: Distributions to shareholders.
 
 (1) A board of directors may approve and the corporation may make distributions to its shareholders subject to restriction by the articles of incorporation and the limitation in subsection (2) of this section.
 
@@ -1524,15 +1478,13 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.07">Chapter 23B.07 RCW</a> SHAREHOLDERS
+## <a name="rcw23B.07">Chapter 23B.07 RCW</a>: SHAREHOLDERS
 
 ### RCW Chapter Sections
 
@@ -1560,7 +1512,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 - [23B.07.320](#rcw23B.07.320) Agreements among shareholders -- Acquisition of shares after agreement. 
 - [23B.07.400](#rcw23B.07.400) Derivative proceedings procedure. 
 
-## <a name="rcw23B.07.010">RCW 23B.07.010</a> Annual meeting.
+## <a name="rcw23B.07.010">RCW 23B.07.010</a>: Annual meeting.
 
 (1) Except as provided in subsections (2) and (5) of this section, a corporation shall hold a meeting of shareholders annually for the election of directors at a time stated in or fixed in accordance with the bylaws.
 
@@ -1576,15 +1528,13 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
+- &#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
 
 
 
-## <a name="rcw23B.07.020">RCW 23B.07.020</a> Special meeting.
+## <a name="rcw23B.07.020">RCW 23B.07.020</a>: Special meeting.
 
 (1) A corporation shall hold a special meeting of shareholders:
 
@@ -1604,7 +1554,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.030">RCW 23B.07.030</a> Court-ordered meeting.
+## <a name="rcw23B.07.030">RCW 23B.07.030</a>: Court-ordered meeting.
 
 (1) The superior court of the county in which the corporation's registered office is located may, after notice to the corporation, summarily order a meeting to be held:
 
@@ -1620,7 +1570,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.035">RCW 23B.07.035</a> Inspectors to act at meetings -- Appointment -- Duties -- Certain corporations.
+## <a name="rcw23B.07.035">RCW 23B.07.035</a>: Inspectors to act at meetings -- Appointment -- Duties -- Certain corporations.
 
 (1) A corporation having any shares listed on a national securities exchange or regularly traded in a market maintained by one or more members of a national or affiliated securities association shall, and any other corporation may, appoint one or more inspectors to act at a meeting of shareholders and make a written report of the inspectors' determinations. Each inspector shall take and sign an oath faithfully to execute the duties of inspector with strict impartiality and according to the best of the inspector's ability.
 
@@ -1642,7 +1592,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.040">RCW 23B.07.040</a> Corporate action without meeting.
+## <a name="rcw23B.07.040">RCW 23B.07.040</a>: Corporate action without meeting.
 
 (1)(a) Corporate action required or permitted by this title to be approved by a shareholder vote at a meeting may be approved without a meeting or a vote if either:
 
@@ -1664,7 +1614,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.050">RCW 23B.07.050</a> Notice of meeting.
+## <a name="rcw23B.07.050">RCW 23B.07.050</a>: Notice of meeting.
 
 (1) A corporation shall notify shareholders of the date, time, and place of each annual and special shareholders' meeting. Such notice shall be given no fewer than ten nor more than sixty days before the meeting date, except that notice of a shareholders' meeting to act on an amendment to the articles of incorporation, a plan of merger or share exchange, a proposed sale of assets pursuant to RCW [23B.12.020](#rcw23B.12.020), or the dissolution of the corporation shall be given no fewer than twenty nor more than sixty days before the meeting date. Unless this title or the articles of incorporation require otherwise, the corporation is required to give notice only to shareholders entitled to vote at the meeting.
 
@@ -1676,7 +1626,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.060">RCW 23B.07.060</a> Waiver of notice.
+## <a name="rcw23B.07.060">RCW 23B.07.060</a>: Waiver of notice.
 
 (1) A shareholder may waive any notice required by this title, the articles of incorporation, or bylaws before or after the date and time of the meeting that is the subject of such notice, or in the case of notice required by RCW [23B.07.040](#rcw23B.07.040)(3), before or after the corporate action to be approved by executed consent becomes effective. Except as provided by subsections (2) and (3) of this section, the waiver must be delivered by the shareholder entitled to notice to the corporation for inclusion in the minutes or filing with the corporate records, which waiver shall be set forth either (a) in an executed and dated record or (b) if the corporation has designated an address, location, or system to which the waiver may be electronically transmitted and the waiver is electronically transmitted to the designated address, location, or system, in an executed and dated electronically transmitted record.
 
@@ -1686,7 +1636,7 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.070">RCW 23B.07.070</a> Record date.
+## <a name="rcw23B.07.070">RCW 23B.07.070</a>: Record date.
 
 (1) The bylaws may fix or provide the manner of fixing the record date for one or more voting groups in order to determine the shareholders entitled to notice of a shareholders' meeting, to demand a special meeting, to vote, or to approve any other corporate action. If the bylaws do not fix or provide for fixing a record date, the board of directors of the corporation may fix a future date as the record date.
 
@@ -1704,13 +1654,13 @@ A corporation may pay the expenses of selling or underwriting its shares, and of
 
 
 
-## <a name="rcw23B.07.080">RCW 23B.07.080</a> Shareholder participation by means of communication equipment.
+## <a name="rcw23B.07.080">RCW 23B.07.080</a>: Shareholder participation by means of communication equipment.
 
 If the articles of incorporation or bylaws so provide, shareholders may participate in any meeting of shareholders by any means of communication by which all persons participating in the meeting can hear each other during the meeting. A shareholder participating in a meeting by this means is deemed to be present in person at the meeting.
 
 
 
-## <a name="rcw23B.07.200">RCW 23B.07.200</a> Shareholders' list for meeting.
+## <a name="rcw23B.07.200">RCW 23B.07.200</a>: Shareholders' list for meeting.
 
 (1) After fixing a record date for a meeting, a corporation shall prepare an alphabetical list of the names of all its shareholders on the record date who are entitled to notice of a shareholders' meeting. The list must be arranged by voting group, and within each voting group by class or series of shares, and show the address of and number of shares held by each shareholder.
 
@@ -1726,7 +1676,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.210">RCW 23B.07.210</a> Voting entitlement of shares.
+## <a name="rcw23B.07.210">RCW 23B.07.210</a>: Voting entitlement of shares.
 
 (1) Except as provided in subsections (2) and (3) of this section or unless the articles of incorporation provide otherwise, each outstanding share, regardless of class, is entitled to one vote on each matter voted on at a shareholders' meeting. Only shares are entitled to vote.
 
@@ -1736,7 +1686,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.220">RCW 23B.07.220</a> Proxies.
+## <a name="rcw23B.07.220">RCW 23B.07.220</a>: Proxies.
 
 (1) A shareholder may vote the shareholder's shares in person or by proxy.
 
@@ -1772,7 +1722,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.230">RCW 23B.07.230</a> Shares held by nominees.
+## <a name="rcw23B.07.230">RCW 23B.07.230</a>: Shares held by nominees.
 
 (1) A corporation may establish a procedure by which the beneficial owner of shares that are registered in the name of a nominee is recognized by the corporation as the shareholder. The extent of this recognition may be determined in the procedure.
 
@@ -1792,7 +1742,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.240">RCW 23B.07.240</a> Corporation's acceptance of votes.
+## <a name="rcw23B.07.240">RCW 23B.07.240</a>: Corporation's acceptance of votes.
 
 (1) If the name executed on a vote, consent, waiver, or proxy appointment corresponds to the name of a shareholder, the corporation, if acting in good faith, is entitled to accept the vote, consent, waiver, or proxy appointment and give it effect as the act of the shareholder.
 
@@ -1816,7 +1766,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.250">RCW 23B.07.250</a> Quorum and voting requirements.
+## <a name="rcw23B.07.250">RCW 23B.07.250</a>: Quorum and voting requirements.
 
 (1) Shares entitled to vote as a separate voting group may approve a corporate action at a meeting only if a quorum of those shares exists with respect to that corporate action. Unless the articles of incorporation or this title provide otherwise, a majority of the votes entitled to be cast on the corporate action by the voting group constitutes a quorum of that voting group for approval of that corporate action.
 
@@ -1830,7 +1780,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.260">RCW 23B.07.260</a> Corporate action by single and multiple voting groups.
+## <a name="rcw23B.07.260">RCW 23B.07.260</a>: Corporate action by single and multiple voting groups.
 
 (1) If the articles of incorporation or this title provide for voting on a corporate action by all shares entitled to vote thereon, voting together as a single voting group and do not provide for separate voting by any other voting group or groups with respect to that corporate action, that corporate action is approved when voted upon by that single voting group as provided in RCW [23B.07.250](#rcw23B.07.250).
 
@@ -1838,7 +1788,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.270">RCW 23B.07.270</a> Greater or lesser quorum or voting requirements.
+## <a name="rcw23B.07.270">RCW 23B.07.270</a>: Greater or lesser quorum or voting requirements.
 
 (1) The articles of incorporation may provide for a greater or lesser quorum, but not less than one-third of the votes entitled to be cast, for shareholders, or voting groups of shareholders, than is provided for by this title.
 
@@ -1852,15 +1802,13 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.07.280">RCW 23B.07.280</a> Voting for directors -- Cumulative voting.
+## <a name="rcw23B.07.280">RCW 23B.07.280</a>: Voting for directors -- Cumulative voting.
 
 (1) Unless otherwise provided in the articles of incorporation, shareholders entitled to vote at any election of directors are entitled to cumulate votes by multiplying the number of votes they are entitled to cast by the number of directors for whom they are entitled to vote and to cast the product for a single candidate or distribute the product among two or more candidates.
 
@@ -1868,7 +1816,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.300">RCW 23B.07.300</a> Voting trusts.
+## <a name="rcw23B.07.300">RCW 23B.07.300</a>: Voting trusts.
 
 (1) One or more shareholders may create a voting trust, conferring on a trustee the right to vote or otherwise act for them, by signing an agreement setting out the provisions of the trust, which may include anything consistent with its purpose, and transferring their shares to the trustee. When a voting trust agreement is signed, the trustee shall prepare a list of the names and addresses of all owners of beneficial interests in the trust, together with the number and class of shares each owner of a beneficial interest transferred to the trust, and deliver copies of the list and agreement to the corporation's principal office.
 
@@ -1878,7 +1826,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.310">RCW 23B.07.310</a> Voting agreements.
+## <a name="rcw23B.07.310">RCW 23B.07.310</a>: Voting agreements.
 
 (1) Two or more shareholders may provide for the manner in which they will vote their shares by signing an agreement for that purpose. A voting agreement created under this section is not subject to the provisions of RCW [23B.07.300](#rcw23B.07.300).
 
@@ -1886,7 +1834,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.320">RCW 23B.07.320</a> Agreements among shareholders -- Acquisition of shares after agreement.
+## <a name="rcw23B.07.320">RCW 23B.07.320</a>: Agreements among shareholders -- Acquisition of shares after agreement.
 
 (1) An agreement among the shareholders of a corporation that is not contrary to public policy and that complies with this section is effective among the shareholders and the corporation even though it is inconsistent with one or more other provisions of this title in that it:
 
@@ -1928,7 +1876,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.07.400">RCW 23B.07.400</a> Derivative proceedings procedure.
+## <a name="rcw23B.07.400">RCW 23B.07.400</a>: Derivative proceedings procedure.
 
 (1) A person may not commence a proceeding in the right of a domestic or foreign corporation unless the person was a shareholder of the corporation when the transaction complained of occurred or unless the person became a shareholder through transfer by operation of law from one who was a shareholder at that time.
 
@@ -1942,7 +1890,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.08">Chapter 23B.08 RCW</a> DIRECTORS AND OFFICERS
+## <a name="rcw23B.08">Chapter 23B.08 RCW</a>: DIRECTORS AND OFFICERS
 
 ### RCW Chapter Sections
 
@@ -1991,7 +1939,7 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 - [23B.08.730](#rcw23B.08.730) Shareholders' action. 
 - [23B.08.900](#rcw23B.08.900) Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521. 
 
-## <a name="rcw23B.08.010">RCW 23B.08.010</a> Requirement for and duties of board of directors.
+## <a name="rcw23B.08.010">RCW 23B.08.010</a>: Requirement for and duties of board of directors.
 
 (1) Each corporation must have a board of directors, except that a corporation may dispense with or limit the authority of its board of directors by describing in its articles of incorporation, or in a shareholders' agreement authorized by RCW [23B.07.320](#rcw23B.07.320), who will perform some or all of the duties of the board of directors.
 
@@ -2003,13 +1951,13 @@ If the articles of incorporation or bylaws so provide, shareholders may particip
 
 
 
-## <a name="rcw23B.08.020">RCW 23B.08.020</a> Qualifications of directors.
+## <a name="rcw23B.08.020">RCW 23B.08.020</a>: Qualifications of directors.
 
 The articles of incorporation or bylaws may prescribe qualifications for directors. A director need not be a resident of this state or a shareholder of the corporation unless the articles of incorporation or bylaws so prescribe.
 
 
 
-## <a name="rcw23B.08.030">RCW 23B.08.030</a> Number and election of directors.
+## <a name="rcw23B.08.030">RCW 23B.08.030</a>: Number and election of directors.
 
 (1) A board of directors must consist of one or more individuals, with the number specified in or fixed in accordance with the articles of incorporation or bylaws.
 
@@ -2017,21 +1965,19 @@ The articles of incorporation or bylaws may prescribe qualifications for directo
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
+- &#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
 
 
 
-## <a name="rcw23B.08.040">RCW 23B.08.040</a> Election of directors by certain classes or series of shares.
+## <a name="rcw23B.08.040">RCW 23B.08.040</a>: Election of directors by certain classes or series of shares.
 
 If the articles of incorporation authorize dividing the shares into classes or series, the articles may also authorize the election of all or a specified number of directors by the holders of one or more authorized classes or series of shares. A class, or classes, or series of shares entitled to elect one or more directors is a separate voting group for purposes of the election of directors.
 
 
 
-## <a name="rcw23B.08.050">RCW 23B.08.050</a> Terms of directors -- Generally.
+## <a name="rcw23B.08.050">RCW 23B.08.050</a>: Terms of directors -- Generally.
 
 (1) The terms of the initial directors of a corporation expire at the first shareholders' meeting at which directors are elected.
 
@@ -2045,15 +1991,13 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
+- &#160;&#160;&#160;&#160;&#160;**Findings -- Construction -- 1994 c 256:** See RCW [43.320.007](http://apps.leg.wa.gov/RCW/default.aspx?cite=43.320.007).
 
 
 
-## <a name="rcw23B.08.060">RCW 23B.08.060</a> Staggered terms for directors.
+## <a name="rcw23B.08.060">RCW 23B.08.060</a>: Staggered terms for directors.
 
 (1) The articles of incorporation may provide for staggering the terms of directors by dividing the total number of directors into two or three groups, with each group containing one-half or one-third of the total, as near as may be. In that event, the terms of directors in the first group expire at the first annual shareholders' meeting after their election, the terms of the second group expire at the second annual shareholders' meeting after their election, and the terms of the third group, if any, expire at the third annual shareholders' meeting after their election. At each annual shareholders' meeting held thereafter, directors shall be chosen for a term of two years or three years, as the case may be, to succeed those whose terms expire.
 
@@ -2061,7 +2005,7 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-## <a name="rcw23B.08.070">RCW 23B.08.070</a> Resignation of directors.
+## <a name="rcw23B.08.070">RCW 23B.08.070</a>: Resignation of directors.
 
 (1) A director may resign at any time by delivering notice in the form of an executed resignation to the board of directors, its chairperson, the president, or the secretary of the corporation.
 
@@ -2069,7 +2013,7 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-## <a name="rcw23B.08.080">RCW 23B.08.080</a> Removal of directors by shareholders.
+## <a name="rcw23B.08.080">RCW 23B.08.080</a>: Removal of directors by shareholders.
 
 (1) The shareholders may remove one or more directors with or without cause unless the articles of incorporation provide that directors may be removed only for cause.
 
@@ -2081,7 +2025,7 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-## <a name="rcw23B.08.090">RCW 23B.08.090</a> Removal of directors by judicial proceeding.
+## <a name="rcw23B.08.090">RCW 23B.08.090</a>: Removal of directors by judicial proceeding.
 
 (1) The superior court of the county where a corporation's principal office, or, if none in this state, its registered office, is located may remove a director of the corporation from office in a proceeding commenced either by the corporation or by its shareholders holding at least ten percent of the outstanding shares of any class if the court finds that (a) the director engaged in fraudulent or dishonest conduct with respect to the corporation, and (b) removal is in the best interest of the corporation.
 
@@ -2091,7 +2035,7 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-## <a name="rcw23B.08.100">RCW 23B.08.100</a> Vacancy on board of directors.
+## <a name="rcw23B.08.100">RCW 23B.08.100</a>: Vacancy on board of directors.
 
 (1) Unless the articles of incorporation provide otherwise, if a vacancy occurs on a board of directors, including a vacancy resulting from an increase in the number of directors:
 
@@ -2107,13 +2051,13 @@ If the articles of incorporation authorize dividing the shares into classes or s
 
 
 
-## <a name="rcw23B.08.110">RCW 23B.08.110</a> Compensation of directors.
+## <a name="rcw23B.08.110">RCW 23B.08.110</a>: Compensation of directors.
 
 Unless the articles of incorporation or bylaws provide otherwise, the board of directors may fix the compensation of directors.
 
 
 
-## <a name="rcw23B.08.200">RCW 23B.08.200</a> Regular or special meetings of the board.
+## <a name="rcw23B.08.200">RCW 23B.08.200</a>: Regular or special meetings of the board.
 
 (1) The board of directors may hold regular or special meetings in or out of this state.
 
@@ -2121,7 +2065,7 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 
 
-## <a name="rcw23B.08.210">RCW 23B.08.210</a> Corporate action without meeting.
+## <a name="rcw23B.08.210">RCW 23B.08.210</a>: Corporate action without meeting.
 
 (1) Unless the articles of incorporation or bylaws provide otherwise, corporate action required or permitted by this title to be approved at a board of directors' meeting may be approved without a meeting if the corporate action is approved by all members of the board. The approval of the corporate action must be evidenced by one or more consents describing the corporate action being approved, executed by each director either before or after the corporate action becomes effective, and delivered to the corporation for inclusion in the minutes or filing with the corporate records, each of which consents shall be set forth either (a) in an executed record or (b) if the corporation has designated an address, location, or system to which the consents may be electronically transmitted and the consent is electronically transmitted to the designated address, location, or system, in an executed electronically transmitted record.
 
@@ -2131,7 +2075,7 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 
 
-## <a name="rcw23B.08.220">RCW 23B.08.220</a> Notice of meeting.
+## <a name="rcw23B.08.220">RCW 23B.08.220</a>: Notice of meeting.
 
 (1) Unless the articles of incorporation or bylaws provide otherwise, regular meetings of the board of directors may be held without notice of the date, time, place, or purpose of the meeting.
 
@@ -2139,7 +2083,7 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 
 
-## <a name="rcw23B.08.230">RCW 23B.08.230</a> Waiver of notice.
+## <a name="rcw23B.08.230">RCW 23B.08.230</a>: Waiver of notice.
 
 (1) A director may waive any notice required by this title, the articles of incorporation, or bylaws before or after the date and time stated in the notice, and such waiver shall be equivalent to the giving of such notice. Except as provided by subsection (2) of this section, the waiver must be delivered by the director entitled to the notice to the corporation for inclusion in the minutes or filing with the corporate records, which waiver shall be set forth either (a) in an executed record or (b) if the corporation has designated an address, location, or system to which the waiver may be electronically transmitted and the waiver has been electronically transmitted to the designated address, location, or system, in an executed electronically transmitted record.
 
@@ -2147,7 +2091,7 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 
 
-## <a name="rcw23B.08.240">RCW 23B.08.240</a> Quorum and voting.
+## <a name="rcw23B.08.240">RCW 23B.08.240</a>: Quorum and voting.
 
 (1) Unless the articles of incorporation or bylaws require a greater or lesser number, a quorum of a board of directors consists of a majority of the number of directors specified in or fixed in accordance with the articles of incorporation or bylaws.
 
@@ -2159,13 +2103,13 @@ Unless the articles of incorporation or bylaws provide otherwise, the board of d
 
 
 
-## <a name="rcw23B.08.245">RCW 23B.08.245</a> Corporate action -- Vote of shareholders.
+## <a name="rcw23B.08.245">RCW 23B.08.245</a>: Corporate action -- Vote of shareholders.
 
 A corporation may agree to submit a corporate action to a vote of its shareholders whether or not the board of directors determines at any time subsequent to approving such a corporate action that it no longer recommends the corporate action.
 
 
 
-## <a name="rcw23B.08.250">RCW 23B.08.250</a> Committees.
+## <a name="rcw23B.08.250">RCW 23B.08.250</a>: Committees.
 
 (1) Unless the articles of incorporation or bylaws provide otherwise, a board of directors may create one or more committees of directors. Each committee must have two or more members, who serve at the pleasure of the board of directors.
 
@@ -2195,7 +2139,7 @@ A corporation may agree to submit a corporate action to a vote of its shareholde
 
 
 
-## <a name="rcw23B.08.300">RCW 23B.08.300</a> General standards for directors.
+## <a name="rcw23B.08.300">RCW 23B.08.300</a>: General standards for directors.
 
 (1) A director shall discharge the duties of a director, including duties as member of a committee:
 
@@ -2219,7 +2163,7 @@ A corporation may agree to submit a corporate action to a vote of its shareholde
 
 
 
-## <a name="rcw23B.08.310">RCW 23B.08.310</a> Liability for unlawful distributions.
+## <a name="rcw23B.08.310">RCW 23B.08.310</a>: Liability for unlawful distributions.
 
 (1) A director who votes for or assents to a distribution made in violation of RCW [23B.06.400](#rcw23B.06.400) or the articles of incorporation is personally liable to the corporation for the amount of the distribution that exceeds the amount that could have been distributed without violating RCW [23B.06.400](#rcw23B.06.400) or the articles of incorporation if it is established that the director did not perform the director's duties in compliance with RCW [23B.08.300](#rcw23B.08.300). In any proceeding commenced under this section, a director has all of the defenses ordinarily available to a director.
 
@@ -2237,13 +2181,13 @@ A corporation may agree to submit a corporate action to a vote of its shareholde
 
 
 
-## <a name="rcw23B.08.320">RCW 23B.08.320</a> Limitation on liability of directors.
+## <a name="rcw23B.08.320">RCW 23B.08.320</a>: Limitation on liability of directors.
 
 The articles of incorporation may contain provisions not inconsistent with law that eliminate or limit the personal liability of a director to the corporation or its shareholders for monetary damages for conduct as a director, provided that such provisions shall not eliminate or limit the liability of a director for acts or omissions that involve intentional misconduct by a director or a knowing violation of law by a director, for conduct violating RCW [23B.08.310](#rcw23B.08.310), or for any transaction from which the director will personally receive a benefit in money, property, or services to which the director is not legally entitled. No such provision shall eliminate or limit the liability of a director for any act or omission occurring prior to the date when such provision becomes effective.
 
 
 
-## <a name="rcw23B.08.400">RCW 23B.08.400</a> Officers.
+## <a name="rcw23B.08.400">RCW 23B.08.400</a>: Officers.
 
 (1) A corporation has the officers described in its bylaws or appointed by the board of directors in accordance with the bylaws.
 
@@ -2255,13 +2199,13 @@ The articles of incorporation may contain provisions not inconsistent with law t
 
 
 
-## <a name="rcw23B.08.410">RCW 23B.08.410</a> Duties of officers.
+## <a name="rcw23B.08.410">RCW 23B.08.410</a>: Duties of officers.
 
 Each officer has the authority and shall perform the duties set forth in the bylaws or, to the extent consistent with the bylaws, the duties prescribed by the board of directors or by an officer authorized by the board of directors to prescribe the duties of other officers.
 
 
 
-## <a name="rcw23B.08.420">RCW 23B.08.420</a> Standards of conduct for officers.
+## <a name="rcw23B.08.420">RCW 23B.08.420</a>: Standards of conduct for officers.
 
 (1) An officer with discretionary authority shall discharge the officer's duties under that authority:
 
@@ -2283,7 +2227,7 @@ Each officer has the authority and shall perform the duties set forth in the byl
 
 
 
-## <a name="rcw23B.08.430">RCW 23B.08.430</a> Resignation and removal of officers.
+## <a name="rcw23B.08.430">RCW 23B.08.430</a>: Resignation and removal of officers.
 
 (1) An officer may resign at any time by delivering notice to the corporation. A resignation is effective when the notice is delivered unless the notice specifies a later effective date.
 
@@ -2291,7 +2235,7 @@ Each officer has the authority and shall perform the duties set forth in the byl
 
 
 
-## <a name="rcw23B.08.440">RCW 23B.08.440</a> Contract rights of officers.
+## <a name="rcw23B.08.440">RCW 23B.08.440</a>: Contract rights of officers.
 
 (1) The appointment of an officer does not itself create contract rights.
 
@@ -2299,7 +2243,7 @@ Each officer has the authority and shall perform the duties set forth in the byl
 
 
 
-## <a name="rcw23B.08.500">RCW 23B.08.500</a> Indemnification definitions.
+## <a name="rcw23B.08.500">RCW 23B.08.500</a>: Indemnification definitions.
 
 For purposes of RCW [23B.08.510](#rcw23B.08.510) through [23B.08.600](#rcw23B.08.600):
 
@@ -2319,7 +2263,7 @@ For purposes of RCW [23B.08.510](#rcw23B.08.510) through [23B.08.600](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.510">RCW 23B.08.510</a> Authority to indemnify.
+## <a name="rcw23B.08.510">RCW 23B.08.510</a>: Authority to indemnify.
 
 (1) Except as provided in subsection (4) of this section, a corporation may indemnify an individual made a party to a proceeding because the individual is or was a director against liability incurred in the proceeding if:
 
@@ -2347,13 +2291,13 @@ For purposes of RCW [23B.08.510](#rcw23B.08.510) through [23B.08.600](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.520">RCW 23B.08.520</a> Mandatory indemnification.
+## <a name="rcw23B.08.520">RCW 23B.08.520</a>: Mandatory indemnification.
 
 Unless limited by its articles of incorporation, a corporation shall indemnify a director who was wholly successful, on the merits or otherwise, in the defense of any proceeding to which the director was a party because of being a director of the corporation against reasonable expenses incurred by the director in connection with the proceeding.
 
 
 
-## <a name="rcw23B.08.530">RCW 23B.08.530</a> Advance for expenses.
+## <a name="rcw23B.08.530">RCW 23B.08.530</a>: Advance for expenses.
 
 (1) A corporation may pay for or reimburse the reasonable expenses incurred by a director who is a party to a proceeding in advance of final disposition of the proceeding if:
 
@@ -2367,7 +2311,7 @@ Unless limited by its articles of incorporation, a corporation shall indemnify a
 
 
 
-## <a name="rcw23B.08.540">RCW 23B.08.540</a> Court-ordered indemnification.
+## <a name="rcw23B.08.540">RCW 23B.08.540</a>: Court-ordered indemnification.
 
 Unless a corporation's articles of incorporation provide otherwise, a director of a corporation who is a party to a proceeding may apply for indemnification or advance of expenses to the court conducting the proceeding or to another court of competent jurisdiction. On receipt of an application, the court after giving any notice the court considers necessary may order indemnification or advance of expenses if it determines:
 
@@ -2379,7 +2323,7 @@ Unless a corporation's articles of incorporation provide otherwise, a director o
 
 
 
-## <a name="rcw23B.08.550">RCW 23B.08.550</a> Determination and authorization of indemnification.
+## <a name="rcw23B.08.550">RCW 23B.08.550</a>: Determination and authorization of indemnification.
 
 (1) A corporation may not indemnify a director under RCW [23B.08.510](#rcw23B.08.510) unless approved in the specific case after a determination has been made that indemnification of the director is permissible in the circumstances because the director has met the standard of conduct set forth in RCW [23B.08.510](#rcw23B.08.510).
 
@@ -2401,7 +2345,7 @@ Unless a corporation's articles of incorporation provide otherwise, a director o
 
 
 
-## <a name="rcw23B.08.560">RCW 23B.08.560</a> Shareholder authorized indemnification and advancement of expenses.
+## <a name="rcw23B.08.560">RCW 23B.08.560</a>: Shareholder authorized indemnification and advancement of expenses.
 
 (1) If authorized by the articles of incorporation, a bylaw adopted or ratified by the shareholders, or a resolution adopted or ratified, before or after the event, by the shareholders, a corporation shall have power to indemnify or agree to indemnify a director made a party to a proceeding, or obligate itself to advance or reimburse expenses incurred in a proceeding, without regard to the limitations in RCW [23B.08.510](#rcw23B.08.510) through [23B.08.550](#rcw23B.08.550), provided that no such indemnity shall indemnify any director from or on account of:
 
@@ -2415,7 +2359,7 @@ Unless a corporation's articles of incorporation provide otherwise, a director o
 
 
 
-## <a name="rcw23B.08.570">RCW 23B.08.570</a> Indemnification of officers, employees, and agents.
+## <a name="rcw23B.08.570">RCW 23B.08.570</a>: Indemnification of officers, employees, and agents.
 
 Unless a corporation's articles of incorporation provide otherwise:
 
@@ -2427,13 +2371,13 @@ Unless a corporation's articles of incorporation provide otherwise:
 
 
 
-## <a name="rcw23B.08.580">RCW 23B.08.580</a> Insurance.
+## <a name="rcw23B.08.580">RCW 23B.08.580</a>: Insurance.
 
 A corporation may purchase and maintain insurance on behalf of an individual who is or was a director, officer, employee, or agent of the corporation, or who, while a director, officer, employee, or agent of the corporation, is or was serving at the request of the corporation as a director, officer, partner, trustee, employee, or agent of another foreign or domestic corporation, partnership, joint venture, trust, employee benefit plan, or other enterprise, against liability asserted against or incurred by the individual in that capacity or arising from the individual's status as a director, officer, employee, or agent, whether or not the corporation would have power to indemnify the individual against the same liability under RCW [23B.08.510](#rcw23B.08.510) or [23B.08.520](#rcw23B.08.520).
 
 
 
-## <a name="rcw23B.08.590">RCW 23B.08.590</a> Validity of indemnification or advance for expenses.
+## <a name="rcw23B.08.590">RCW 23B.08.590</a>: Validity of indemnification or advance for expenses.
 
 (1) A provision treating a corporation's indemnification of or advance for expenses to directors that is contained in its articles of incorporation, bylaws, a resolution of its shareholders or board of directors, or in a contract or otherwise, is valid only if and to the extent the provision is consistent with RCW [23B.08.500](#rcw23B.08.500) through [23B.08.580](#rcw23B.08.580). If articles of incorporation limit indemnification or advance for expenses, indemnification and advance for expenses are valid only to the extent consistent with the articles of incorporation.
 
@@ -2441,19 +2385,19 @@ A corporation may purchase and maintain insurance on behalf of an individual who
 
 
 
-## <a name="rcw23B.08.600">RCW 23B.08.600</a> Report to shareholders.
+## <a name="rcw23B.08.600">RCW 23B.08.600</a>: Report to shareholders.
 
 If a corporation indemnifies or advances expenses to a director under RCW [23B.08.510](#rcw23B.08.510), [23B.08.520](#rcw23B.08.520), [23B.08.530](#rcw23B.08.530), [23B.08.540](#rcw23B.08.540), or [23B.08.560](#rcw23B.08.560) in connection with a proceeding by or in the right of the corporation, the corporation shall report the indemnification or advance in the form of a notice to the shareholders delivered with or before the notice of the next shareholders' meeting.
 
 
 
-## <a name="rcw23B.08.603">RCW 23B.08.603</a> Indemnification or advance for expenses -- Later amendment or repeal of subject provision.
+## <a name="rcw23B.08.603">RCW 23B.08.603</a>: Indemnification or advance for expenses -- Later amendment or repeal of subject provision.
 
 The right of a director, officer, employee, or agent to indemnification or to advancement of expenses arising under a provision in the articles of incorporation or a bylaw shall not be eliminated or impaired by an amendment to or repeal of that provision after the occurrence of the act or omission that is the subject of the proceeding for which indemnification or advancement of expenses under that provision is sought, unless the provision in effect at the time of such an act or omission explicitly authorizes the elimination or impairment of the right after such an action or omission has occurred.
 
 
 
-## <a name="rcw23B.08.700">RCW 23B.08.700</a> Definitions.
+## <a name="rcw23B.08.700">RCW 23B.08.700</a>: Definitions.
 
 For purposes of RCW [23B.08.710](#rcw23B.08.710) through [23B.08.730](#rcw23B.08.730):
 
@@ -2473,7 +2417,7 @@ For purposes of RCW [23B.08.710](#rcw23B.08.710) through [23B.08.730](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.710">RCW 23B.08.710</a> Judicial action.
+## <a name="rcw23B.08.710">RCW 23B.08.710</a>: Judicial action.
 
 (1) A transaction effected or proposed to be effected by a corporation, or by a subsidiary of the corporation or any other entity in which the corporation has a controlling interest, that is not a director's conflicting interest transaction may not be enjoined, set aside, or give rise to an award of damages or other sanctions, in a proceeding by a shareholder or by or in the right of the corporation, because a director of the corporation, or any person with whom or which the director has a personal, economic, or other association, has an interest in the transaction.
 
@@ -2487,7 +2431,7 @@ For purposes of RCW [23B.08.710](#rcw23B.08.710) through [23B.08.730](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.720">RCW 23B.08.720</a> Directors' action.
+## <a name="rcw23B.08.720">RCW 23B.08.720</a>: Directors' action.
 
 (1) Directors' action respecting a transaction is effective for purposes of RCW [23B.08.710](#rcw23B.08.710)(2)(a) if the transaction received the affirmative vote of a majority, but no fewer than two, of those qualified directors on the board of directors or on a duly empowered committee of the board who voted on the transaction after either required disclosure to them, to the extent the information was not known by them, or compliance with subsection (2) of this section, provided that action by a committee is so effective only if:
 
@@ -2503,7 +2447,7 @@ For purposes of RCW [23B.08.710](#rcw23B.08.710) through [23B.08.730](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.730">RCW 23B.08.730</a> Shareholders' action.
+## <a name="rcw23B.08.730">RCW 23B.08.730</a>: Shareholders' action.
 
 (1) Shareholders' action respecting a transaction is effective for purposes of RCW [23B.08.710](#rcw23B.08.710)(2)(b) if a majority of the votes entitled to be cast by the holders of all qualified shares were cast in favor of the transaction after (a) notice to shareholders describing the director's conflicting interest transaction, (b) provision of the information referred to in subsection (4) of this section, and (c) required disclosure to the shareholders who voted on the transaction, to the extent the information was not known by them.
 
@@ -2517,13 +2461,13 @@ For purposes of RCW [23B.08.710](#rcw23B.08.710) through [23B.08.730](#rcw23B.08
 
 
 
-## <a name="rcw23B.08.900">RCW 23B.08.900</a> Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.
+## <a name="rcw23B.08.900">RCW 23B.08.900</a>: Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.
 
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
 
 
 
-## <a name="rcw23B.09">Chapter 23B.09 RCW</a> CORPORATE ENTITIES -- CONVERSIONS
+## <a name="rcw23B.09">Chapter 23B.09 RCW</a>: CORPORATE ENTITIES -- CONVERSIONS
 
 ### RCW Chapter Sections
 
@@ -2536,7 +2480,7 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 - [23B.09.050](#rcw23B.09.050) Effect of entity conversion. 
 - [23B.09.060](#rcw23B.09.060) Abandonment of entity conversion. 
 
-## <a name="rcw23B.09.005">RCW 23B.09.005</a> Definitions.
+## <a name="rcw23B.09.005">RCW 23B.09.005</a>: Definitions.
 
 The definitions in this section apply throughout this chapter unless the context clearly requires otherwise.
 
@@ -2574,7 +2518,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 
 
-## <a name="rcw23B.09.010">RCW 23B.09.010</a> Entity conversion.
+## <a name="rcw23B.09.010">RCW 23B.09.010</a>: Entity conversion.
 
 (1) A domestic corporation may become an other entity pursuant to a plan of entity conversion if the entity conversion is permitted by the organic law of the other entity by:
 
@@ -2590,7 +2534,7 @@ The definitions in this section apply throughout this chapter unless the context
 
 
 
-## <a name="rcw23B.09.020">RCW 23B.09.020</a> Plan of entity conversion.
+## <a name="rcw23B.09.020">RCW 23B.09.020</a>: Plan of entity conversion.
 
 A plan of entity conversion must be in a record and must include:
 
@@ -2604,7 +2548,7 @@ A plan of entity conversion must be in a record and must include:
 
 
 
-## <a name="rcw23B.09.030">RCW 23B.09.030</a> Approval of a plan of entity conversion.
+## <a name="rcw23B.09.030">RCW 23B.09.030</a>: Approval of a plan of entity conversion.
 
 In the case of an entity conversion of a domestic corporation to an other entity:
 
@@ -2628,7 +2572,7 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 
 
-## <a name="rcw23B.09.040">RCW 23B.09.040</a> Articles of entity conversion.
+## <a name="rcw23B.09.040">RCW 23B.09.040</a>: Articles of entity conversion.
 
 (1) After a plan of entity conversion by a domestic corporation converting into an other entity has been adopted and approved as required by this chapter, articles of entity conversion must be signed on behalf of the domestic corporation by any officer or other duly authorized representative and must be delivered to the secretary of state for filing.
 
@@ -2656,7 +2600,7 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 
 
-## <a name="rcw23B.09.050">RCW 23B.09.050</a> Effect of entity conversion.
+## <a name="rcw23B.09.050">RCW 23B.09.050</a>: Effect of entity conversion.
 
 (1) An entity that has been converted pursuant to this chapter is, for all purposes of the laws of the state of Washington, deemed to be the same entity that existed before the conversion and, unless otherwise agreed or as required under applicable non-Washington law, the converting entity is not required to wind up its affairs or pay its liabilities and distribute its assets, and the conversion is not deemed to constitute a dissolution of the converting entity.
 
@@ -2684,7 +2628,7 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 
 
-## <a name="rcw23B.09.060">RCW 23B.09.060</a> Abandonment of entity conversion.
+## <a name="rcw23B.09.060">RCW 23B.09.060</a>: Abandonment of entity conversion.
 
 (1) Unless otherwise provided in a plan of entity conversion of a domestic corporation, after the plan of entity conversion has been adopted and approved as required by this chapter, and at any time before the articles of entity conversion have become effective, the planned conversion may be abandoned by the board of directors without action by the shareholders.
 
@@ -2692,7 +2636,7 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 
 
-## <a name="rcw23B.10">Chapter 23B.10 RCW</a> AMENDMENT OF ARTICLES OF INCORPORATION AND BYLAWS
+## <a name="rcw23B.10">Chapter 23B.10 RCW</a>: AMENDMENT OF ARTICLES OF INCORPORATION AND BYLAWS
 
 ### RCW Chapter Sections
 
@@ -2711,7 +2655,7 @@ In the case of an entity conversion of a domestic corporation to an other entity
 - [23B.10.205](#rcw23B.10.205) Amendment of bylaws -- Election of directors. 
 - [23B.10.210](#rcw23B.10.210) Bylaw increasing quorum or voting requirements for directors. 
 
-## <a name="rcw23B.10.010">RCW 23B.10.010</a> Authority to amend articles of incorporation.
+## <a name="rcw23B.10.010">RCW 23B.10.010</a>: Authority to amend articles of incorporation.
 
 (1) A corporation may amend its articles of incorporation at any time to add or change a provision that is required or permitted in the articles of incorporation or to delete a provision not required in the articles of incorporation. Whether a provision is required or permitted in the articles of incorporation is determined as of the effective date of the amendment.
 
@@ -2719,13 +2663,13 @@ In the case of an entity conversion of a domestic corporation to an other entity
 
 
 
-## <a name="rcw23B.10.012">RCW 23B.10.012</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.10.012">RCW 23B.10.012</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.10.020">RCW 23B.10.020</a> Amendment of articles of incorporation by board of directors.
+## <a name="rcw23B.10.020">RCW 23B.10.020</a>: Amendment of articles of incorporation by board of directors.
 
 Unless the articles of incorporation provide otherwise, a corporation's board of directors may adopt one or more amendments to the corporation's articles of incorporation without shareholder approval:
 
@@ -2747,7 +2691,7 @@ Unless the articles of incorporation provide otherwise, a corporation's board of
 
 
 
-## <a name="rcw23B.10.030">RCW 23B.10.030</a> Amendment of articles of incorporation by board of directors and shareholders.
+## <a name="rcw23B.10.030">RCW 23B.10.030</a>: Amendment of articles of incorporation by board of directors and shareholders.
 
 (1) A corporation's board of directors may propose one or more amendments to the articles of incorporation for submission to the shareholders.
 
@@ -2765,7 +2709,7 @@ Unless the articles of incorporation provide otherwise, a corporation's board of
 
 
 
-## <a name="rcw23B.10.040">RCW 23B.10.040</a> Voting on amendments to articles of incorporation by voting groups.
+## <a name="rcw23B.10.040">RCW 23B.10.040</a>: Voting on amendments to articles of incorporation by voting groups.
 
 (1) Except as otherwise required by subsection (3) of this section or otherwise permitted by subsection (4) of this section, the holders of the outstanding shares of a class or series are entitled to vote as a separate voting group on a proposed amendment if shareholder voting is otherwise required by this title and if the amendment would:
 
@@ -2795,13 +2739,13 @@ Unless the articles of incorporation provide otherwise, a corporation's board of
 
 
 
-## <a name="rcw23B.10.050">RCW 23B.10.050</a> Amendment of articles of incorporation before issuance of shares.
+## <a name="rcw23B.10.050">RCW 23B.10.050</a>: Amendment of articles of incorporation before issuance of shares.
 
 If a corporation has not yet issued shares, its board of directors, or incorporators if initial directors were not named in the articles of incorporation and have not been elected, may adopt one or more amendments to the corporation's articles of incorporation.
 
 
 
-## <a name="rcw23B.10.060">RCW 23B.10.060</a> Articles of amendment.
+## <a name="rcw23B.10.060">RCW 23B.10.060</a>: Articles of amendment.
 
 A corporation amending its articles of incorporation shall deliver to the secretary of state for filing articles of amendment setting forth:
 
@@ -2819,7 +2763,7 @@ A corporation amending its articles of incorporation shall deliver to the secret
 
 
 
-## <a name="rcw23B.10.070">RCW 23B.10.070</a> Restated articles of incorporation.
+## <a name="rcw23B.10.070">RCW 23B.10.070</a>: Restated articles of incorporation.
 
 (1) Any officer of the corporation may restate its articles of incorporation at any time.
 
@@ -2843,7 +2787,7 @@ A corporation amending its articles of incorporation shall deliver to the secret
 
 
 
-## <a name="rcw23B.10.080">RCW 23B.10.080</a> Amendment of articles of incorporation pursuant to reorganization.
+## <a name="rcw23B.10.080">RCW 23B.10.080</a>: Amendment of articles of incorporation pursuant to reorganization.
 
 (1) A corporation's articles of incorporation may be amended without approval by the board of directors or shareholders to carry out a plan of reorganization ordered or decreed by a court of competent jurisdiction under federal statute if the articles of incorporation after amendment contain only provisions required or permitted by RCW [23B.02.020](#rcw23B.02.020).
 
@@ -2865,13 +2809,13 @@ A corporation amending its articles of incorporation shall deliver to the secret
 
 
 
-## <a name="rcw23B.10.090">RCW 23B.10.090</a> Effect of amendment of articles of incorporation.
+## <a name="rcw23B.10.090">RCW 23B.10.090</a>: Effect of amendment of articles of incorporation.
 
 An amendment to articles of incorporation does not affect a cause of action existing against or in favor of the corporation, a proceeding to which the corporation is a party, or the existing rights of persons other than shareholders of the corporation. An amendment changing a corporation's name does not abate a proceeding brought by or against the corporation in its former name.
 
 
 
-## <a name="rcw23B.10.200">RCW 23B.10.200</a> Amendment of bylaws by board of directors or shareholders.
+## <a name="rcw23B.10.200">RCW 23B.10.200</a>: Amendment of bylaws by board of directors or shareholders.
 
 (1) A corporation's board of directors, subject to the limitations set forth in RCW [23B.02.060](#rcw23B.02.060)(4), may amend or repeal the corporation's bylaws, or adopt new bylaws, except to the extent that:
 
@@ -2883,7 +2827,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.10.205">RCW 23B.10.205</a> Amendment of bylaws -- Election of directors.
+## <a name="rcw23B.10.205">RCW 23B.10.205</a>: Amendment of bylaws -- Election of directors.
 
 (1) Unless the articles of incorporation specifically prohibit the adoption of a bylaw pursuant to this section, alter the vote specified in RCW [23B.07.280](#rcw23B.07.280)(2), or allow for or do not exclude cumulative voting, a public company may elect in its bylaws to be governed in the election of directors as follows:
 
@@ -2905,7 +2849,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.10.210">RCW 23B.10.210</a> Bylaw increasing quorum or voting requirements for directors.
+## <a name="rcw23B.10.210">RCW 23B.10.210</a>: Bylaw increasing quorum or voting requirements for directors.
 
 (1) A bylaw that fixes a greater quorum or voting requirement for the board of directors may be amended or repealed:
 
@@ -2921,7 +2865,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11">Chapter 23B.11 RCW</a> MERGER AND SHARE EXCHANGE
+## <a name="rcw23B.11">Chapter 23B.11 RCW</a>: MERGER AND SHARE EXCHANGE
 
 ### RCW Chapter Sections
 
@@ -2939,7 +2883,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 - [23B.11.100](#rcw23B.11.100) Merger -- Corporation is surviving entity. 
 - [23B.11.110](#rcw23B.11.110) Merger with foreign and domestic entities -- Effect. 
 
-## <a name="rcw23B.11.010">RCW 23B.11.010</a> Merger.
+## <a name="rcw23B.11.010">RCW 23B.11.010</a>: Merger.
 
 (1) One or more corporations may merge into another corporation if the board of directors of each corporation adopts and its shareholders, if required by RCW [23B.11.030](#rcw23B.11.030), approve a plan of merger.
 
@@ -2959,7 +2903,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11.020">RCW 23B.11.020</a> Share exchange.
+## <a name="rcw23B.11.020">RCW 23B.11.020</a>: Share exchange.
 
 (1) A corporation may acquire all of the outstanding shares of one or more classes or series of another corporation if the board of directors of each corporation adopts and its shareholders, if required by RCW [23B.11.030](#rcw23B.11.030), approve the exchange.
 
@@ -2977,7 +2921,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11.030">RCW 23B.11.030</a> Approval of plan of merger or share exchange.
+## <a name="rcw23B.11.030">RCW 23B.11.030</a>: Approval of plan of merger or share exchange.
 
 (1) After adopting a plan of merger or share exchange, the board of directors of each corporation party to the merger, and the board of directors of the corporation whose shares will be acquired in the share exchange, shall submit the plan of merger, except as provided in subsection (7) of this section, or share exchange for approval by its shareholders.
 
@@ -3015,7 +2959,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11.035">RCW 23B.11.035</a> Plan of merger or share exchange -- Separate voting group.
+## <a name="rcw23B.11.035">RCW 23B.11.035</a>: Plan of merger or share exchange -- Separate voting group.
 
 (1) Except as otherwise required by subsection (3) of this section or otherwise permitted by subsection (4) of this section, the holders of the outstanding shares of a class or series are entitled to vote as a separate voting group on a proposed plan of merger or plan of share exchange if shareholder voting is otherwise required by this title and if, as a result of the proposed plan, holders of part or all of the class or series would hold or receive:
 
@@ -3033,7 +2977,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11.040">RCW 23B.11.040</a> Merger of subsidiary.
+## <a name="rcw23B.11.040">RCW 23B.11.040</a>: Merger of subsidiary.
 
 (1) A parent corporation owning at least ninety percent of the outstanding shares of each class of a subsidiary corporation may merge the subsidiary into itself without approval of the shareholders of the parent or subsidiary.
 
@@ -3049,7 +2993,7 @@ An amendment to articles of incorporation does not affect a cause of action exis
 
 
 
-## <a name="rcw23B.11.050">RCW 23B.11.050</a> Articles of merger or share exchange.
+## <a name="rcw23B.11.050">RCW 23B.11.050</a>: Articles of merger or share exchange.
 
 After a plan of merger or share exchange is approved by the shareholders, or adopted by the board of directors if shareholder approval is not required, the surviving or acquiring corporation shall deliver to the secretary of state for filing articles of merger or share exchange setting forth:
 
@@ -3061,7 +3005,7 @@ After a plan of merger or share exchange is approved by the shareholders, or ado
 
 
 
-## <a name="rcw23B.11.060">RCW 23B.11.060</a> Effect of merger or share exchange.
+## <a name="rcw23B.11.060">RCW 23B.11.060</a>: Effect of merger or share exchange.
 
 (1) When a merger takes effect:
 
@@ -3081,7 +3025,7 @@ After a plan of merger or share exchange is approved by the shareholders, or ado
 
 
 
-## <a name="rcw23B.11.070">RCW 23B.11.070</a> Merger or share exchange with foreign corporation.
+## <a name="rcw23B.11.070">RCW 23B.11.070</a>: Merger or share exchange with foreign corporation.
 
 (1) One or more foreign corporations may merge or enter into a share exchange with one or more domestic corporations if:
 
@@ -3103,7 +3047,7 @@ After a plan of merger or share exchange is approved by the shareholders, or ado
 
 
 
-## <a name="rcw23B.11.080">RCW 23B.11.080</a> Merger.
+## <a name="rcw23B.11.080">RCW 23B.11.080</a>: Merger.
 
 (1) One or more domestic corporations may merge with one or more limited liability companies, partnerships, or limited partnerships if:
 
@@ -3133,15 +3077,13 @@ After a plan of merger or share exchange is approved by the shareholders, or ado
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** "Sections 1401 through 1416 of this act take effect July 1, 2010." [2009 c 188 § 1417.]
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** "Sections 1401 through 1416 of this act take effect July 1, 2010." [2009 c 188 § 1417.]
 
 
 
-## <a name="rcw23B.11.090">RCW 23B.11.090</a> Articles of merger.
+## <a name="rcw23B.11.090">RCW 23B.11.090</a>: Articles of merger.
 
 After a plan of merger for one or more corporations and one or more limited partnerships, one or more partnerships, or one or more limited liability companies is approved by the shareholders of each corporation (or adopted by the board of directors of any corporation for which shareholder approval is not required), is approved by the partners for each limited partnership as required by RCW [25.10.781](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.10.781), is approved by the partners of each partnership as required by RCW [25.05.380](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.05.380), or is approved by the members of each limited liability company as required by RCW [25.15.400](http://apps.leg.wa.gov/RCW/default.aspx?cite=25.15.400), the surviving entity must:
 
@@ -3161,15 +3103,13 @@ After a plan of merger for one or more corporations and one or more limited part
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
 
 
 
-## <a name="rcw23B.11.100">RCW 23B.11.100</a> Merger -- Corporation is surviving entity.
+## <a name="rcw23B.11.100">RCW 23B.11.100</a>: Merger -- Corporation is surviving entity.
 
 When a merger of one or more corporations, one or more limited partnerships, one or more partnerships, or one or more limited liability companies takes effect, and a corporation is the surviving entity:
 
@@ -3189,7 +3129,7 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 
 
-## <a name="rcw23B.11.110">RCW 23B.11.110</a> Merger with foreign and domestic entities -- Effect.
+## <a name="rcw23B.11.110">RCW 23B.11.110</a>: Merger with foreign and domestic entities -- Effect.
 
 (1) One or more foreign limited partnerships, foreign corporations, foreign partnerships, and foreign limited liability companies may merge with one or more domestic partnerships, domestic limited liability companies, domestic limited partnerships, or domestic corporations, provided that:
 
@@ -3215,15 +3155,13 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
 
 
 
-## <a name="rcw23B.12">Chapter 23B.12 RCW</a> SALE OF ASSETS
+## <a name="rcw23B.12">Chapter 23B.12 RCW</a>: SALE OF ASSETS
 
 ### RCW Chapter Sections
 
@@ -3231,7 +3169,7 @@ When a merger of one or more corporations, one or more limited partnerships, one
 - [23B.12.010](#rcw23B.12.010) Sale of assets in usual course of business or for benefit of creditors. 
 - [23B.12.020](#rcw23B.12.020) Sale of assets other than in the regular course of business. 
 
-## <a name="rcw23B.12.010">RCW 23B.12.010</a> Sale of assets in usual course of business or for benefit of creditors.
+## <a name="rcw23B.12.010">RCW 23B.12.010</a>: Sale of assets in usual course of business or for benefit of creditors.
 
 (1) A corporation may on the terms and conditions and for the consideration determined by the board of directors:
 
@@ -3245,15 +3183,13 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.12.020">RCW 23B.12.020</a> Sale of assets other than in the regular course of business.
+## <a name="rcw23B.12.020">RCW 23B.12.020</a>: Sale of assets other than in the regular course of business.
 
 (1) A corporation may sell, lease, exchange, or otherwise dispose of all, or substantially all, of its property, otherwise than in the usual and regular course of business, on the terms and conditions and for the consideration determined by the corporation's board of directors, if the board of directors proposes and its shareholders approve the proposed transaction.
 
@@ -3275,7 +3211,7 @@ When a merger of one or more corporations, one or more limited partnerships, one
 
 
 
-## <a name="rcw23B.13">Chapter 23B.13 RCW</a> DISSENTERS' RIGHTS
+## <a name="rcw23B.13">Chapter 23B.13 RCW</a>: DISSENTERS' RIGHTS
 
 ### RCW Chapter Sections
 
@@ -3295,7 +3231,7 @@ When a merger of one or more corporations, one or more limited partnerships, one
 - [23B.13.300](#rcw23B.13.300) Court action. 
 - [23B.13.310](#rcw23B.13.310) Court costs and counsel fees. 
 
-## <a name="rcw23B.13.010">RCW 23B.13.010</a> Definitions.
+## <a name="rcw23B.13.010">RCW 23B.13.010</a>: Definitions.
 
 As used in this chapter:
 
@@ -3315,7 +3251,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.020">RCW 23B.13.020</a> Right to dissent.
+## <a name="rcw23B.13.020">RCW 23B.13.020</a>: Right to dissent.
 
 (1) A shareholder is entitled to dissent from, and obtain payment of the fair value of the shareholder's shares in the event of, any of the following corporate actions:
 
@@ -3345,15 +3281,13 @@ As used in this chapter:
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2009 c 188:** See note following RCW [23B.11.080](#rcw23B.11.080).
 
 
 
-## <a name="rcw23B.13.030">RCW 23B.13.030</a> Dissent by nominees and beneficial owners.
+## <a name="rcw23B.13.030">RCW 23B.13.030</a>: Dissent by nominees and beneficial owners.
 
 (1) A record shareholder may assert dissenters' rights as to fewer than all the shares registered in the shareholder's name only if the shareholder dissents with respect to all shares beneficially owned by any one person and delivers to the corporation a notice of the name and address of each person on whose behalf the shareholder asserts dissenters' rights. The rights of a partial dissenter under this subsection are determined as if the shares as to which the dissenter dissents and the dissenter's other shares were registered in the names of different shareholders.
 
@@ -3365,7 +3299,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.200">RCW 23B.13.200</a> Notice of dissenters' rights.
+## <a name="rcw23B.13.200">RCW 23B.13.200</a>: Notice of dissenters' rights.
 
 (1) If proposed corporate action creating dissenters' rights under RCW [23B.13.020](#rcw23B.13.020) is submitted for approval by a vote at a shareholders' meeting, the meeting notice must state that shareholders are or may be entitled to assert dissenters' rights under this chapter and be accompanied by a copy of this chapter.
 
@@ -3373,7 +3307,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.210">RCW 23B.13.210</a> Notice of intent to demand payment.
+## <a name="rcw23B.13.210">RCW 23B.13.210</a>: Notice of intent to demand payment.
 
 (1) If proposed corporate action creating dissenters' rights under RCW [23B.13.020](#rcw23B.13.020) is submitted to a vote at a shareholders' meeting, a shareholder who wishes to assert dissenters' rights must (a) deliver to the corporation before the vote is taken notice of the shareholder's intent to demand payment for the shareholder's shares if the proposed corporate action is effected, and (b) not vote such shares in favor of the proposed corporate action.
 
@@ -3383,7 +3317,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.220">RCW 23B.13.220</a> Dissenters' rights -- Notice.
+## <a name="rcw23B.13.220">RCW 23B.13.220</a>: Dissenters' rights -- Notice.
 
 (1) If proposed corporate action creating dissenters' rights under RCW [23B.13.020](#rcw23B.13.020) is approved at a shareholders' meeting, the corporation shall within ten days after the effective date of the corporate action deliver to all shareholders who satisfied the requirements of RCW [23B.13.210](#rcw23B.13.210)(1) a notice in compliance with subsection (5) of this section.
 
@@ -3407,7 +3341,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.230">RCW 23B.13.230</a> Duty to demand payment.
+## <a name="rcw23B.13.230">RCW 23B.13.230</a>: Duty to demand payment.
 
 (1) A shareholder sent a notice described in RCW [23B.13.220](#rcw23B.13.220) must demand payment, certify whether the shareholder acquired beneficial ownership of the shares before the date required to be set forth in the notice pursuant to RCW [23B.13.220](#rcw23B.13.220)(5)(c), and deposit the shareholder's certificates, all in accordance with the terms of the notice.
 
@@ -3417,7 +3351,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.240">RCW 23B.13.240</a> Share restrictions.
+## <a name="rcw23B.13.240">RCW 23B.13.240</a>: Share restrictions.
 
 (1) The corporation may restrict the transfer of uncertificated shares from the date the demand for payment under RCW [23B.13.230](#rcw23B.13.230) is received until the proposed corporate action is effected or the restriction is released under RCW [23B.13.260](#rcw23B.13.260).
 
@@ -3425,7 +3359,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.250">RCW 23B.13.250</a> Payment.
+## <a name="rcw23B.13.250">RCW 23B.13.250</a>: Payment.
 
 (1) Except as provided in RCW [23B.13.270](#rcw23B.13.270), within thirty days of the later of the effective date of the proposed corporate action, or the date the payment demand is received, the corporation shall pay each dissenter who complied with RCW [23B.13.230](#rcw23B.13.230) the amount the corporation estimates to be the fair value of the shareholder's shares, plus accrued interest.
 
@@ -3443,7 +3377,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.260">RCW 23B.13.260</a> Failure to take corporate action.
+## <a name="rcw23B.13.260">RCW 23B.13.260</a>: Failure to take corporate action.
 
 (1) If the corporation does not effect the proposed corporate action within sixty days after the date set for demanding payment and depositing share certificates, the corporation shall return the deposited certificates and release any transfer restrictions imposed on uncertificated shares.
 
@@ -3451,7 +3385,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.270">RCW 23B.13.270</a> After-acquired shares.
+## <a name="rcw23B.13.270">RCW 23B.13.270</a>: After-acquired shares.
 
 (1) A corporation may elect to withhold payment required by RCW [23B.13.250](#rcw23B.13.250) from a dissenter unless the dissenter was the beneficial owner of the shares before the date set forth in the dissenters' notice as the date of the first announcement to news media or to shareholders of the terms of the proposed corporate action.
 
@@ -3459,7 +3393,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.280">RCW 23B.13.280</a> Procedure if shareholder dissatisfied with payment or offer.
+## <a name="rcw23B.13.280">RCW 23B.13.280</a>: Procedure if shareholder dissatisfied with payment or offer.
 
 (1) A dissenter may deliver a notice to the corporation informing the corporation of the dissenter's own estimate of the fair value of the dissenter's shares and amount of interest due, and demand payment of the dissenter's estimate, less any payment under RCW [23B.13.250](#rcw23B.13.250), or reject the corporation's offer under RCW [23B.13.270](#rcw23B.13.270) and demand payment of the dissenter's estimate of the fair value of the dissenter's shares and interest due, if:
 
@@ -3473,7 +3407,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.300">RCW 23B.13.300</a> Court action.
+## <a name="rcw23B.13.300">RCW 23B.13.300</a>: Court action.
 
 (1) If a demand for payment under RCW [23B.13.280](#rcw23B.13.280) remains unsettled, the corporation shall commence a proceeding within sixty days after receiving the payment demand and petition the court to determine the fair value of the shares and accrued interest. If the corporation does not commence the proceeding within the sixty-day period, it shall pay each dissenter whose demand remains unsettled the amount demanded.
 
@@ -3489,7 +3423,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.13.310">RCW 23B.13.310</a> Court costs and counsel fees.
+## <a name="rcw23B.13.310">RCW 23B.13.310</a>: Court costs and counsel fees.
 
 (1) The court in a proceeding commenced under RCW [23B.13.300](#rcw23B.13.300) shall determine all costs of the proceeding, including the reasonable compensation and expenses of appraisers appointed by the court. The court shall assess the costs against the corporation, except that the court may assess the costs against all or some of the dissenters, in amounts the court finds equitable, to the extent the court finds the dissenters acted arbitrarily, vexatiously, or not in good faith in demanding payment under RCW [23B.13.280](#rcw23B.13.280).
 
@@ -3503,7 +3437,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14">Chapter 23B.14 RCW</a> DISSOLUTION
+## <a name="rcw23B.14">Chapter 23B.14 RCW</a>: DISSOLUTION
 
 ### RCW Chapter Sections
 
@@ -3530,7 +3464,7 @@ As used in this chapter:
 - [23B.14.394](#rcw23B.14.394) Certificate of authority from department of financial institutions -- Filing of records. 
 - [23B.14.400](#rcw23B.14.400) Deposit with state treasurer. 
 
-## <a name="rcw23B.14.010">RCW 23B.14.010</a> Dissolution by initial directors, incorporators, or board of directors.
+## <a name="rcw23B.14.010">RCW 23B.14.010</a>: Dissolution by initial directors, incorporators, or board of directors.
 
 (1) A majority of the initial directors, or, if initial directors were not named in the articles of incorporation and have not been elected, a majority of the incorporators, of a corporation that has not issued shares may approve dissolution of the corporation.
 
@@ -3542,7 +3476,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.020">RCW 23B.14.020</a> Dissolution by board of directors and shareholders.
+## <a name="rcw23B.14.020">RCW 23B.14.020</a>: Dissolution by board of directors and shareholders.
 
 (1) A corporation's board of directors may propose dissolution for submission to the shareholders.
 
@@ -3560,7 +3494,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.030">RCW 23B.14.030</a> Articles of dissolution -- Publication of notice.
+## <a name="rcw23B.14.030">RCW 23B.14.030</a>: Articles of dissolution -- Publication of notice.
 
 (1) At any time after dissolution is authorized under RCW [23B.14.010](#rcw23B.14.010) or [23B.14.020](#rcw23B.14.020), the corporation may dissolve by delivering to the secretary of state for filing:
 
@@ -3582,7 +3516,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.040">RCW 23B.14.040</a> Revocation of dissolution.
+## <a name="rcw23B.14.040">RCW 23B.14.040</a>: Revocation of dissolution.
 
 (1) A corporation may revoke its dissolution within one hundred twenty days of its effective date.
 
@@ -3608,7 +3542,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.050">RCW 23B.14.050</a> Effect of dissolution.
+## <a name="rcw23B.14.050">RCW 23B.14.050</a>: Effect of dissolution.
 
 (1) A dissolved corporation continues its corporate existence but may not carry on any business except that appropriate to wind up and liquidate its business and affairs, including:
 
@@ -3646,7 +3580,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.060">RCW 23B.14.060</a> Known claims against a dissolved corporation.
+## <a name="rcw23B.14.060">RCW 23B.14.060</a>: Known claims against a dissolved corporation.
 
 (1) A dissolved corporation that has published notice of its dissolution in accordance with RCW [23B.14.030](#rcw23B.14.030)(3) may dispose of any or all of the known claims against it by giving written notice of its dissolution to the holders of the known claims at any time after the effective date of dissolution. The written notice of dissolution must:
 
@@ -3674,7 +3608,7 @@ As used in this chapter:
 
 
 
-## <a name="rcw23B.14.065">RCW 23B.14.065</a> Form and adequacy of satisfaction of claims -- Application to and determination by court.
+## <a name="rcw23B.14.065">RCW 23B.14.065</a>: Form and adequacy of satisfaction of claims -- Application to and determination by court.
 
 (1) A dissolved corporation that has published notice of its dissolution in accordance with RCW [23B.14.030](#rcw23B.14.030)(3) may file an application, with the superior court of the county where its principal office or, if none in this state, its registered office is located, for a determination of:
 
@@ -3692,7 +3626,7 @@ Any determination under this subsection is conclusive for purposes of determinin
 
 
 
-## <a name="rcw23B.14.070">RCW 23B.14.070</a> Holder of an unpaid claim -- Proceeding against dissolved corporation to collect amount of claim.
+## <a name="rcw23B.14.070">RCW 23B.14.070</a>: Holder of an unpaid claim -- Proceeding against dissolved corporation to collect amount of claim.
 
 (1) The holder of an unpaid claim against a dissolved corporation that is not barred under RCW [23B.14.060](#rcw23B.14.060)(2) or [23B.14.065](#rcw23B.14.065)(4) or by expiration of the survival period specified in RCW [23B.14.340](#rcw23B.14.340) may, within the statute of limitations applicable to the claim, commence a proceeding against the dissolved corporation to collect the amount of the claim from any remaining undistributed assets of the corporation. If the undistributed assets of the corporation are not or may not be sufficient to satisfy the amount of the unpaid claim, and there have been distributions to shareholders as to which the limitations period specified in RCW [23B.08.310](#rcw23B.08.310)(5) has not expired at the time the proceeding is commenced, the holder of the unpaid claim may include as a part of the relief claimed against the dissolved corporation a petition to compel the dissolved corporation to collect any amounts owing to it by directors or shareholders under RCW [23B.08.310](#rcw23B.08.310) and to apply the collections toward payment of the claim. The filing of such a petition to compel the corporation to collect unlawfully distributed amounts from directors or shareholders tolls the limitations periods specified in RCW [23B.08.310](#rcw23B.08.310)(5) and [23B.14.340](#rcw23B.14.340) with respect to the unpaid claim, as to directors and shareholders who may be liable under RCW [23B.08.310](#rcw23B.08.310). If the dissolved corporation fails, within a reasonable period of time after the filing of such a petition to compel it to collect amounts owing under RCW [23B.08.310](#rcw23B.08.310), to join those directors and shareholders who may be liable for the amounts, the holder of the unpaid claim may join those directors and shareholders as additional defendants in the proceeding. The holder of the unpaid claim may also join all directors and shareholders who may be liable under RCW [23B.08.310](#rcw23B.08.310) as additional defendants in the proceeding, at any time upon establishing to the satisfaction of the court that any of such shareholders, with intent to delay or defraud or place property beyond the reach of the corporation's creditors, has removed or is about to remove from this state, or has assigned, secreted, or disposed of, or is about to assign, secrete, or dispose of, any of the property distributed by the corporation as to which the shareholder may be liable under RCW [23B.08.310](#rcw23B.08.310)(3). Except as permitted by this section, the holder of the unpaid claim may not, by means of any proceeding or otherwise, seek to enforce the claim directly against any of the dissolved corporation's officers or directors in those capacities, or against any of its shareholders on account of their receipt of distributions after the effective date of dissolution.
 
@@ -3700,7 +3634,7 @@ Any determination under this subsection is conclusive for purposes of determinin
 
 
 
-## <a name="rcw23B.14.200">RCW 23B.14.200</a> Administrative dissolution -- Grounds.
+## <a name="rcw23B.14.200">RCW 23B.14.200</a>: Administrative dissolution -- Grounds.
 
 The secretary of state may administratively dissolve a corporation under RCW [23B.14.210](#rcw23B.14.210) if:
 
@@ -3718,15 +3652,13 @@ The secretary of state may administratively dissolve a corporation under RCW [23
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.14.203">RCW 23B.14.203</a> Administrative dissolution or revocation of a certificate of authority -- Corporation name not distinguishable from name of governmental entity -- Application by governmental entity.
+## <a name="rcw23B.14.203">RCW 23B.14.203</a>: Administrative dissolution or revocation of a certificate of authority -- Corporation name not distinguishable from name of governmental entity -- Application by governmental entity.
 
 (1) Any county, city, town, district, or other political subdivision of the state, or the state of Washington or any department or agency of the state, may apply to the secretary of state for the administrative dissolution, or the revocation of a certificate of authority, of any corporation using a name that is not distinguishable from the name of the applicant for dissolution. The application must state the precise legal name of the governmental entity and its date of formation and the applicant shall mail a copy to the corporation's registered agent. If the name of the corporation is not distinguishable from the name of the applicant, then, except as provided in subsection (4) of this section, the secretary shall commence proceedings for administrative dissolution under RCW [23B.14.210](#rcw23B.14.210) or revocation of the certificate of authority.
 
@@ -3762,7 +3694,7 @@ The secretary of state may administratively dissolve a corporation under RCW [23
 
 
 
-## <a name="rcw23B.14.210">RCW 23B.14.210</a> Administrative dissolution -- Procedure and effect.
+## <a name="rcw23B.14.210">RCW 23B.14.210</a>: Administrative dissolution -- Procedure and effect.
 
 (1) If the secretary of state determines that one or more grounds exist under RCW [23B.14.200](#rcw23B.14.200) or [23B.14.203](#rcw23B.14.203) for dissolving a corporation, the secretary of state shall give the corporation written notice of the determination by first-class mail, postage prepaid.
 
@@ -3774,7 +3706,7 @@ The secretary of state may administratively dissolve a corporation under RCW [23
 
 
 
-## <a name="rcw23B.14.220">RCW 23B.14.220</a> Reinstatement following administrative dissolution -- Application.
+## <a name="rcw23B.14.220">RCW 23B.14.220</a>: Reinstatement following administrative dissolution -- Application.
 
 (1) A corporation administratively dissolved under RCW [23B.14.210](#rcw23B.14.210) may apply to the secretary of state for reinstatement within five years after the effective date of dissolution. The application must:
 
@@ -3790,7 +3722,7 @@ The secretary of state may administratively dissolve a corporation under RCW [23
 
 
 
-## <a name="rcw23B.14.300">RCW 23B.14.300</a> Judicial dissolution -- Grounds.
+## <a name="rcw23B.14.300">RCW 23B.14.300</a>: Judicial dissolution -- Grounds.
 
 The superior courts may dissolve a corporation:
 
@@ -3822,7 +3754,7 @@ The superior courts may also assume control over a dissolved corporation's asset
 
 
 
-## <a name="rcw23B.14.310">RCW 23B.14.310</a> Judicial dissolution or supervision of voluntary dissolution -- Procedure.
+## <a name="rcw23B.14.310">RCW 23B.14.310</a>: Judicial dissolution or supervision of voluntary dissolution -- Procedure.
 
 (1) Venue for any proceeding to dissolve a corporation or to supervise a voluntary dissolution brought by any party named in RCW [23B.14.300](#rcw23B.14.300) lies in the county where a corporation's registered office is or was last located.
 
@@ -3832,21 +3764,19 @@ The superior courts may also assume control over a dissolved corporation's asset
 
 
 
-## <a name="rcw23B.14.320">RCW 23B.14.320</a> General or custodial receivership.
+## <a name="rcw23B.14.320">RCW 23B.14.320</a>: General or custodial receivership.
 
 A court in a judicial proceeding brought under RCW [23B.14.300](#rcw23B.14.300) may appoint one or more general receivers to wind up and liquidate the business and affairs of the corporation, or, if the corporation is not yet dissolved, may appoint one or more custodial receivers to manage its business and affairs. The court shall hold a hearing, after notifying all parties to the proceeding and any interested persons designated by the court, before appointing a general or custodial receiver. The hearing, and any resulting receivership, shall be conducted in accordance with chapter [7.60](http://apps.leg.wa.gov/RCW/default.aspx?cite=7.60) RCW.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Purpose -- Captions not law -- 2004 c 165:** See notes following RCW [7.60.005](http://apps.leg.wa.gov/RCW/default.aspx?cite=7.60.005).
+- &#160;&#160;&#160;&#160;&#160;**Purpose -- Captions not law -- 2004 c 165:** See notes following RCW [7.60.005](http://apps.leg.wa.gov/RCW/default.aspx?cite=7.60.005).
 
 
 
-## <a name="rcw23B.14.330">RCW 23B.14.330</a> Decree of dissolution -- Other orders, decrees, and injunctions -- Revenue clearance certificate.
+## <a name="rcw23B.14.330">RCW 23B.14.330</a>: Decree of dissolution -- Other orders, decrees, and injunctions -- Revenue clearance certificate.
 
 (1) If after a hearing the court determines that one or more grounds for judicial dissolution described in RCW [23B.14.300](#rcw23B.14.300) exist, it may enter a decree dissolving the corporation and specifying the effective date of the dissolution, or, with or without ordering dissolution, may make such other orders and decrees and issue such injunctions in the case as justice and equity require.
 
@@ -3856,57 +3786,52 @@ A court in a judicial proceeding brought under RCW [23B.14.300](#rcw23B.14.300) 
 
 
 
-## <a name="rcw23B.14.340">RCW 23B.14.340</a> Survival of remedy after dissolution.
+## <a name="rcw23B.14.340">RCW 23B.14.340</a>: Survival of remedy after dissolution.
 
 The dissolution of a corporation either (1) by the filing with the secretary of state of its articles of dissolution, (2) by administrative dissolution by the secretary of state, (3) by a decree of court, or (4) by expiration of its period of duration shall not take away or impair any remedy available against such corporation, its directors, officers, or shareholders, for any right or claim existing, or any liability incurred, prior to such dissolution or arising thereafter, unless action or other proceeding thereon is not commenced within two years after the effective date of any dissolution that was effective prior to June 7, 2006, or within three years after the effective date of any dissolution that is effective on or after June 7, 2006. Any such action or proceeding against the corporation may be defended by the corporation in its corporate name.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.14.390">RCW 23B.14.390</a> Secretary of state -- List of corporations dissolved.
+## <a name="rcw23B.14.390">RCW 23B.14.390</a>: Secretary of state -- List of corporations dissolved.
 
 On the first day of each month, the secretary of state shall prepare a list of corporations dissolved during the preceding month pursuant to RCW [23B.14.030](#rcw23B.14.030), [23B.14.210](#rcw23B.14.210), and [23B.14.330](#rcw23B.14.330).
 
 
 
-## <a name="rcw23B.14.392">RCW 23B.14.392</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.14.392">RCW 23B.14.392</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.14.394">RCW 23B.14.394</a> Certificate of authority from department of financial institutions -- Filing of records.
+## <a name="rcw23B.14.394">RCW 23B.14.394</a>: Certificate of authority from department of financial institutions -- Filing of records.
 
 For any corporation or other entity that has, is applying for, or intends to apply for a certificate of authority from the department of financial institutions as a bank, trust company, or the holding company thereof, under *Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW, or as a savings bank or holding company thereof, under Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=32">32</A> RCW, or for any other corporation or other entity which is or purports to be a bank, savings bank, savings and loan association, trust company, industrial loan bank, credit union, bank holding company, financial holding company, or savings and loan holding company, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the department of financial institutions.
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
+- &#160;&#160;&#160;&#160;&#160;***Reviser's note:** Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW was recodified and/or repealed pursuant to 2014 c 37, effective January 5, 2015.
 
-&#160;&#160;&#160;&#160;&#160;***Reviser's note:** Title <a href="http://apps.leg.wa.gov/RCW/default.aspx?cite=30">30</A> RCW was recodified and/or repealed pursuant to 2014 c 37, effective January 5, 2015.
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2010 c 88:** See RCW [32.50.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=32.50.900).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2010 c 88:** See RCW [32.50.900](http://apps.leg.wa.gov/RCW/default.aspx?cite=32.50.900).
 
 
 
-## <a name="rcw23B.14.400">RCW 23B.14.400</a> Deposit with state treasurer.
+## <a name="rcw23B.14.400">RCW 23B.14.400</a>: Deposit with state treasurer.
 
 Following its dissolution, the assets of a corporation that should be transferred to a creditor, claimant, or shareholder of the corporation who cannot be found or who is not competent to receive them may be reduced to cash and deposited with the state treasurer for safekeeping. If assets are transferred to the state treasurer, and if the creditor, claimant, or shareholder furnishes satisfactory proof of entitlement to the amount deposited, the state treasurer or other appropriate state official shall pay such person or such person's representative that amount.
 
 
 
-## <a name="rcw23B.15">Chapter 23B.15 RCW</a> FOREIGN CORPORATIONS
+## <a name="rcw23B.15">Chapter 23B.15 RCW</a>: FOREIGN CORPORATIONS
 
 ### RCW Chapter Sections
 
@@ -3927,7 +3852,7 @@ Following its dissolution, the assets of a corporation that should be transferre
 - [23B.15.300](#rcw23B.15.300) Revocation -- Grounds. 
 - [23B.15.310](#rcw23B.15.310) Revocation -- Procedure and effect. 
 
-## <a name="rcw23B.15.010">RCW 23B.15.010</a> Authority to transact business required.
+## <a name="rcw23B.15.010">RCW 23B.15.010</a>: Authority to transact business required.
 
 (1) Unless it is otherwise authorized to transact business pursuant to a state or federal statute, a foreign corporation may not transact business in this state until it obtains a certificate of authority from the secretary of state.
 
@@ -3963,15 +3888,13 @@ Following its dissolution, the assets of a corporation that should be transferre
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.15.015">RCW 23B.15.015</a> Foreign degree-granting institution branch campus -- Acts not deemed transacting business in state.
+## <a name="rcw23B.15.015">RCW 23B.15.015</a>: Foreign degree-granting institution branch campus -- Acts not deemed transacting business in state.
 
 In addition to those acts that are specified in RCW [23B.15.010](#rcw23B.15.010)(2), a foreign degree-granting institution that establishes an approved branch campus in the state under chapter [28B.90](http://apps.leg.wa.gov/RCW/default.aspx?cite=28B.90) RCW shall not be deemed to transact business in the state solely because it:
 
@@ -3983,7 +3906,7 @@ In addition to those acts that are specified in RCW [23B.15.010](#rcw23B.15.010)
 
 
 
-## <a name="rcw23B.15.020">RCW 23B.15.020</a> Consequences of transacting business without authority.
+## <a name="rcw23B.15.020">RCW 23B.15.020</a>: Consequences of transacting business without authority.
 
 (1) Unless it is otherwise authorized to transact business pursuant to a state or federal statute, a foreign corporation transacting business in this state without a certificate of authority may not maintain a proceeding in any court in this state until it obtains a certificate of authority.
 
@@ -3997,15 +3920,13 @@ In addition to those acts that are specified in RCW [23B.15.010](#rcw23B.15.010)
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.15.030">RCW 23B.15.030</a> Application for certificate of authority.
+## <a name="rcw23B.15.030">RCW 23B.15.030</a>: Application for certificate of authority.
 
 (1) A foreign corporation may apply for a certificate of authority to transact business in this state by delivering an application to the secretary of state for filing. The application must state:
 
@@ -4025,13 +3946,13 @@ In addition to those acts that are specified in RCW [23B.15.010](#rcw23B.15.010)
 
 
 
-## <a name="rcw23B.15.032">RCW 23B.15.032</a> Certificate of authority as insurance company -- Filing of records.
+## <a name="rcw23B.15.032">RCW 23B.15.032</a>: Certificate of authority as insurance company -- Filing of records.
 
 For those corporations that have a certificate of authority, are applying for, or intend to apply for a certificate of authority from the insurance commissioner as an insurance company under chapter [48.05](http://apps.leg.wa.gov/RCW/default.aspx?cite=48.05) RCW, whenever under this chapter corporate records are required to be filed with the secretary of state, the records shall be filed with the insurance commissioner rather than the secretary of state.
 
 
 
-## <a name="rcw23B.15.040">RCW 23B.15.040</a> Amended certificate of authority.
+## <a name="rcw23B.15.040">RCW 23B.15.040</a>: Amended certificate of authority.
 
 (1) A foreign corporation authorized to transact business in this state must obtain an amended certificate of authority from the secretary of state if it changes:
 
@@ -4055,7 +3976,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.050">RCW 23B.15.050</a> Effect of certificate of authority.
+## <a name="rcw23B.15.050">RCW 23B.15.050</a>: Effect of certificate of authority.
 
 (1) A certificate of authority authorizes the foreign corporation to which it is issued to transact business in this state subject, however, to the right of the state to revoke the certificate as provided in this title.
 
@@ -4065,15 +3986,13 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;***Reviser's note: **The reference to "sections 202 through 205 of this act" has been translated to "chapter [23B.19](#rcw23B.19) RCW," dealing with significant business transactions. A literal translation would be "RCW [23B.900.010](#rcw23B.900.010) through [23B.900.040](#rcw23B.900.040)" which appears to be erroneous.
+- &#160;&#160;&#160;&#160;&#160;***Reviser's note: **The reference to "sections 202 through 205 of this act" has been translated to "chapter [23B.19](#rcw23B.19) RCW," dealing with significant business transactions. A literal translation would be "RCW [23B.900.010](#rcw23B.900.010) through [23B.900.040](#rcw23B.900.040)" which appears to be erroneous.
 
 
 
-## <a name="rcw23B.15.060">RCW 23B.15.060</a> Corporate name of foreign corporation.
+## <a name="rcw23B.15.060">RCW 23B.15.060</a>: Corporate name of foreign corporation.
 
 (1) No certificate of authority shall be issued to a foreign corporation unless the corporate name of such corporation:
 
@@ -4125,7 +4044,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.070">RCW 23B.15.070</a> Registered office and registered agent of foreign corporation.
+## <a name="rcw23B.15.070">RCW 23B.15.070</a>: Registered office and registered agent of foreign corporation.
 
 (1) Each foreign corporation authorized to transact business in this state must continuously maintain in this state:
 
@@ -4147,7 +4066,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.080">RCW 23B.15.080</a> Change of registered office or registered agent of foreign corporation.
+## <a name="rcw23B.15.080">RCW 23B.15.080</a>: Change of registered office or registered agent of foreign corporation.
 
 (1) A foreign corporation authorized to transact business in this state may change its registered office or registered agent by delivering to the secretary of state for filing a statement of change that sets forth:
 
@@ -4163,7 +4082,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.090">RCW 23B.15.090</a> Resignation of registered agent of foreign corporation.
+## <a name="rcw23B.15.090">RCW 23B.15.090</a>: Resignation of registered agent of foreign corporation.
 
 (1) The registered agent of a foreign corporation may resign as agent by signing and delivering to the secretary of state for filing a statement of resignation. The statement of resignation may include a statement that the registered office is also discontinued.
 
@@ -4173,7 +4092,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.100">RCW 23B.15.100</a> Service on foreign corporation.
+## <a name="rcw23B.15.100">RCW 23B.15.100</a>: Service on foreign corporation.
 
 (1) The registered agent appointed by a foreign corporation authorized to transact business in this state shall be an agent of such corporation upon whom any process, notice, or demand required or permitted by law to be served upon the corporation may be served.
 
@@ -4193,7 +4112,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.200">RCW 23B.15.200</a> Withdrawal of foreign corporation.
+## <a name="rcw23B.15.200">RCW 23B.15.200</a>: Withdrawal of foreign corporation.
 
 (1) A foreign corporation authorized to transact business in this state may not withdraw from this state until it obtains a certificate of withdrawal from the secretary of state.
 
@@ -4213,7 +4132,7 @@ For those corporations that have a certificate of authority, are applying for, o
 
 
 
-## <a name="rcw23B.15.300">RCW 23B.15.300</a> Revocation -- Grounds.
+## <a name="rcw23B.15.300">RCW 23B.15.300</a>: Revocation -- Grounds.
 
 The secretary of state may revoke the certificate of authority of a foreign corporation authorized to transact business in this state if:
 
@@ -4231,15 +4150,13 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 1990 c 178: **See note following RCW [23B.01.220](#rcw23B.01.220).
 
 
 
-## <a name="rcw23B.15.310">RCW 23B.15.310</a> Revocation -- Procedure and effect.
+## <a name="rcw23B.15.310">RCW 23B.15.310</a>: Revocation -- Procedure and effect.
 
 (1) If the secretary of state determines that one or more grounds exist under RCW [23B.15.300](#rcw23B.15.300) for revocation of a certificate of authority, the secretary of state shall give the foreign corporation written notice of the determination by first-class mail, postage prepaid.
 
@@ -4253,7 +4170,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.16">Chapter 23B.16 RCW</a> RECORDS AND REPORTS
+## <a name="rcw23B.16">Chapter 23B.16 RCW</a>: RECORDS AND REPORTS
 
 ### RCW Chapter Sections
 
@@ -4265,7 +4182,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 - [23B.16.200](#rcw23B.16.200) Financial statements for shareholders. 
 - [23B.16.220](#rcw23B.16.220) Initial and annual reports for secretary of state. 
 
-## <a name="rcw23B.16.010">RCW 23B.16.010</a> Corporate records.
+## <a name="rcw23B.16.010">RCW 23B.16.010</a>: Corporate records.
 
 (1) A corporation shall keep as permanent records minutes of all meetings of its shareholders and board of directors, a record of all corporate actions approved by the shareholders or board of directors by executed consent without a meeting, and a record of all corporate actions approved by a committee of the board of directors exercising the authority of the board of directors on behalf of the corporation.
 
@@ -4293,7 +4210,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.16.020">RCW 23B.16.020</a> Inspection of records by shareholders.
+## <a name="rcw23B.16.020">RCW 23B.16.020</a>: Inspection of records by shareholders.
 
 (1) A shareholder of a corporation is entitled to inspect and copy, during regular business hours at the corporation's principal office, any of the records of the corporation described in RCW [23B.16.010](#rcw23B.16.010)(5) if the shareholder gives the corporation notice of the shareholder's demand at least five business days before the date on which the shareholder wishes to inspect and copy.
 
@@ -4325,7 +4242,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.16.030">RCW 23B.16.030</a> Scope of inspection right.
+## <a name="rcw23B.16.030">RCW 23B.16.030</a>: Scope of inspection right.
 
 (1) A shareholder's agent or attorney has the same inspection and copying rights as the shareholder.
 
@@ -4337,15 +4254,13 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;***Reviser's note: **The reference to "section 184 of this act" has been translated to "RCW [23B.16.020](#rcw23B.16.020)." A literal translation would be "RCW [23B.16.030](#rcw23B.16.030)" which is the section above and appears to be erroneous.
+- &#160;&#160;&#160;&#160;&#160;***Reviser's note: **The reference to "section 184 of this act" has been translated to "RCW [23B.16.020](#rcw23B.16.020)." A literal translation would be "RCW [23B.16.030](#rcw23B.16.030)" which is the section above and appears to be erroneous.
 
 
 
-## <a name="rcw23B.16.040">RCW 23B.16.040</a> Court-ordered inspection.
+## <a name="rcw23B.16.040">RCW 23B.16.040</a>: Court-ordered inspection.
 
 (1) If a corporation does not allow a shareholder who complies with RCW [23B.16.020](#rcw23B.16.020)(1) to inspect and copy any records required by that subsection to be available for inspection, the superior court of the county where the corporation's principal office, or, if none in this state, its registered office, is located may summarily order inspection and copying of the records demanded at the corporation's expense upon application of the shareholder.
 
@@ -4357,7 +4272,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.16.200">RCW 23B.16.200</a> Financial statements for shareholders.
+## <a name="rcw23B.16.200">RCW 23B.16.200</a>: Financial statements for shareholders.
 
 (1) Not later than four months after the close of each fiscal year, and in any event prior to the annual meeting of shareholders, each corporation shall prepare (a) a balance sheet showing in reasonable detail the financial condition of the corporation as of the close of its fiscal year, and (b) an income statement showing the results of its operation during its fiscal year. Such statements may be consolidated or combined statements of the corporation and one or more of its subsidiaries, as appropriate. If financial statements are prepared by the corporation for any purpose on the basis of generally accepted accounting principles, the annual statements must also be prepared, and disclose that they are prepared, on that basis. If financial statements are prepared only on a basis other than generally accepted accounting principles, they must be prepared, and disclose that they are prepared, on the same basis as other reports and statements prepared by the corporation for the use of others.
 
@@ -4373,7 +4288,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.16.220">RCW 23B.16.220</a> Initial and annual reports for secretary of state.
+## <a name="rcw23B.16.220">RCW 23B.16.220</a>: Initial and annual reports for secretary of state.
 
 (1) Each domestic corporation, and each foreign corporation authorized to transact business in this state, shall deliver to the secretary of state for filing initial and annual reports that set forth:
 
@@ -4401,15 +4316,13 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2001 c 307:** "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect May 1, 2001." [2001 c 307 § 5.]
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2001 c 307:** "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect May 1, 2001." [2001 c 307 § 5.]
 
 
 
-## <a name="rcw23B.17">Chapter 23B.17 RCW</a> MISCELLANEOUS PROVISIONS
+## <a name="rcw23B.17">Chapter 23B.17 RCW</a>: MISCELLANEOUS PROVISIONS
 
 ### RCW Chapter Sections
 
@@ -4418,7 +4331,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 - [23B.17.015](#rcw23B.17.015) Alternative quorum and voting requirements. 
 - [23B.17.030](#rcw23B.17.030) Limitation on liability of directors -- Indemnification. 
 
-## <a name="rcw23B.17.010">RCW 23B.17.010</a> Application to existing corporations.
+## <a name="rcw23B.17.010">RCW 23B.17.010</a>: Application to existing corporations.
 
 (1) Unless otherwise provided, this title applies to all domestic corporations in existence on July 1, 1990, that were incorporated under any general statute of this state providing for incorporation of corporations for profit.
 
@@ -4426,7 +4339,7 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-## <a name="rcw23B.17.015">RCW 23B.17.015</a> Alternative quorum and voting requirements.
+## <a name="rcw23B.17.015">RCW 23B.17.015</a>: Alternative quorum and voting requirements.
 
 (1) A corporation that meets the following requirements is subject to the alternative quorum and voting requirements set forth in subsection (2) of this section:
 
@@ -4464,21 +4377,19 @@ The secretary of state may revoke the certificate of authority of a foreign corp
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;**Effective date -- 2011 c 42:** "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 13, 2011]." [2011 c 42 § 2.]
+- &#160;&#160;&#160;&#160;&#160;**Effective date -- 2011 c 42:** "This act is necessary for the immediate preservation of the public peace, health, or safety, or support of the state government and its existing public institutions, and takes effect immediately [April 13, 2011]." [2011 c 42 § 2.]
 
 
 
-## <a name="rcw23B.17.030">RCW 23B.17.030</a> Limitation on liability of directors -- Indemnification.
+## <a name="rcw23B.17.030">RCW 23B.17.030</a>: Limitation on liability of directors -- Indemnification.
 
 The provisions of RCW [23B.08.320](#rcw23B.08.320) and [23B.08.500](#rcw23B.08.500) through [23B.08.600](#rcw23B.08.600) shall apply to any corporation, other than a municipal corporation, incorporated under the laws of the state of Washington.
 
 
 
-## <a name="rcw23B.18">Chapter 23B.18 RCW</a> NONADMITTED ORGANIZATIONS
+## <a name="rcw23B.18">Chapter 23B.18 RCW</a>: NONADMITTED ORGANIZATIONS
 
 ### RCW Chapter Sections
 
@@ -4490,43 +4401,43 @@ The provisions of RCW [23B.08.320](#rcw23B.08.320) and [23B.08.500](#rcw23B.08.5
 - [23B.18.050](#rcw23B.18.050) Service of process -- Procedure. 
 - [23B.18.060](#rcw23B.18.060) Venue. 
 
-## <a name="rcw23B.18.010">RCW 23B.18.010</a> Ownership and enforcement of notes secured by real estate mortgages.
+## <a name="rcw23B.18.010">RCW 23B.18.010</a>: Ownership and enforcement of notes secured by real estate mortgages.
 
 Any corporation, bank, trust company, mutual savings bank, savings and loan association, national banking association, or other corporation or association organized and existing under the laws of the United States or under the laws of any state or territory of the United States other than the state of Washington, including, without restriction of the generality of the foregoing description, employee pension fund organizations, charitable foundations, trust funds, or other funds, foundations or trusts engaged in the investment of moneys, and trustees of such organizations, foundations, funds or trusts, and which are not admitted to conduct business in the state of Washington under the provisions of this title, and which are not otherwise specifically authorized to transact business in this state, herein collectively referred to as "nonadmitted organizations," may purchase, acquire, hold, sell, assign, transfer, and enforce notes secured by real estate mortgages covering real property situated in this state and the security interests thereby provided, and may make commitments to purchase or acquire such notes so secured.
 
 
 
-## <a name="rcw23B.18.020">RCW 23B.18.020</a> Mortgage foreclosure.
+## <a name="rcw23B.18.020">RCW 23B.18.020</a>: Mortgage foreclosure.
 
 Such nonadmitted organizations shall have the right to foreclose such mortgages under the laws of this state or to receive voluntary conveyance in lieu of foreclosure, and in the course of such foreclosure or of such receipt of conveyance in lieu of foreclosure, to acquire the mortgaged property, and to hold and own such property and to dispose thereof. Such nonadmitted organizations however, shall not be allowed to hold, own, and operate said property for a period exceeding five years. In the event said nonadmitted organizations do hold, own, and operate said property for a period in excess of five years, it shall be forthwith required to appoint an agent as required by RCW [23B.15.070](#rcw23B.15.070) for foreign corporations doing business in this state.
 
 
 
-## <a name="rcw23B.18.030">RCW 23B.18.030</a> Transacting business.
+## <a name="rcw23B.18.030">RCW 23B.18.030</a>: Transacting business.
 
 The activities authorized by RCW [23B.18.010](#rcw23B.18.010) and [23B.18.020](#rcw23B.18.020) by such nonadmitted organizations shall not constitute "transacting business" within the meaning of chapter [23B.15](#rcw23B.15) RCW.
 
 
 
-## <a name="rcw23B.18.040">RCW 23B.18.040</a> Service of process.
+## <a name="rcw23B.18.040">RCW 23B.18.040</a>: Service of process.
 
 In any action in law or equity commenced by the obligor or obligors, it, his, her, or their assignee or assignees against the said nonadmitted organizations on the said notes secured by said real estate mortgages purchased by said nonadmitted organizations, service of all legal process may be had by serving the secretary of state of the state of Washington.
 
 
 
-## <a name="rcw23B.18.050">RCW 23B.18.050</a> Service of process -- Procedure.
+## <a name="rcw23B.18.050">RCW 23B.18.050</a>: Service of process -- Procedure.
 
 Duplicate copies of legal process against said nonadmitted organizations shall be served upon the secretary of state by registered mail. At the time of service the plaintiff shall pay to the secretary of state twenty-five dollars taxable as costs in the action and shall also furnish the secretary of state the home office address of said nonadmitted organization. The secretary of state shall forthwith send one of the copies of process by certified mail to the said nonadmitted organization to its home office. The secretary of state shall keep a record of the day, month, and year of service upon the secretary of state of all legal process. No proceedings shall be had against the nonadmitted organization nor shall it be required to appear, plead, or answer until the expiration of forty days after the date of service upon the secretary of state.
 
 
 
-## <a name="rcw23B.18.060">RCW 23B.18.060</a> Venue.
+## <a name="rcw23B.18.060">RCW 23B.18.060</a>: Venue.
 
 Suit upon causes of action arising against the said nonadmitted organizations shall be brought in the county where the property is situated which is the subject of the mortgage purchased by the said nonadmitted organizations. If the property covered by the said mortgage is situated in more than one county, venue may be had in any of said counties where the property lies.
 
 
 
-## <a name="rcw23B.19">Chapter 23B.19 RCW</a> SIGNIFICANT BUSINESS TRANSACTIONS
+## <a name="rcw23B.19">Chapter 23B.19 RCW</a>: SIGNIFICANT BUSINESS TRANSACTIONS
 
 ### RCW Chapter Sections
 
@@ -4538,7 +4449,7 @@ Suit upon causes of action arising against the said nonadmitted organizations sh
 - [23B.19.050](#rcw23B.19.050) Provisions of chapter additional to other requirements. 
 - [23B.19.900](#rcw23B.19.900) Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521. 
 
-## <a name="rcw23B.19.010">RCW 23B.19.010</a> Legislative findings -- Intent.
+## <a name="rcw23B.19.010">RCW 23B.19.010</a>: Legislative findings -- Intent.
 
 The legislature finds that:
 
@@ -4560,7 +4471,7 @@ The legislature intends this chapter to balance the substantial and legitimate i
 
 
 
-## <a name="rcw23B.19.020">RCW 23B.19.020</a> Definitions.
+## <a name="rcw23B.19.020">RCW 23B.19.020</a>: Definitions.
 
 The definitions in this section apply throughout this chapter.
 
@@ -4654,13 +4565,13 @@ A domestic or foreign corporation shall be deemed to be a target corporation if 
 
 
 
-## <a name="rcw23B.19.030">RCW 23B.19.030</a> Transaction excluded from chapter -- Inadvertent acquisition.
+## <a name="rcw23B.19.030">RCW 23B.19.030</a>: Transaction excluded from chapter -- Inadvertent acquisition.
 
 This chapter does not apply to a significant business transaction of a target corporation with an acquiring person of the target corporation which became an acquiring person inadvertently, if the acquiring person (1) as soon as practicable, divests itself of a sufficient amount of the voting shares of the target corporation so that it no longer is the beneficial owner, directly or indirectly, of ten percent or more of the outstanding voting shares of the target corporation, and (2) would not at any time within the five-year period preceding the announcement date of the significant business transaction have been an acquiring person but for the inadvertent acquisition.
 
 
 
-## <a name="rcw23B.19.040">RCW 23B.19.040</a> Approval of significant business transaction required -- Violation.
+## <a name="rcw23B.19.040">RCW 23B.19.040</a>: Approval of significant business transaction required -- Violation.
 
 (1)(a) Notwithstanding anything to the contrary contained in this title, a target corporation shall not for a period of five years following the acquiring person's share acquisition time engage in a significant business transaction unless:
 
@@ -4698,27 +4609,25 @@ This chapter does not apply to a significant business transaction of a target co
 
 
 
-**NOTES:**
+### Notes
 
-<!-- field: Notes -->
-
-&#160;&#160;&#160;&#160;&#160;***Reviser's note:** RCW [23B.17.020](#rcw23B.17.020) was repealed by 1996 c 155 § 6.
+- &#160;&#160;&#160;&#160;&#160;***Reviser's note:** RCW [23B.17.020](#rcw23B.17.020) was repealed by 1996 c 155 § 6.
 
 
 
-## <a name="rcw23B.19.050">RCW 23B.19.050</a> Provisions of chapter additional to other requirements.
+## <a name="rcw23B.19.050">RCW 23B.19.050</a>: Provisions of chapter additional to other requirements.
 
 The requirements imposed by this chapter are to be in addition to, and not in lieu of, requirements imposed on a transaction by any provision in the articles of incorporation or the bylaws of the target corporation, or otherwise.
 
 
 
-## <a name="rcw23B.19.900">RCW 23B.19.900</a> Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.
+## <a name="rcw23B.19.900">RCW 23B.19.900</a>: Construction -- Chapter applicable to state registered domestic partnerships -- 2009 c 521.
 
 For the purposes of this chapter, the terms spouse, marriage, marital, husband, wife, widow, widower, next of kin, and family shall be interpreted as applying equally to state registered domestic partnerships or individuals in state registered domestic partnerships as well as to marital relationships and married persons, and references to dissolution of marriage shall apply equally to state registered domestic partnerships that have been terminated, dissolved, or invalidated, to the extent that such interpretation does not conflict with federal law. Where necessary to implement chapter 521, Laws of 2009, gender-specific terms such as husband and wife used in any statute, rule, or other law shall be construed to be gender neutral, and applicable to individuals in state registered domestic partnerships.
 
 
 
-## <a name="rcw23B.25">Chapter 23B.25 RCW</a> SOCIAL PURPOSE CORPORATIONS
+## <a name="rcw23B.25">Chapter 23B.25 RCW</a>: SOCIAL PURPOSE CORPORATIONS
 
 ### RCW Chapter Sections
 
@@ -4740,7 +4649,7 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 - [23B.25.140](#rcw23B.25.140) Corporation ceasing to be a social purpose corporation -- Conditions -- Election. 
 - [23B.25.150](#rcw23B.25.150) Social purpose report required -- Timing -- Information -- Failure to comply. 
 
-## <a name="rcw23B.25.005">RCW 23B.25.005</a> Becoming or ceasing to be a social purpose corporation.
+## <a name="rcw23B.25.005">RCW 23B.25.005</a>: Becoming or ceasing to be a social purpose corporation.
 
 (1) Any corporation may elect to be governed as a social purpose corporation by one of the following means:
 
@@ -4761,19 +4670,19 @@ For the purposes of this chapter, the terms spouse, marriage, marital, husband, 
 
 
 
-## <a name="rcw23B.25.020">RCW 23B.25.020</a> General social purposes.
+## <a name="rcw23B.25.020">RCW 23B.25.020</a>: General social purposes.
 
 Every corporation governed by this chapter must be organized to carry out its business purpose under RCW [23B.03.010](#rcw23B.03.010) in a manner intended to promote positive short-term or long-term effects of, or minimize adverse short-term or long-term effects of, the corporation's activities upon any or all of (1) the corporation's employees, suppliers, or customers; (2) the local, state, national, or world community; or (3) the environment.
 
 
 
-## <a name="rcw23B.25.030">RCW 23B.25.030</a> Specific social purposes.
+## <a name="rcw23B.25.030">RCW 23B.25.030</a>: Specific social purposes.
 
 In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.25.020), every corporation governed by this chapter may have one or more specific social purposes for which the corporation is organized.
 
 
 
-## <a name="rcw23B.25.040">RCW 23B.25.040</a> Articles of incorporation -- Required and optional provisions -- Notice -- Availability of copies.
+## <a name="rcw23B.25.040">RCW 23B.25.040</a>: Articles of incorporation -- Required and optional provisions -- Notice -- Availability of copies.
 
 (1) In addition to the matters required to be set forth in the articles of incorporation pursuant to RCW [23B.02.020](#rcw23B.02.020) (1) and (2), the articles of incorporation of a social purpose corporation must set forth:
 
@@ -4805,7 +4714,7 @@ In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.
 
 
 
-## <a name="rcw23B.25.050">RCW 23B.25.050</a> Duties of director -- Standards -- Liabilities.
+## <a name="rcw23B.25.050">RCW 23B.25.050</a>: Duties of director -- Standards -- Liabilities.
 
 (1) A director of a social purpose corporation shall discharge the duties of a director, including duties as a member of any committee of the board upon which the director may serve, in good faith, with the care an ordinarily prudent person in a like position would exercise under similar circumstances, and in a manner the director reasonably believes to be in the best interests of the corporation in accordance with RCW [23B.08.300](#rcw23B.08.300).
 
@@ -4821,7 +4730,7 @@ In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.
 
 
 
-## <a name="rcw23B.25.060">RCW 23B.25.060</a> Duties of officer -- Standards -- Liabilities.
+## <a name="rcw23B.25.060">RCW 23B.25.060</a>: Duties of officer -- Standards -- Liabilities.
 
 (1) An officer of a social purpose corporation with discretionary authority shall discharge the officer's duties under that authority in good faith, with the care an ordinarily prudent person in a like position would exercise under similar circumstances, and in a manner the officer reasonably believes to be in the best interests of the corporation in accordance with RCW [23B.08.420](#rcw23B.08.420).
 
@@ -4837,7 +4746,7 @@ In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.
 
 
 
-## <a name="rcw23B.25.070">RCW 23B.25.070</a> Shares -- Represented by certificate -- Not represented by certificate.
+## <a name="rcw23B.25.070">RCW 23B.25.070</a>: Shares -- Represented by certificate -- Not represented by certificate.
 
 (1) Shares issued by a social purpose corporation may but need not be represented by certificates.
 
@@ -4851,7 +4760,7 @@ In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.
 
 
 
-## <a name="rcw23B.25.080">RCW 23B.25.080</a> Instituting or maintaining proceedings -- Shareholders only.
+## <a name="rcw23B.25.080">RCW 23B.25.080</a>: Instituting or maintaining proceedings -- Shareholders only.
 
 (1) No proceeding may be instituted or maintained in the right of any social purpose corporation under this title by any party other than a shareholder of the social purpose corporation.
 
@@ -4861,13 +4770,13 @@ In addition to the general social purpose set forth in RCW [23B.25.020](#rcw23B.
 
 
 
-## <a name="rcw23B.25.090">RCW 23B.25.090</a> Amendment to articles of incorporation -- Change to social purposes -- Voting requirements.
+## <a name="rcw23B.25.090">RCW 23B.25.090</a>: Amendment to articles of incorporation -- Change to social purposes -- Voting requirements.
 
 If a proposed amendment to a social purpose corporation's articles of incorporation would materially change one or more of the social purposes of the corporation, in addition to approval in accordance with RCW [23B.10.030](#rcw23B.10.030), the amendment to be adopted must be approved by two-thirds of the voting group comprising all the votes entitled to be cast on the proposed amendment, and by two-thirds of the holders of the outstanding shares of each class or series, voting as separate voting groups, and of each other voting group entitled under the articles of incorporation to vote separately on the proposed amendment. The articles of incorporation may require a greater vote than that provided for in this section.
 
 
 
-## <a name="rcw23B.25.100">RCW 23B.25.100</a> Plan of merger or share exchange -- Status as social purpose corporation -- Voting requirements.
+## <a name="rcw23B.25.100">RCW 23B.25.100</a>: Plan of merger or share exchange -- Status as social purpose corporation -- Voting requirements.
 
 (1) In addition to approval in accordance with RCW [23B.11.030](#rcw23B.11.030), a plan of merger or share exchange pursuant to which a social purpose corporation would not be the surviving corporation must be approved by two-thirds of the voting group comprising all the votes of the corporation entitled to be cast on the plan, and by two-thirds of the holders of the outstanding shares of each class or series, voting as separate voting groups, and of each other voting group entitled under the articles of incorporation to vote separately on the proposed plan. The articles of incorporation may require a greater vote than that provided for in this subsection.
 
@@ -4875,7 +4784,7 @@ If a proposed amendment to a social purpose corporation's articles of incorporat
 
 
 
-## <a name="rcw23B.25.110">RCW 23B.25.110</a> Selling, leasing, exchanging, or disposing of property -- Voting requirements.
+## <a name="rcw23B.25.110">RCW 23B.25.110</a>: Selling, leasing, exchanging, or disposing of property -- Voting requirements.
 
 (1) In addition to approval in accordance with RCW [23B.12.020](#rcw23B.12.020), a proposed transaction in which the social purpose corporation is to sell, lease, exchange, or otherwise dispose of all, or substantially all, of its property, otherwise than in the usual and regular course of business, must be approved by two-thirds of the voting group comprising all the votes entitled to be cast on the transaction, and by two-thirds of the holders of the outstanding shares of each class or series, voting as separate voting groups, and of each other voting group entitled under the articles of incorporation to vote separately on the proposed transaction. The articles of incorporation may require a greater vote than that provided for in this section.
 
@@ -4883,7 +4792,7 @@ If a proposed amendment to a social purpose corporation's articles of incorporat
 
 
 
-## <a name="rcw23B.25.120">RCW 23B.25.120</a> Shareholder dissent -- Payment of fair value, when.
+## <a name="rcw23B.25.120">RCW 23B.25.120</a>: Shareholder dissent -- Payment of fair value, when.
 
 In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.020)(1), a shareholder is entitled to dissent from, and obtain payment of the fair value of the shareholder's shares in the event of, any of the following corporate actions:
 
@@ -4895,7 +4804,7 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 
 
-## <a name="rcw23B.25.130">RCW 23B.25.130</a> Corporation converting to a social purpose corporation -- Conditions -- Election.
+## <a name="rcw23B.25.130">RCW 23B.25.130</a>: Corporation converting to a social purpose corporation -- Conditions -- Election.
 
 (1) Any corporation that is not a social purpose corporation may elect to become a social purpose corporation if, pursuant to the proposed election, each of the following conditions are met:
 
@@ -4919,7 +4828,7 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 
 
-## <a name="rcw23B.25.140">RCW 23B.25.140</a> Corporation ceasing to be a social purpose corporation -- Conditions -- Election.
+## <a name="rcw23B.25.140">RCW 23B.25.140</a>: Corporation ceasing to be a social purpose corporation -- Conditions -- Election.
 
 (1) Any social purpose corporation may elect to cease to be a social purpose corporation if, pursuant to the proposed election, each of the following conditions are met:
 
@@ -4943,7 +4852,7 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 
 
-## <a name="rcw23B.25.150">RCW 23B.25.150</a> Social purpose report required -- Timing -- Information -- Failure to comply.
+## <a name="rcw23B.25.150">RCW 23B.25.150</a>: Social purpose report required -- Timing -- Information -- Failure to comply.
 
 (1) The board of directors of a social purpose corporation shall cause a social purpose report to be furnished to the shareholders by making such report publicly accessible, free of charge, at the corporation's principal internet web site address, not later than four months after the close of the corporation's fiscal year, and such report shall remain available on that web site through the end of the corporation's fiscal year.
 
@@ -4965,7 +4874,7 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 
 
-## <a name="rcw23B.900">Chapter 23B.900 RCW</a> CONSTRUCTION
+## <a name="rcw23B.900">Chapter 23B.900 RCW</a>: CONSTRUCTION
 
 ### RCW Chapter Sections
 
@@ -4976,7 +4885,7 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 - [23B.900.040](#rcw23B.900.040) Effective date -- 1989 c 165. 
 - [23B.900.050](#rcw23B.900.050) Section headings -- 1989 c 165. 
 
-## <a name="rcw23B.900.010">RCW 23B.900.010</a> Savings provisions -- 1989 c 165.
+## <a name="rcw23B.900.010">RCW 23B.900.010</a>: Savings provisions -- 1989 c 165.
 
 (1) Except as provided in subsection (2) of this section, the repeal of a statute by this title does not affect:
 
@@ -4992,25 +4901,25 @@ In addition to the corporate actions set forth in RCW [23B.13.020](#rcw23B.13.02
 
 
 
-## <a name="rcw23B.900.020">RCW 23B.900.020</a> Severability -- 1989 c 165.
+## <a name="rcw23B.900.020">RCW 23B.900.020</a>: Severability -- 1989 c 165.
 
 If any provision of this title or its application to any person or circumstance is held invalid by a court of competent jurisdiction, the invalidity does not affect other provisions or applications of the title that can be given effect without the invalid provision or application, and to this end the provisions of the title are severable.
 
 
 
-## <a name="rcw23B.900.030">RCW 23B.900.030</a> Repealer -- 1989 c 165.
+## <a name="rcw23B.900.030">RCW 23B.900.030</a>: Repealer -- 1989 c 165.
 
 See 1989 c 165 § 204.
 
 
 
-## <a name="rcw23B.900.040">RCW 23B.900.040</a> Effective date -- 1989 c 165.
+## <a name="rcw23B.900.040">RCW 23B.900.040</a>: Effective date -- 1989 c 165.
 
 This title shall take effect July 1, 1990.
 
 
 
-## <a name="rcw23B.900.050">RCW 23B.900.050</a> Section headings -- 1989 c 165.
+## <a name="rcw23B.900.050">RCW 23B.900.050</a>: Section headings -- 1989 c 165.
 
 Section headings as used in this title do not constitute any part of the law.
 
