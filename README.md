@@ -18,7 +18,7 @@ The Result
 
 If you don't care about how it's done and just want the RCW 23B markdown:
 
-[RCW 23B Markdown](https://raw.githubusercontent.com/payneio/rcw23b/master/RCW_23B.md)
+[RCW 23B Markdown](https://github.com/payneio/rcw23b/blob/master/RCW_23B.md)
 
 Installation
 ------------
