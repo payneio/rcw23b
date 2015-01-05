@@ -32,4 +32,6 @@ make md
 Dependencies
 ------------
 wget
+tr
+sed
 
