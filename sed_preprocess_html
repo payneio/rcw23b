@@ -4,6 +4,15 @@ s|</STRONG>|</B>|gI
 s|</BR>|<BR>|gI
 s|<BR/>|<BR>|gI
 s|\s*target="_blank"\s*||gI
+s|<h1[^>]*>|<H1>|gI
+s|<h2[^>]*>|<H2>|gI
+s|<h3[^>]*>|<H3>|gI
+s|</h1>|</H1>|g
+s|</h2>|</H2>|g
+s|</h3>|</H3>|g
 
 # fix some rcw html errors
 s|name=rcw"|name="rcw|g
+
+# adjust some other rcw html
+s|<H2>RCW SECTIONS</H2>|<H3>RCW Chapter Sections</H3>|gI
