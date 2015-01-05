@@ -18,9 +18,9 @@ The Result
 
 If you don't care about how it's done and just want a more readale RCW 23B:
 
-[RCW 23B Markdown](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.md)
-[RCW 23B PDF](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.pdf)
-[RCW 23B HTML](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.html)
+- [RCW 23B Markdown](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.md)
+- [RCW 23B PDF](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.pdf)
+- [RCW 23B HTML](https://github.com/payneio/rcw23b/blob/master/dist/RCW_23B.html)
 
 Installation
 ------------
